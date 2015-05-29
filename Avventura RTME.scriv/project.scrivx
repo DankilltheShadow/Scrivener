@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.0" Creator="SCRWIN-1.8.6.0">
+    <Binder>
+        <BinderItem ID="0" Created="2015-05-21 13:40:33 +0000" Modified="2015-05-21 13:40:33 +0000" Type="DraftFolder">
+            <Title>Bozza</Title>
+            <MetaData>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings/>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="4" Created="2015-05-21 13:51:20 +0000" Modified="2015-05-21 13:52:23 +0000" Type="Folder">
+                    <Title>Bonfire camp</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="5" Created="2015-05-21 13:52:31 +0000" Modified="2015-05-21 13:52:46 +0000" Type="Folder">
+                            <Title>PNG</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="6" Created="2015-05-21 13:53:00 +0000" Modified="2015-05-21 13:57:59 +0000" Type="Text">
+                            <Title>Descrizione campagna</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="3" Created="2015-05-21 13:54:32 +0000" Modified="2015-05-28 23:29:12 +0000" Type="Folder">
+                    <Title>Avventura</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="12" Created="2015-05-28 22:43:58 +0000" Modified="2015-05-28 22:44:46 +0000" Type="Folder">
+                            <Title>L'inizio</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem ID="13" Created="2015-05-28 22:44:53 +0000" Modified="2015-05-28 22:45:15 +0000" Type="Text">
+                                    <Title>Bonfire Camp</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="14" Created="2015-05-28 22:46:23 +0000" Modified="2015-05-28 22:47:09 +0000" Type="Text">
+                                    <Title>Su</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="7" Created="2015-05-21 13:56:54 +0000" Modified="2015-05-28 22:37:20 +0000" Type="Text">
+                    <Title>Appunti vari</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>6100,6100</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="8" Created="2015-05-21 19:30:17 +0000" Modified="2015-05-21 20:53:23 +0000" Type="Text">
+                    <Title>punteggi PG</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>87,87</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="9" Created="2015-05-25 23:20:54 +0000" Modified="2015-05-26 00:17:22 +0000" Type="Text">
+                    <Title>Calendario</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>10377,10377</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="11" Created="2015-05-25 23:36:13 +0000" Modified="2015-05-26 00:01:00 +0000" Type="Text">
+                    <Title>Regole</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>15562,15562</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="10" Created="2015-05-21 13:14:36 +0000" Modified="2015-05-25 23:33:56 +0000" Type="Image">
+            <Title>faerunlarge</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <FileExtension>jpg</FileExtension>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+            </MetaData>
+            <MediaSettings>
+                <ImageScaleFactor>0.93</ImageScaleFactor>
+                <ImageScalesProportionally>No</ImageScalesProportionally>
+            </MediaSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings/>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="1" Created="2015-05-21 13:40:33 +0000" Modified="2015-05-21 13:40:33 +0000" Type="ResearchFolder">
+            <Title>Ricerca</Title>
+            <MetaData>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings/>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="2" Created="2015-05-21 13:40:33 +0000" Modified="2015-05-21 13:40:33 +0000" Type="TrashFolder">
+            <Title>Cestino</Title>
+            <MetaData>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings/>
+            </CorkboardAndOutliner>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="c912f29a-1bf2-4d09-96b4-70e49b0c72ae" Color="0.901961 0.917647 0.933333">
+            <Title>Raccoglitore</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="7128559e-1d07-415d-a491-f89c68b360dd" Color="0.901961 0.901961 0.980392">
+            <Title>Risultati Ricerca</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Etichetta</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">Nessuna etichetta</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concetto</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Capitolo</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Stato</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">Nessuno Stato</Status>
+            <Status ID="0">N/D</Status>
+            <Status ID="1">Da fare</Status>
+            <Status ID="2">Prima Bozza</Status>
+            <Status ID="3">Bozza revisionata</Status>
+            <Status ID="4">Bozza definitiva</Status>
+            <Status ID="5">Fatto</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectProperties/>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+    </ProjectTargets>
+    <PrintSettings PaperType="A4" LeftMargin="17.0363" RightMargin="17.1213" TopMargin="11.9906" BottomMargin="12.2457" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
