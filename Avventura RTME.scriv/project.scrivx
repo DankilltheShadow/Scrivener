@@ -133,14 +133,14 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="22" Created="2015-06-04 18:00:15 +0000" Modified="2015-06-04 18:05:47 +0000" Type="Text">
+                                <BinderItem ID="22" Created="2015-06-04 18:00:15 +0000" Modified="2015-06-04 21:43:10 +0000" Type="Text">
                                     <Title>Arbusti</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1,1</TextSelection>
+                                        <TextSelection>17,17</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>

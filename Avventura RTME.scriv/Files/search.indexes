@@ -89,11 +89,11 @@ Storie su eventi regione. Sespesh.</Text>
         </Document>
         <Document ID="8">
             <Title>punteggi PG</Title>
-            <Text>Becocci 	72	Esploratore
-Tara		78
-Emilio	72	Ladro
-Scaccio	76
-Pana		77	chierico di tyce
+            <Text>Becocci 	72	Esploratore		elfo della lune	Erendil Carillon
+Tara		78	Guerriero		Rashemi		Randall
+Emilio	72	Mago
+Scaccio	76	monaco			Mulan	Yan Guan
+Pana		77	chierico di ogma		elfo del sole	Erendir
 
 </Text>
         </Document>
@@ -501,7 +501,9 @@ Se si accampano nei pressi durante la notte, vengono attaccati da 2 arbusti mali
         </Document>
         <Document ID="22">
             <Title>Arbusti</Title>
-            <Text>￼</Text>
+            <Text>￼
+10   5pf 
+8	5pf</Text>
         </Document>
         <Document ID="23">
             <Title>Cittadella senza sole</Title>
