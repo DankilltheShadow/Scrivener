@@ -179,14 +179,14 @@
                         <CorkboardSettings/>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="8" Created="2015-05-21 19:30:17 +0000" Modified="2015-05-21 20:53:23 +0000" Type="Text">
+                <BinderItem ID="8" Created="2015-05-21 19:30:17 +0000" Modified="2015-06-04 20:08:03 +0000" Type="Text">
                     <Title>punteggi PG</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>87,87</TextSelection>
+                        <TextSelection>85,85</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
