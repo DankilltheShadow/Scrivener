@@ -91,7 +91,7 @@ Storie su eventi regione. Sespesh.</Text>
             <Title>punteggi PG</Title>
             <Text>Becocci 	72	Esploratore		elfo della lune	Erendil Carillon
 Tara		78	Guerriero		Rashemi		Randall
-Emilio	72	Mago
+Emilio		72	Mago
 Scaccio	76	monaco			Mulan	Yan Guan
 Pana		77	chierico di ogma		elfo del sole	Erendir
 
@@ -113,6 +113,8 @@ Pana		77	chierico di ogma		elfo del sole	Erendir
 	xx/xx    T.C.O.	Avventura a spasso nel tempo. (Vash)
 
 1375
+	01/01	T.C.O.	I nostri 4 eroi: Yan Guan, il monaco, Erendir, il chierico, Erendil, l’esploratore e Randall, il guerriero, partono dalla città di Bonfire Camp in direzione Collecorno per cercare informazioni sulla loro missione.
+	02/01	T.C.O.	Vengono attaccati durante la notte da delle strane piante animate, la mattina appare di fronte al loro cammino uno gnoll ferito.
 	03/01	Innarlith	Maximus sbarca ad Innarlith.
 
 		Sespech		Apros Diallage, Aslatiel Mirrah, Euron, Dirk Arkain, Matrim Cauthon e Xantos di Erebos si risvegliano in piena notte nel bel mezzo delle 							Pianure Dorate.
@@ -459,12 +461,15 @@ C’è solo una locanda in città La penna arruffata</Text>
             <Title>Immagini</Title>
         </Document>
         <Document ID="18">
-            <Title>Introduzione</Title>
-            <Text>1 Gennaio (Hammer-profondo inverno) 1375</Text>
+            <Title>Riassunto</Title>
+            <Text>1 Gennaio (Hammer-profondo inverno) 1375
+	Partenza per missione
+2 Gennaio
+	Attacco notturno piante e Ritrovato Gnoll la mattina</Text>
         </Document>
         <Document ID="19">
             <Title>Collecorno</Title>
-            <Text>Winds Walk - sentiero per arrivare al villaggio, solitamente sicor da umanoidi mostruosi
+            <Text>Winds Walk - sentiero per arrivare al villaggio, solitamente sicuro da umanoidi mostruosi
 
 Un altro gruppo si avventurieri è sceno nella cittadella. Due membri erano fratello e sorella Talgen Hucrele (un guerriero) e Sharwyn Hucrele (una maga). Erano membri di una importante famiglia mercantile di Ilipur. Kerowyn Hucrele, la matriarca della famiglia, decide di assoldare I PG per una missione di salvateggio allo scopo di recuperare I parenti dispersi, o perlomeno I due anelli d’oro con sigillo che indossavano. Offre 125 MO per ciascun anello ad ogni PG, il doppio se riportano I 2 fratelli sani e salvi.
 
@@ -483,7 +488,7 @@ La Strada Rossa inoltre fiancheggia la Landa Cinerea, una terra priva di forme d
 Di questi tempi I mandriani non si spingono molto lontani per far pascolare il proprio bestiame. Sono spaventati a morte dalle dicerie su nuovi mostri che saccheggiano la zona col favore delle tenebre. Nessuno ha mai veduto tali creature, nè loro lasciano tracce visibili; ad ogni modo sia la gente che il bestiame che si siano trovati all’aperto durante la notte sono stati trovati morti il giorno seguente, straziati da dozzine di artigli aghiformi.
 Gli avventurieri scomparsi includono un guerriero (Talgen), una maga (Sharwyn), un paladino di Ammaunator (Sir Bradford) e un ranger (Karakas). Sir Bradford non era del luogo e possedeva una spada magica chiamata Spezzapunte, e un grande simbolo di un sole sul petto.
 Talvolta I goblin offrono una mela diversa al solstizio d’inverno. Tale frutto è perfettamente bianco ed è velenoso anche al solo contatto con la pelle.
-Garon, l’oste della Locanda del Vecchio Cinghiale, ricorda ancora quale fu l’ultima volta che qualcuno gli chiese informazioni circa la Cittadella senza sole. Si trattava di un uomo dall’aspetto lugubre di nome Belak che si fermò da lui circa tredici anni or sono; aveva con se una grossa raganella addomesticata.
+Garon, l’oste della Locanda del Vecchio Cinghiale, ricorda ancora quale fu l’ultima volta che qualcuno gli chiese informazioni circa la Cittadella senza sole. Si trattava di un uomo dall’aspetto lugubre di nome Belak che si fermò da lui circa diciassette anni or sono; aveva con se una grossa raganella addomesticata.
 
 
 La distanza dalla cittadella è 10 Km.
@@ -508,7 +513,7 @@ Se si accampano nei pressi durante la notte, vengono attaccati da 2 arbusti mali
         <Document ID="23">
             <Title>Cittadella senza sole</Title>
             <Text>0. Il burrone
-	La Strada Rossa si snoda a est di un angusto burrone. Nel punto in cui essa si affianca a costeggiarlo maggiormente fuoriescono dalla fenditura numerose colonne spezzate; da qui innanzi il burrone si fa via via più profondo e ampio fino a raggiungere le dimensioni di un vero e proprio canyon. Due dei pilastri sono perpendicolari alla strada, ma la maggior parte degli altri si inclina a seguire il declivio. Molti sono rotti o spezzati e alcuni sembrano essere caduti nelle profondità ghermite dalle tenebre. Dal lato opposto del burrone si possono scorgere alcuni pilastri simili a quelli presenti da questa parte.
+	“La Strada Rossa si snoda a est di un angusto burrone. Nel punto in cui essa si affianca a costeggiarlo maggiormente fuoriescono dalla fenditura numerose colonne spezzate; da qui innanzi il burrone si fa via via più profondo e ampio fino a raggiungere le dimensioni di un vero e proprio canyon. Due dei pilastri sono perpendicolari alla strada, ma la maggior parte degli altri si inclina a seguire il declivio. Molti sono rotti o spezzati e alcuni sembrano essere caduti nelle profondità ghermite dalle tenebre. Dal lato opposto del burrone si possono scorgere alcuni pilastri simili a quelli presenti da questa parte.”
 
 Il burrone corre per molti chilometri. Mediamente è profondo 9 metri. Nel punto più vicino alla strada circa 12 metri, vicino alle colonne ancora più in profondità.
 
@@ -525,7 +530,7 @@ Discesa: Corda a nodi, per scendere Scalare (CD 0). Scendono per 15 metri fino a
 
 
 1. Sporgenza
-	Una sporgenza sabbiosa sovrasta un’insenatura sotterranea immersa nelle tenebre a ovest. La sporgenza è larga ma accidentata; sabbia, detriti rocciosi e frammenti di ossa di piccoli animali la ricoprono. Una scala rozzamente scolpita discende a zig zag lungo un fianco della sporgenza, fino a sprofondare completamente nelle tenebre.
+	“Una sporgenza sabbiosa sovrasta un’insenatura sotterranea immersa nelle tenebre a ovest. La sporgenza è larga ma accidentata; sabbia, detriti rocciosi e frammenti di ossa di piccoli animali la ricoprono. Una scala rozzamente scolpita discende a zig zag lungo un fianco della sporgenza, fino a sprofondare completamente nelle tenebre.”
 
 Non è possibile vedere il fondo o l’altra parete perchè troppo lontani. (24m e 75m).
 Cercare (CD 13): Impronte di avventurieri di topi. Inoltre c’è un anello di roccia che contiene I resti di vari fuochi da campo molto vecchi.
@@ -535,14 +540,152 @@ Incontro con 3 topi crudeli: 6,4,3 pf.
 ￼
 
 2.Scale a Zig Zag
-	Al margine del campo visivo si scorge la sommità di una fortezaz che emerge dall’oscurità. La cittadella sotterranea, per quanto impressionante, sembra da lungo tempo dimenticata e a riprova di ciò stanno le finestre buie, le torri inclinate e le merlature spezzate. Tutto tace e una fredda brezza soffia dal basso portando con sé l’odore della polvere e un dolciastro sentore di putrefazione.
+	“Al margine del campo visivo si scorge la sommità di una fortezaz che emerge dall’oscurità. La cittadella sotterranea, per quanto impressionante, sembra da lungo tempo dimenticata e a riprova di ciò stanno le finestre buie, le torri inclinate e le merlature spezzate. Tutto tace e una fredda brezza soffia dal basso portando con sé l’odore della polvere e un dolciastro sentore di putrefazione.”
 
 Le scale sono larghe 1.5 m, di fattura accurata, se si corre Equilibrio (CD 13), se si subisce 5+ danni Equilibrio (CD 10), o si precipita. 6d6, 4d6, 2d6.
 
 
 3.Il cortile in rovina
-	La stretta scalinata si riversa in un piccolo cortile, apparente sommità di quello che fu un tempo un bastione merlato. La cittadella sepolta è sprofondata a tal punto nella terra che I suoi bastioni sono ora al livello della base della caverna. Il pavimento si allarga verso nord e berso sud ed è apparentemente composto da uno strato di macerie pericolanti che si estende fino ad un’inimmaginabile profondità. Verso ovest si intravede la struttura superstite di quella che probabilmente doveva essere la cittadella senza sole. Sul lato ad ovest del cortile si trova una torre.
+	“La stretta scalinata si riversa in un piccolo cortile, apparente sommità di quello che fu un tempo un bastione merlato. La cittadella sepolta è sprofondata a tal punto nella terra che I suoi bastioni sono ora al livello della base della caverna. Il pavimento si allarga verso nord e berso sud ed è apparentemente composto da uno strato di macerie pericolanti che si estende fino ad un’inimmaginabile profondità. Verso ovest si intravede la struttura superstite di quella che probabilmente doveva essere la cittadella senza sole. Sul lato ad ovest del cortile si trova una torre.”
 
+Il cortile circondato da macerie contiene una trappola e una porta di legno.
+Se si prova a passare tra le macerie ci si accorge che sono molto instabili, I topi e creature simili si muovono al 25% della loro velocità. Se I PG si addentrano nei detriti Equilibrio (CD 15) per ogni 3 metri. Se fallisce cade in una buca di detriti, per uscire prov di Scalare (CD 15).
+Ogni fallimento 10% di possibilità di richiamare un Topo crudele.
+Trappola (LI 1/2): trappola a fossa, un passaggio di circa 30 cm consente il passagio sicuro. Ritorna come prima dopo 3d6 round
+Profondità 3m, 1d6, Riflessi (CD 16) nega, Cercare (CD 21), Disattivare (CD 20).
+Dentro la trappola c’è 2 goblin scheletrici morti da tempo, 1 goblin morto da circa 1 giorno (quest’ultimo ha 23 mo e 24 ma) e un ratto crudele vivo che attacca immediatamente chi cade e rimane cosiente o cerca di uscire e attaccare.
+Topo Crudele (7 pf)
+￼
+
+
+4.Cinta della torre
+	“Quest’area circolare è cosparsa di scheggie di granito frantumate, sopra le quali sono accasciati I corpi di quattro goblin, apparentemente uccisi in combattimento. Uno di essi si trova adagiato con la schiena contro il muro ad ovest, con la lancia che lo ha ucciso ancor saldamente infissa nel petto, a sorreggerlo come una macabra marionetta. Tre porte di legno si aprono su questa zona. Al di sopra, un torrione cavo di muratura sconnessa raggiunge circa I 9 metri d’altezza, ma ogni traccia di scale e pavimenti itermedi è da tempo svanita, eccezion fatta per un paio di sporgenze.”
+
+Un’indagine più accurata rivela che I corpi dei goblin sono morti da circa un mese e che I topi hanno fatto di loro un macabro pasto. I corpi sono stati privati di ogni oggetto di valore, ma possiedono ciascuno una spada corta.
+Se qualcuno si prendesse la briga di rimuovere la lancia che trappassa il goblin, rivelerebbe alle spalle di quest’ultimo una serie di rune profondamente incavate dall’aspetto impressionante. Coloro che conoscono il draconico sono in grado di riconoscere la parola “Mist” (Nebbia).
+
+
+5.La nicchia segreta
+	I personaggi possono accedere tramite una porta segreta, Cercare (CD 16). Gli elfi che si trovano a 1,5 metri effettuano la prova in automatico. La porta ha una trappola.
+Trappola (1 danno), Riflessi (CD 16) nega, Cercare (CD 21) Disattivare (CD 20)
+“Questa nicchia segreta è umida e fredda. Gli scheletri di tre arcieri morti da lungo tempo sono accasciati contro delle feritoie intasate dai detriti nelle pareti a sud e ad est della stanza”
+
+Se I PG entrano nella stanza gli scheletri si animano.
+ “Minuscoli globi che emanano una luminescenza rossastra si accendono nelle loro orbite”
+3 Scheletri (9 pf ciascuno)
+￼
+
+
+
+6. Il vecchio accesso
+	“Le massicce pareti in muratura di questa sala larga 6 metri si sono conservate in maniera tutt’altro che buona, ma l’estremità più lontana versa in condizioni pessime, dal momento che è quasi completamente collassata su se stessa riempiendo di macerie la seiozne a sud della stanza. Il muro ad ovest è quello che si è conservato meglio e ospita una porta di pietra che mostra l’altorilievo di un drago rampante. La porta ha una sola serratura situata nelle fauci spalancate del drago.”
+
+La porta è chiusa a chiave e può essere aperta con Prova di Forza CD 36 o con la chiave apposità, nell’area 21.
+Un topo crudele si annida tra le macerie, Osservare CD 25. Se si tenta di colpire il topo mentre è ancora rintanato il topo ha +2 CA e +1 TS Riflessi.
+Topo Crudele: 6 pf
+￼
+
+
+7. Galleria delle note dimenticate
+Non appena la porta si apre un rumore sibilante e uno sbuffo di polvere palesano che la stanza è rimasta sigillata per ere.
+
+	“La polvere di secoli, intonsa, ricopre ogni superficie in questa vasta galleria. Tre alcove sono scavate nel muro a nord e una in quello a sud; ciascuna di esse contiene un piedistallo di pietra impolverato con sopra un globo di cristallo delle dimensioni di un pugno. Sebbene I globi delle alcove a nord giacciano frantumati e spenti, quello nell’alcova a sud, perfettamente integro, emana una leggera luminescenza bluastra. Dal globo si diffonde nella stanza una musica ovattata.”
+
+I pg notano uno strato spesso di polvere e l’aria stantia
+Trappola: Se ci si avvicina a meno di 1,5 metri dal globo la musica aumenta di intensità fino a 6 metri oltre le porte aperte. Per 5 minuti. Volontà (CD 18) ogni 10 round o si fugge alla massima velocià verso l’aera 3. Se ci si tappa gli orecchi +2 TS, se si cerca di tappare il globo +1 TS di tutti. Una volta raggiunta l’area 3 I personaggi colpiti si fermano e si tappano le orecchie per 10 round. L’effetto cessa immediatamente se si tenta di rompere il globo. Se il globo viene toccato radoppia la sua intensità (CD 23) ogni round invece che ogni 10. Ogni tentativo magico riduce il raggio a 3 metri dal globo. La rimozione del globo dalla stanza lo priva di ogni potere.
+
+
+8. Piastra a pressione
+9. L’indovinello del drago
+10. Guardia d’onore
+11. Stanza segreta
+12. Sepolcro di un sacerdote del drago decaduto
+
+CORRIDOIO VERSO 15-GUARDARE 14
+13. Vuota.
+	“Questa stanza in rovina non contiene altro che detriti rocciosi”
+	
+	Ottimo luogo per dormire indisturbati.
+
+14. Riserva d’acqua incantata
+	Il bassorilievo presente sulla porta di pietra che sigilla questa stanza raffigura un pesce simile a un drago, che nuota in un ambiente acquatico.
+	Scassinare Serrature CD 21
+
+	“Questa stanza quadrata con lato di 3 metri, è stata scavata nella roccia. Contiene un barile di ferro ormai arrugginito. Dei tubi di metallo, anch’essi arrugginiti, si dipartono dal barile e scompaiono nel pavimento”
+
+	Se cercano di aprire il barile tramite un grosso tappo metallico che si trova in cima (CD 18 Forza) o sfondano il barile (CD 18) esce il mephit dell’acqua
+	Mephit dell’acqua 15 pf
+￼
+
+
+15. Fuggito dalla gabbia
+	“Simboli e glifi rozzamente eseguiti con una vivace tinta verde decorano quest stanza di forma irregolare e dalle pareti la cui superficie sembra sbriciolarsi al minimo contatto. Una grande buca al centro della stanza mostra chiari segni di un recente falò. Una gabbia metallica si erge vuota al centro della parete meridionale, con una visibile spaccatura al suo interno. Di fronte alla gabbia vi è una piccola panca di legno drappeggiata con tessuto verde; sopra di essa sono appoggiati alcuni piccoli oggetti. Accanto alla panca di legno si corge un giaciglio, dal quale proviene un piagniucolio chiaramente udibile.”
+
+Chi è in grado di leggere il Draconico nota che I simboli sui muri sono rozze versioni che significano “Qui esserci Draghi”.
+La gabbia metallica è divelta e non può essere usata per rinchiudere prigionieri, se si cerca all’interno si possono trovare escrementi, Sopravivvenza o Conoscenze Natura fa capire che non appartengono a nessun animale naturale.
+Se si esamina la fossa si trova dei frammenti di armature e ossa di coboldi.
+
+Il coboldo nel giaciglio non ha nessuna reazione a meno di forti rumori, o se scosso violentemente. Si tratta di Meepo, il custode dei Draghi. Se viene svegliato reagisce con terrore, e scappa verso la stanza 16, se parlano col coboldo riescono automaticamente a pasare una prova di Diplomazia per parlare con Meepo. Il coboldo è piagnucoloso e intimorito. Accetta di rispondere a delle domande. Il suo corpo è segnato da numerose cicatrici che sono “ricordi” del suo ruolo di custode dei draghi:
+Domande riguardo la gabbia: “ Il drago del clan… abbiamo perso il nostro drago. Quegli spregievoli goblin hanno rubato Calcryx, il nostro drago!”
+Ogni altra domanda: “Meepo non lo sa, ma il capo si. Meepo vi porta a conoscere il capo, Yusdrayl, se fate I bravi. Indicare passaggio sicuro, se promettere di salvare drago, capo è buono, rispondere alle domande”
+
+Fedele alla sua parola cercherà di portare I PG dal capo senza farli attaccare da altri coboldi, tuttavia se attaccano apertamente o macchinano contro di essi allora la sua parola viene meno.
+
+Meepo 2pf
+￼
+
+Tesoro: Una prova di Cercare (CD 19) rivela una statuetta di giada a forma di drago (15 mo) nella fossa della pira funebre. La panca è utlizzata come altare, su di essa vi sono contenitori di tintura verde, un pennello con setole di golbin e quattro statue di giada a forma di drago (15 mo l’una)
+
+16. Buttafuori Coboldi
+	Sono stanze con guardie di coboldi.
+	“Il fetore di troppi corpi, in una stanza troppo piccola per troppo tempo, satura l’aria. Un piccolo focolare si trova al centro della stanza composto da frammenti di muratura e statue rotte, ricavati a discapito dell’integrità della stanza. Ammucchiati intorno al fuoco giacciono degli stracci coperti di peli e di funghi mari. Alcuni umanoidi bassi, cornuti e dalla pelle squamosa vivono in questa stanza.”
+
+Per non farsi sentire dai coboldi Muoversi silenziosamente (CD 12, modificata dalla prova di ascoltare dei coboldi all’interno)
+17. Cibo per draghi
+18. Prigionieri di guerra
+19. Sala dei draghi
+20. Colonia di coboldi
+21. Il trono del drago
+22. Dispensa
+23. Accesso al Sottosuolo
+24. Accesso con trappola
+25. Desolazione
+26. Fontana asciutta
+27. Santuario
+28. Celle infestate
+29. Vecchie trappole
+30. Mamma topo
+31. Sala dei triboli
+32. Il cancello dei goblin
+33. Zona di tiro
+34. Prigione goblin
+35. Corridoio con trappola
+36. Banditi goblin
+37. Stanza dei trofei
+38. Passaggio goblin
+39. Caligine di Drago
+40. La città dei goblin
+41, Sala del capo goblin
+</Text>
+        </Document>
+        <Document ID="24">
+            <Title>Zugzw, mezzagamba</Title>
+            <Text>Gnoll ritrovato nelle terre selvagge
+
+DV: 2d8+2 (9pf)
+I: +0		V: 9m (6q)
+CA: 15, Contatto: 10, Sprovv: 15
+AttB/Lotta: +1/+3
+Sp/Por: 1,5m/1,5m
+Q.S.: Scurovisione 18m
+TS: +4 +0 +0
+Car: 15 10 13 8 11 8
+Ab: Ascoltare +2, Osservare +3
+Talenti: Attacco Poderoso
+Mod.Li: +1
+Linguaggi: Comune, Gnoll.
+
+È alto quando è in piedi 2 metri circa, gli manca un pezzo della gamba sx.
 </Text>
         </Document>
     </Documents>

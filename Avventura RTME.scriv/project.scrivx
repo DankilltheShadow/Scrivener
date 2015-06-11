@@ -147,14 +147,28 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="23" Created="2015-06-04 18:04:48 +0000" Modified="2015-06-11 18:03:01 +0000" Type="Text">
+                                <BinderItem ID="23" Created="2015-06-04 18:04:48 +0000" Modified="2015-06-11 18:56:34 +0000" Type="Text">
                                     <Title>Cittadella senza sole</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9915,9915</TextSelection>
+                                        <TextSelection>12308,12308</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="24" Created="2015-06-11 18:31:59 +0000" Modified="2015-06-11 18:36:10 +0000" Type="Text">
+                                    <Title>Zugzw, mezzagamba</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>367,367</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
