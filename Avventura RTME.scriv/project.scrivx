@@ -91,28 +91,28 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="18" Created="2015-06-03 23:55:52 +0000" Modified="2015-06-04 09:50:13 +0000" Type="Text">
-                                    <Title>Introduzione</Title>
+                                <BinderItem ID="18" Created="2015-06-03 23:55:52 +0000" Modified="2015-06-11 15:43:36 +0000" Type="Text">
+                                    <Title>Riassunto</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>34,34</TextSelection>
+                                        <TextSelection>127,127</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="19" Created="2015-06-04 12:15:55 +0000" Modified="2015-06-04 18:04:34 +0000" Type="Text">
+                                <BinderItem ID="19" Created="2015-06-04 12:15:55 +0000" Modified="2015-06-11 17:38:47 +0000" Type="Text">
                                     <Title>Collecorno</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3307,3307</TextSelection>
+                                        <TextSelection>2944,2944</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -147,14 +147,14 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="23" Created="2015-06-04 18:04:48 +0000" Modified="2015-06-04 19:11:10 +0000" Type="Text">
+                                <BinderItem ID="23" Created="2015-06-04 18:04:48 +0000" Modified="2015-06-11 18:03:01 +0000" Type="Text">
                                     <Title>Cittadella senza sole</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2910,2910</TextSelection>
+                                        <TextSelection>9915,9915</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -179,28 +179,28 @@
                         <CorkboardSettings/>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="8" Created="2015-05-21 19:30:17 +0000" Modified="2015-06-04 20:08:03 +0000" Type="Text">
+                <BinderItem ID="8" Created="2015-05-21 19:30:17 +0000" Modified="2015-06-11 15:42:37 +0000" Type="Text">
                     <Title>punteggi PG</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>85,85</TextSelection>
+                        <TextSelection>102,102</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <CorkboardSettings/>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="9" Created="2015-05-25 23:20:54 +0000" Modified="2015-06-03 20:47:59 +0000" Type="Text">
+                <BinderItem ID="9" Created="2015-05-25 23:20:54 +0000" Modified="2015-06-11 15:42:28 +0000" Type="Text">
                     <Title>Calendario</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2395,2395</TextSelection>
+                        <TextSelection>908,908</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
