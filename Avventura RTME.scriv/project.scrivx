@@ -105,14 +105,14 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="19" Created="2015-06-04 12:15:55 +0000" Modified="2015-06-11 17:38:47 +0000" Type="Text">
+                                <BinderItem ID="19" Created="2015-06-04 12:15:55 +0000" Modified="2015-06-11 20:13:19 +0000" Type="Text">
                                     <Title>Collecorno</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2944,2944</TextSelection>
+                                        <TextSelection>2767,2767</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -154,15 +154,15 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>12308,12308</TextSelection>
+                                        <TextSelection>1391,1391</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="24" Created="2015-06-11 18:31:59 +0000" Modified="2015-06-11 18:36:10 +0000" Type="Text">
-                                    <Title>Zugzw, mezzagamba</Title>
+                                <BinderItem ID="24" Created="2015-06-11 18:31:59 +0000" Modified="2015-06-11 19:58:34 +0000" Type="Text">
+                                    <Title>Zugzw, mezzazampa</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -281,7 +281,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="10" Created="2015-05-21 13:14:36 +0000" Modified="2015-05-25 23:33:56 +0000" Type="Image">
+        <BinderItem ID="10" Created="2015-05-21 13:14:36 +0000" Modified="2015-06-11 20:21:45 +0000" Type="Image">
             <Title>faerunlarge</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -290,7 +290,7 @@
                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
             </MetaData>
             <MediaSettings>
-                <ImageScaleFactor>0.93</ImageScaleFactor>
+                <ImageScaleFactor>1.27</ImageScaleFactor>
                 <ImageScalesProportionally>No</ImageScalesProportionally>
             </MediaSettings>
             <CorkboardAndOutliner>
