@@ -475,12 +475,13 @@ Un altro gruppo si avventurieri è sceno nella cittadella. Due membri erano frat
 
 
 Collecorno - piccolo paese, principalmente NB, 901 persone miste (79% umani, 9% halfling, 5% elfi, 3% nani, 2% gnomi, 1% mezzelfi, 1% mezzorchi)
-	Sindaco: Vurnor Leng, umano Aristocratico 7.
+	Sindaco: 		Vurnor Leng, umano Aristocratico 7.
 	PNG importanti:	Dem ‘turacciolo’ Nackle, gnoma Chierico 4 (Lathander/guaritrice)
 		   	Felosial, mezzelfa Commerciante 3 (Conestabile)
 			Ben, Lu, Jym e Roda, umani Commercianti 4 (delegati)
-			Rurik Lutgehr, nano Esperto 3 (Fabbro)
+			Rurik Lutgehr, mezz’orco Esperto 3 (Fabbro)
 			Garon, umano Esperto 3 (oste Locanda del vecchio cinghiale)
+			Furinfin, elfo del sole chierico 4 (Corellon), Arpista
 
 Raccogliere Informazioni: (CD 10) o mediante l’interpretazione
 La Strada Rossa passa molto vicino alle rovine (città senza sole), ma è caduta in disuso molto tempo addietro a causa delle frequenti scorrerie dei goblin. Nessuno sa per certo cosa fosse un tempo la Cittadella, ma alcune voci non confermate dicono che servisse da rifugio per il culto di un antico drago.
@@ -637,20 +638,135 @@ Meepo 2pf
 Tesoro: Una prova di Cercare (CD 19) rivela una statuetta di giada a forma di drago (15 mo) nella fossa della pira funebre. La panca è utlizzata come altare, su di essa vi sono contenitori di tintura verde, un pennello con setole di golbin e quattro statue di giada a forma di drago (15 mo l’una)
 
 16. Buttafuori Coboldi
+	Aprire le porte attivana una trappola: Freccia TxC +2 (1d6, crit x3). Cercare (CD 20), DisCon (CD 19)
+
 	Sono stanze con guardie di coboldi.
 	“Il fetore di troppi corpi, in una stanza troppo piccola per troppo tempo, satura l’aria. Un piccolo focolare si trova al centro della stanza composto da frammenti di muratura e statue rotte, ricavati a discapito dell’integrità della stanza. Ammucchiati intorno al fuoco giacciono degli stracci coperti di peli e di funghi mari. Alcuni umanoidi bassi, cornuti e dalla pelle squamosa vivono in questa stanza.”
 
-Per non farsi sentire dai coboldi Muoversi silenziosamente (CD 12, modificata dalla prova di ascoltare dei coboldi all’interno)
+Per non farsi sentire dai coboldi Muoversi silenziosamente (CD 12, modificata dalla prova di ascoltare dei coboldi all’interno).
+
+I 3 coboldi al loro interno Faranno agire sempre prima I PG. E’ possibile una prova di Diplomazia:
+-4 penalità automatica
+-8 se non conoscono draconico o goblin
++14 se con Meepo (CD20)
+-1 per ogni coboldo ucciso
+Se la prova di Diplomazia ha successo I coboldi indicheranno ai PG la via per raggiungere “Yusdayl sul suo trono del drago” consigliando loro di non scatenare l’ira delle guardie d’onore
+
+Buttafuori coboldi (3): 4pf, 2d10 ma
+￼
+
 17. Cibo per draghi
+	“Topi ed escrementi di topo riempiono la stanza. Una piccola barriera impedisce loro di fuggire con facilità”
+
+Dopo 1 round rosicchiano le barriere e attaccano.
+
+Topi delle caverne (8): 2pf
+￼
+
 18. Prigionieri di guerra
+	Le porte sono bloccate da una sbarra di ferro facilmente rimovibile. Inoltre sono chiuse a chiave (Scassinare Serrature CD 20). Se si prova a scassinare la porta nell’area 19 I coboldi si agitano e chiedono immediatamente spiegazioni. Se si continua la tregua rischia di finire.
+
+	“Quattro piccoli umanoidi sono incatenati in questa stanza sudicia e ciascuna di esse è attaccata saldamente ad uno spuntone di ferro piantato nel pavimento. Alcuni scudi distrutti e delle armi spezzate giacciono in un angolo”
+
+I goblin appena vedono I PG inizieranno a piagniucolare e a rannicchiarsi in un angolo. Uno di loro parla comune. Per liberarli serve la chiave che ha Yusdrayl o provare a spezzare le catene (CD 26).
+I goblin promettono letteralmente tutto ma difficilmente manterranno la promessa e non sono in grado di portare I PG dal loro capo.
+
 19. Sala dei draghi
+	“Come nel resto del complesso, anche qui regnano il degrado e il declino. Tuttavia, una doppia fila di colonne di marmo decorate con bassorilievi attraversa la lunghezza della sala. Le incisioni sulle colonne raffigrano draghi intrecciati. Tre piccoli umanoidi cornuti pattugliano costantemente l’area”
+
+Le colonne non hanno niente di speciale.
+Una guardia di elite di 3 coboldi pattuglia l’area. Solitamente controllano attentamente la porta 24.
+Diplomazia:
++7 se ci si dichiara nemici dei goblin.
++5 se si portano prove di trofei goblin.
+Se accompagnati da Meepo si passa in automatico.
+Se si passa la diplomazia si viene indirizzati da Yusdayl.
+
+Ostili:
+Si ricevono ogni 2 round rinforzi dalle aree 20,21,23 e l’unica 16 che si affaccia (3 coboldi a volta).
+Yusdrayl prende parte al combattimento dopo 4 round.
+
+Buttafuori coboldi (3): 4pf
+￼
+
 20. Colonia di coboldi
+La porta di legno (CD 25 per sfondarla) è sbarrata dall’interno. I PG possono entrare fornendo la parola d’ordine (’Pestacalli’ in draconico) o con una prova di Raggirare (CD 20).
+
+	“Numerosi fuochi da campo, piccoli ma fumosi, illuminano questa ampia e alta sala. Sputi, rastrelliere per la concia e altri oggetti tipici di una cultura primitiva sono visibili attraverso la caligine. Alcune piccole figure sono indaffarate a lavorare e a giocare per la stanza.”
+
+Ci sono 21 coboldi NON combattenti, perchè troppo giovani, vecchi o inesperti. Ad ogni domanda risponderanno “Yusdrayl lo sa”.
+
+Se ostili vedere area 19.
+
+Buttafuori coboldi (3): 4pf
+￼
+
 21. Il trono del drago
+	“Un basso trono si erge vicino al muro occidentale, costruito con frammenti caduti di muratura, ammassati su di un antico altare. Una piccola figura cornuta avvolta da vesti tinte di rosso siede sul trono, protetta da sei creature a lei simili. La cima dell’altare contiene una varietà di piccoli oggetti, mentre la parte dell’altare usata come schienale del trono è incisa con un bassorilievo raffigurante un drago rampante. Una chiave di metallo è saldamente incastrata nella bocca del drago.”
+
+La chiave apre la porta nell’area 7. E I coboldi la vendono per 200mo o come ricompensa per il recupero del drago.
+Gli altri oggetti vengono venduti per 25mo o con baratto di altri oggetti di pari valore.
+
+Yusdrayl è un coboldo femmina, capo dei coboldi e stregone di 3°.
+Risposte che fonisce:
+Perchè I coboldi sono qui? “Come è noto, I coboldi osno discendenti dei draghi. Poichè sono la più potente del mio popolo, ho condotto pochi coraggiosi a questo antico luogo sacro, dove un tempo I draghi erano venerati”. Lei conosce il nome del drago: Mistinarperadnacles Hai Draco.
+Cosa sa dei goblin/ dei frutti/ di Belak? “L’esiliato, vive nelle profondità. Egli fa crescere I frutti, che consegna ai goblin. I goblin ladri di draghi sono suoi servi”
+Creature simili ad arbusti? “Gli arbusti maligni sono animaletti dell’Esiliato. Sono più numerosi nel Bosco del Crepuscolo, più in basso”
+Umani scomparsi? “Hanno combattuto contro I goblin. Non hanno fatto ritorno”
+Drago rubato? “Quei putridi goblin hanno rubato il nostro drago! Se lo riporterete, vi ricompenserò adeguatamente. Meepo vi accompagnerà.”
+
+I coboldi informano che per cercare il drago devono dirigersi al passaggio tra il 15 e il 25. Hanno poche informazioni riguardo il numero di goblin e le tattiche e non sanno esattamente dove possa trovarsi il cucciolo, ne conoscono la strada da percorrere. Se Meepo dovesse essere ucciso, pace.
+
+Gli oggetti ammassati comprendono:
+Una piuma di Quaal (albero)
+Una pergamena arcana di Armatura Magica
+Una pergamena arcana di Movimenti del Ragno
+Una pergamena divina di Luminescenza.
+
+Ostile:
+Yusdrayl lancia prima di tutto armatura magica su se stessa. Poi inizia a colpire con le magie.
+
+Buttafuori coboldi (6): 4pf, 2d10ma
+￼
+
+Yusdrayl: 21pf
+￼
+
 22. Dispensa
+	“L’odore di carne in putrefazione permea la stanza. Numerosi ganci di ferro arrugginito pendono vuoti dal soffitto, ma alcuni reggono le carcasse scorticate di grossi parassiti, enormi gambi di funghi e diversi carapaci di insetti dalle dimensioni mostruose. Un piccolo e consunto ripiano lungo la parete meridionale contiene dei coltelli e altri attrezzi per scuoiare, tutti arrugginiti e pressochè inutilizzabili.”
+
 23. Accesso al Sottosuolo
+	“Pietre, ciottoli e rocce sgretolate sono parzialmente collassate sulla parete est, rivelando un tunnel. Il passaggio è evidentemente di origine naturale e varia ampiamente in altezza, larghezza e direzione, come sono soliti fare tutti I tunnel naturali che si trovano sottoterra. Nell’anticamera lavorata, invece, è appesa alle pareti attrezzatura da caccia e diversi giacigli giacciono sul pavimento.”
+
+Il tunnel conduce in zone remote con altri tunnel e biforcazioni.
+
+Buttafuori coboldi (3): 4pf
+￼
+
 24. Accesso con trappola
+	Non è realmente sorvegliato ma entrambe le porte sono chiuse (Scassinare Serrature CD 20)
+	“Il corridoio è lungo 6 metri e conduce ad un’altra porta chiusa”
+
+	Trappola: Botola nel pavimento, unico passaggio una passerella larga 30 centimentri. I coboldi risistemano a mano la trappola successivamente.
+		Profondità 3 metri (1d6); Cercare (CD 21); Riflessi (CD 16); DisattCong (CD 20)
+
+
 25. Desolazione
+	“Vuota e priva di luce, questa stanza solitaria contiene solo escrementi di topi, pietre sgretolate e macchie di colore indefinito.”
+
+Seguire Tracce/Sopravvivenza: 
+(CD 10) Tracce di topo non più vecchie di un giorno.
+(CD 13) Tracce di 3/4 umanoidi che attraversano la stanza diretti a nord, non più vecchie di 1 mese.
+(CD 18) Diversi umanoidi di taglia media sono passati in questa stanza negli ultimi 6 mesi.
+
+
 26. Fontana asciutta
+	“Polvere e disparati frammenti di detriti rocciosi e pietrisco giacciono sparsi sul pavimento. Una fontana finemente ornata è stata costruita sulla parete orientale. Nonostante sia crepata, macchiata e asciutta, l’incisione sulla fontana, raffigurante un drago in picchiata, conserva tutta la sua bellezza. Sulla parete occidentale si trova invece una porta di pietra decorata con bassorilievi.”
+
+La porta ha delle iscrizioni in draconico e un metodo I apertura (vedi 27).
+Ci sono tracce in maniera analoga a 25.
+
+
 27. Santuario
 28. Celle infestate
 29. Vecchie trappole
@@ -665,7 +781,7 @@ Per non farsi sentire dai coboldi Muoversi silenziosamente (CD 12, modificata da
 38. Passaggio goblin
 39. Caligine di Drago
 40. La città dei goblin
-41, Sala del capo goblin
+41. Sala del capo goblin
 </Text>
         </Document>
         <Document ID="24">
@@ -685,7 +801,7 @@ Talenti: Attacco Poderoso
 Mod.Li: +1
 Linguaggi: Comune, Gnoll.
 
-È alto quando è in piedi 2 metri circa, gli manca un pezzo della gamba sx.
+È alto, quando è in piedi, 2 metri circa, gli manca un pezzo della gamba sx.
 </Text>
         </Document>
     </Documents>
