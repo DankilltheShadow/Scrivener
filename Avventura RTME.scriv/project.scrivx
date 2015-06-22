@@ -105,14 +105,14 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="19" Created="2015-06-04 12:15:55 +0000" Modified="2015-06-18 00:29:27 +0000" Type="Text">
+                                <BinderItem ID="19" Created="2015-06-04 12:15:55 +0000" Modified="2015-06-18 19:53:47 +0000" Type="Text">
                                     <Title>Collecorno</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1163,1163</TextSelection>
+                                        <TextSelection>91,91</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -126,7 +126,6 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1,1</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -147,14 +146,14 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="23" Created="2015-06-04 18:04:48 +0000" Modified="2015-06-18 12:42:31 +0000" Type="Text">
+                                <BinderItem ID="23" Created="2015-06-04 18:04:48 +0000" Modified="2015-06-18 22:50:56 +0000" Type="Text">
                                     <Title>Cittadella senza sole</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>19118,19118</TextSelection>
+                                        <TextSelection>6181,6181</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
