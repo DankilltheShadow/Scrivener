@@ -88,13 +88,27 @@ Ricordarsi riferimento a QUELLA CITTA’
 Storie su eventi regione. Sespesh.</Text>
         </Document>
         <Document ID="8">
-            <Title>punteggi PG</Title>
+            <Title>PG</Title>
             <Text>Becocci 	72	Esploratore		elfo della lune	Erendil Carillon
 Tara		78	Guerriero		Rashemi		Randall
 Emilio		72	Mago
 Scaccio	76	monaco			Mulan	Yan Guan
 Pana		77	chierico di ogma		elfo del sole	Erendir
 
+
+EXP
+
+
+Becocci
+710
+Tara
+710
+Emilio
+560
+Scaccio
+710
+Pana
+710
 </Text>
         </Document>
         <Document ID="9">
@@ -959,7 +973,7 @@ Linguaggi: Comune, Gnoll.
             <Text>￼</Text>
         </Document>
         <Document ID="27">
-            <Title>Lettera Karakas</Title>
+            <Title>Lettera a Karakas</Title>
             <Text>ANRECIDC OOSVDEDL OPRASEEM RMEOCCIE EDO.
 
 EEROSOBL AIAEAORG OTSHTVAC RVRATRMI OSTPCSII SO.
@@ -967,6 +981,20 @@ EEROSOBL AIAEAORG OTSHTVAC RVRATRMI OSTPCSII SO.
 AISOLORI ICNESOER IGLDOTLR ACMOCGFR CEOTENNE PE.
 
 ￼</Text>
+        </Document>
+        <Document ID="28">
+            <Title>Simbolo Cormyr</Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="29"/>
+        <Document ID="30">
+            <Title>Simbolo Cormyr</Title>
+        </Document>
+        <Document ID="31">
+            <Title>Simbolo Mielikki</Title>
+        </Document>
+        <Document ID="32">
+            <Title>pugnali di fuoco</Title>
         </Document>
     </Documents>
 </SearchIndexes>

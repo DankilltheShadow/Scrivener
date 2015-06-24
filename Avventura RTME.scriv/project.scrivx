@@ -174,14 +174,14 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="27" Created="2015-06-24 01:23:26 +0000" Modified="2015-06-24 02:12:13 +0000" Type="Text">
-                                    <Title>Lettera Karakas</Title>
+                                <BinderItem ID="27" Created="2015-06-24 01:23:26 +0000" Modified="2015-06-24 18:09:29 +0000" Type="Text">
+                                    <Title>Lettera a Karakas</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>141,141</TextSelection>
+                                        <TextSelection>143,143</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -234,14 +234,14 @@
                         <CorkboardSettings/>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="8" Created="2015-05-21 19:30:17 +0000" Modified="2015-06-11 15:42:37 +0000" Type="Text">
-                    <Title>punteggi PG</Title>
+                <BinderItem ID="8" Created="2015-05-21 19:30:17 +0000" Modified="2015-06-24 18:28:14 +0000" Type="Text">
+                    <Title>PG</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>102,102</TextSelection>
+                        <TextSelection>256,256</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -320,6 +320,51 @@
                         <CorkboardSettings/>
                     </CorkboardAndOutliner>
                 </BinderItem>
+                <BinderItem ID="30" Created="2015-06-24 18:06:38 +0000" Modified="2015-06-24 18:06:58 +0000" Type="Image">
+                    <Title>Simbolo Cormyr</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="31" Created="2015-06-24 18:07:23 +0000" Modified="2015-06-24 18:07:54 +0000" Type="Image">
+                    <Title>Simbolo Mielikki</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="32" Created="2015-06-24 18:08:47 +0000" Modified="2015-06-24 18:09:13 +0000" Type="Image">
+                    <Title>pugnali di fuoco</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="10" Created="2015-05-21 13:14:36 +0000" Modified="2015-06-11 20:21:45 +0000" Type="Image">
@@ -377,6 +422,33 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="29" Created="2015-06-24 18:06:15 +0000" Modified="2015-06-24 18:06:15 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="28" Created="2015-06-24 18:05:33 +0000" Modified="2015-06-24 18:05:59 +0000" Type="Text">
+                    <Title>Simbolo Cormyr</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,1</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
