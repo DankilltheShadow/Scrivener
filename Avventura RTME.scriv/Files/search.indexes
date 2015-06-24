@@ -600,10 +600,23 @@ Trappola: Se ci si avvicina a meno di 1,5 metri dal globo la musica aumenta di i
 
 
 8. Piastra a pressione
+	“L’aria di questo corridoio lungo circa 6 metri è stantia. Alla fine del camminamento si trova un’altra porta di pietra chiusa”
+
+
 9. L’indovinello del drago
+	“La polvere ricopre questa sala come uno strato di neve grigia. Nell’estremità circolare a nord della stanza si trova la scultura di un drago scolpito in una varietà di marmo bianco dalle splendide venature rosse.”
+
+
 10. Guardia d’onore
+	“La polvere giace come un manto sulla sala larga 6 metri. Tre strette alcove sono statescavate sia nella parete a nord che in quella a sud; ognuna di esse contiene una figura umanoide scolpita in una varietà di marmo bianco dalle venature rosse. Fa eccezione l’alcova di sud ovest che è vuota. Le sculture raffigurano alti elfi che indossano corazze di piastre. L’estremità più lontana della sala si apre, attraverso un arco di pietra, in una stanza pià ampia, dalla qualse si diffonde in modo irregolare una luminosità verdastra. Una fossa buia giace sotto l’arco ad ovest.”
+
+
 11. Stanza segreta
+	“La polvere ricopre questa piccola stanza, oscurando alcune parole incise nella parete sud.”
+
+
 12. Sepolcro di un sacerdote del drago decaduto
+	“Piastrelle di marmo dai toni violacei coprono il pavimento e I muri della stanza, benchè tutte siano crepate o rotte, rivelando la nuda roccia sottostanzte. Candelabri da parete sono affissi ad ogni angolo delle mura, ma solo uno contiene una torcia, che arde di una debole luce verdastra. Un imponente sarcofago di marmo, lungo almeno 2,7 metri, giace al centro della stanza. La pietra è intarsiata con altorilievi raffiguranti draghi e la testa del sarcofago somiglia a quella di un drago. Borchie di metallo intaccato dalla ruggine bloccano il coperchio del sarcofago.”
 
 CORRIDOIO VERSO 15-GUARDARE 14
 13. Vuota.
@@ -762,6 +775,8 @@ Seguire Tracce/Sopravvivenza:
 (CD 13) Tracce di 3/4 umanoidi che attraversano la stanza diretti a nord, non più vecchie di 1 mese.
 (CD 18) Diversi umanoidi di taglia media sono passati in questa stanza negli ultimi 6 mesi.
 
+NB la porta che da su 31 ha una trappola, vedi 31.
+
 
 26. Fontana asciutta
 	“Polvere e disparati frammenti di detriti rocciosi e pietrisco giacciono sparsi sul pavimento. Una fontana finemente ornata è stata costruita sulla parete orientale. Nonostante sia crepata, macchiata e asciutta, l’incisione sulla fontana, raffigurante un drago in picchiata, conserva tutta la sua bellezza. Sulla parete occidentale si trova invece una porta di pietra decorata con bassorilievi.”
@@ -769,23 +784,152 @@ Seguire Tracce/Sopravvivenza:
 La porta ha delle iscrizioni in draconico e un metodo I apertura (vedi 27).
 Ci sono tracce in maniera analoga a 25.
 
+Fontana: aura moderata di Trasmutazione
+	Cercare (CD 16): inscrizione in draconico, Nainarya (e che fuoco sia). Se pronunciata a voce alta evoca la magia della fontana. “Un liquido rossastro comincia a sgorgare dalla bocca del drago, raccogliendosi lentamente per poi stillare nel bacino”. (elisir del soffio di fuoco). La fontana smette di emettere aura magica e mai più lo farà.
 
 27. Santuario
+
+La porta di pietra che conduce in questa stanza è Decorata con bassorilievi. 
+Le incisioni mostrano draghi scheletrici e chiunque si trovi a 30 cm dalla porta percepisce un gelo quasi tangibile.
+Un’iscrizione draconica sopra la porta recita Tana Aman Heka Men (Incanala il bene, apri la via).
+E’ protetta da una trappola a falce.
+Trappola: Quando qualcuno tenta di aprire la porta senza aver disattivato la serratura una lama falciante prende di mira il quadrato di fronte alla porta.
++4 mischia (1d8, x4), Cercare (CD21), DisCong(CD 20).
+
+Per aprire la serratura è necessario che qualcuno diriga verso di essa una prova divina di scacciare di potere sufficiente a scacciare 2 DV. La porta riluce di blu spettrale e si apre silenziosamente.
+
+	“Cinque sarcofagi polverosi si ergono lungo le pareti di questa silente stanza, tre lungo la parete nord e due lungo quella sud. Ogni sarcofago è di pietra, ornato di incisioni che raffigurano una nobile creatura umanoide dall’aspetto elfico, in vesti da cerimonia. Al centro della parete ovest è posto un altare di ossidiana su cui brucia tuttora una candela solitaria.”
+
+L’altare è decorato con incisioni di draghi e sorregge una candela il cui stoppino è stato incantato con un incantesimo Fiamma Perenne.
+Vicino alla candela ci sono due oggetti: un piccolo fischietto e una fiala da pozione.
+
+5 Scheletri all’interno dei sarcofagi usciranno e attaccheranno I personaggi.
+
+Tattiche: Gli scheletri cercano di attaccare ai fianchi, se scappano inseguono fisso.
+
+Scheletro (5): 9 pf ciascuno
+￼
+
+Tesoro: una candela perenne, una pozione di contrastare elementi (fuoco) e un fischietto incantato costituito da una sostanza che pare essere vetro molto duro. Iscritta in nanico sul fischietto vi è la parola Azangund (Richiamo della notte). Cercare (CD20) sull’altare cela uno scrigno contenente 6 gemme di crisolito intagliate a forma di drago (10mo ciascuno).
+
+
 28. Celle infestate
+	Questo corridoio contiene 6 porte socchiuse (dalla A alla F), abbastanza aperte da far passare una creatura di taglia piccola.
+Seguire Tracce (CD 10): impronte lasciate da 3/4 umanoidi con gli stivali hanno attraversato il corridoio in ambo le direzioni.
+Sopravvivenza (CD 21): quattro umanoidi si sono diretti verso nord, seguiti da un umanoide visibilmente più piccolo, ma solo tre sono ritornati verso sud.
+Cercare (CD 18): diversi umanoidi di taglia Media con gli stivali, sono passati di qui negli ultimi 6 mesi.
+
+Muoversi Silenziosamente (CD 12): se si fallisce 3 topi escono dalle celle. (b,c,e)
+
+Topo Crudele (3): 5 pf
+￼
+
+Tesoro: Le tane, fatte di rocce, peluria e funghi, contengono piccoli oggetti luccicanti raccolti dai loro occupanti. Se si fruga si trova 2d6 ma, 1d6 mo e 1d4 gemme da 5mo.
+
 29. Vecchie trappole
+	“Il pavimento della stanza, composto da ciottoli, contiene due botole aperte e bloccate da spuntoni di ferro. E’ evidente che se tali botole fossero allo stesso livello del pavimento, sarebbero difficili da individuare. La parete nord contiene una fontana asciutta scolpita col bassorilievo di un drago”
+
+Le “trappole” sono bloccate (per mano del gruppo disperso di avventurieri). Un esame delle due botole rivela sotto ciascuna una fossa profonda 6 metri contenente solo ossa di topo, frammenti di metallo arrugginito e sporcizia.
+
+Seguire tracce come area 25, le tracce costeggiano le trappole e si dirigono verso la porta di lengo ad ovest.
+
+Se si sta più di 3 round conversando o facendo rumore imboscata nell’area 30.
+
+Fontana: La fontana sulla parete nord somiglia molto a quella dell’area 26, presenta una scritta simile semi leggibile che recita in Draconico, Naihuine (E che Morte sia). Se si pronunciano le parole ad alta voce si attiva la trappola, una nube di veleno indebolito dal tempo si sprigoina dalle fauci del drago.
+
+Trappola: Gas nel raggio di 3 metri. Tempra (CD 14) nega. 1 danno Costituzione, danno secondario 1d4 Costituzione. Cercare (CD 21), DisCon (CD 20).
+
+
 30. Mamma topo
+	“Il fetore di carne in putrefazione impregna l’aria, sollevandosi da carcasse mangiucchiate di numerosi topi delle caverne, parassiti più piccoli e alcuni corpi dalla sospetta apparenza umanoide. I cadaveri giacciono su di uno strato di sporcizia, vecchie ossa, peli e pellicce che formano una tana decisamente grande e disgustosa. Il muro a nord è frantumato e rivela una distesa oscura e cosparsa di detriti”
+
+Se I pg sono arrivati in silenzio noteranno I mostri in torpore, altrimenti saranno vittime di un’imboscata.
+
+Il muro più lontano si apre sul campo di macerie descritto nell’area 3.
+
+I cadaveri comprendono I parassiti, due goblin, un coboldo e un membro del gruppo Karakas.
+
+La femmina dei topi crudeli è grande il doppio (1,8 metri) e molto grassa.
+
+Tattiche: imboscata - 3 topi crudeli si raggruppano su uno dei due lati della porta di ingresso (entro 1,5 metri) e se riescono a sfruttare la sorpresa ottengono un’azione parziale per attaccare il primo personaggio che mette piede nella stanza con un attacco al fianco. Guthash si nasconde sotto lo strato di sporcizia ad 1,5 metri dalla porta, Osservare (CD 20), e attacca il primo PG che entri nell’area lanciandosi fuori dalla buca.
+
+Topo Crudele (3): 5 pf
+Guthash : 17 pf
+￼
+￼
+￼
+
+Tesoro: Frugando per almeno 10 minuti si riescono a trovare 300 ma, 68 mo, e 3 gemme dal valore di 40 mo. Il cadavere di Karakas possiede 5 pugnali, un’armatura di cuoio borchiato, un arco corto, un sacco (contenente un otre, una razione di viveri giornaliera, un giaciglio, acciarino e pietra focaia e 3 torce), una faretra con solo 6 frecce rimaste, una Pozione di cura ferite leggere e una piccola borsa con 17 mo. Indossa un anello d’oro, 10 mo, con (inciso in comune) il suo nome. + lettera.
+
+
 31. Sala dei triboli
+NB. La porta a sud di questo corridoio è chiusa e munita di una trappola sonora costituita da una campana che emette un forte clangore se qualcuno apre la porta, mettendo sul chi vive tutti I goblin dell’area 32, Cercare (CD 21) DisCong(CD 20)
+
+	“Il salone, dall’ampiezza di 3 metri, è abbondantemente cosparso di affilatissimi triboli. La porta a nord è assente ma la stanza al di là è parzialmente bloccata da un muro di circa 90 centimetri di rozza fattura completo di merlature”
+
+I goblin dell’area 32 si affacciano alle merlature se si accorgono della presenza dei personaggi. Usando attacchi a distanza.
+
+Tattiche: Oltre ai goblin ci sono anche I triboli, piccoli oggetti di ferro dal cui centro si protendono 4 spuntoni in modo che uno è sempre rivolto verso l’alto. 
+Ci si muove a veocità dimezzata senza problemi. 
+Si può usare uno strumento per rimuovere I triboli (1 round per ogni casella)
+Se si vuole muovere a velocità normale attacco di contatto in mischia +0 ogni quadretto. Se si indossano delle scarpe si ha un +2 CA. 1 danno e dimezza la velocità fino al giorno seguente o fino a cure.
+
 32. Il cancello dei goblin
+	“Lo strato di sporcizia sul pavimento e di sego sui muri, le pelli logore e I focolai consunti dall’uso, attestano senza ombra di alcun dubbio, la lunga permanenza in questo luogo di creature la cui principale preoccupazione non era certamente l’igiene. La porta più ad est del muro a sud è stata rimossa e rimpiazzata con un basso muro di rozza fattura completo di merlature.”
+
+Se si percuisisce la stanza si troverà carne putrida, otri di vino irrancidito e altre cianfrusaglie dei goblin.
+Se si catturano I goblin hanno le stesse info di “Turacciolo” (vedi 34)
+
+Tattiche: si riparano dietro al muro e lanciano giavellotti. Il muro garantisce +8 alla CA a distanza e +4 a Riflessi, le creature di taglia media la metà.
+Per passare il riparo Saltare (CD 14) come azione di movimento o scalare successivamente il muro se la prova è fallita. Attacco di opportunità dei goblin.
+
+Sviluppo: Se un personaggio sorpassa il muro un goblin estrae la spada mentre l’altro cerca di correre verso l’area 33. Se ci riesce non ritorna ma attende in quell’area.
+
+Goblin (2) : 4 pf; 2d10+2 ma
+￼
+
 33. Zona di tiro
+	“Dozzine di giavellotti rotti e spuntati giacciono sui ciottoli sbeccati che compongono il pavimento. Alcuni sono infilzati in tre bersagli rozzamente intagliati e di forma vagamente umana appesi al centro del muro a sud. La parte nord della stanza è separata da quella a sud da un basso muro di rozza fattura completo di merlature. A nord del muro si trova un accampamento permanente, completo di focolare e di numerose pentole di ferro.”
+
+Ci sono 4 Goblin, o 5 se è arrivato il goblin dalla stanza precedente.
+
+Tattiche: Usano la stessa tattica dei goblin dell’area 32, ma senza triboli. Se sono in 5 hanno un round di sorpresa se I PG sono incauti.
+
+Goblin (4) : 4 pf; 2d10+2 ma
+￼
+
+Tesoro: Uno dei goblin ha una fiala d’argento di pregiata fattura recante il simbolo del cormyr colma di un pessimo liquore goblin. Un altro goblin ha l’unica chiave in grado di aprire la porta dell’area 34.
+
+Sviluppo: Un goblin se le cose is mettono male tenterà di scappare e avvertire I goblin dell’area 39.
+
 34. Prigione goblin
+	“Lo squallore regna sovrano in questo lungo e basso dungeon. Tre piccoli umanoidi cornuti sono legati saldamente con delle rozze corde ad un grosso spuntone vicino alla porta. Più indietro, uno gnomo avvilito languisce all’interno di una gabbia arrugginita che è piccola anche per una creatura della sua taglia. Alcune manette arrugginite pendono dal muro vuote, se si escludono alcuni scheletri in disfacimento.”
+
+
 35. Corridoio con trappola
+
 36. Banditi goblin
+	“Il fetore, il sudiciume, alcune carcasse in decomposizione e delle gambe di strane creature parzialmente divorate sono testimoni degli anni trascorsi in questo luogo da abitatori privi di rispetto per le più elementari norme igieniche. Delle pelli cenciose formano sei instabili amache attorno ad un fuoco da campo ormai spento. Slcuni arnesi da cucina giacciono alla rinfusa sul terreno, insieme a parti sconnesse di armature e armi spezzate”
+
+
 37. Stanza dei trofei
+	“Teste di animali imbalsamate e appese adornano I muri. Il lavoro di imbalsamazione è di pessima fattura e l’assortimento di teste comprende bestiame, topi e altri esemplari non particolarmente impressionanti. Tuttavia, alcuni macabri trofei spiccano sulla parete, fra cui alcune teste di coboldi. Alcuni stipi rotti o frantumati e diversi tavoli di legno ingombrano le pareti della stanza, mute vittime di una furia cieca. Uno spuntone di ferro arrugginito si erge obliquo nel centro della stanza, con attaccata una catena spezzata. Sottili lamine di ghiaccio coprono varie sezioni delle pareti, del pavimento e del soffitto.”
+
+
 38. Passaggio goblin
+	“Le pareti nord e sud di questa stanza sono colme fino al soffitto di barili, scatole e ceste, in pessimo stato  di conservazione e impilati disordinatamente. Un passaggio sgombro permette di muoversi agevolmente da est ad ovest.”
+
+
 39. Caligine di Drago
+	“Diverse torce poste in rozzi candelabri da parete, bruciano tremanti in questa sala, colmando l’aria con una foschia che offusca la visione. Una doppia fila di colonne di marmo incise con draghi intrecciati attraversa la lunghezza della sala.”
+
+
 40. La città dei goblin
+	“Quella che un tempo poteva essere una cattedrale è divenuta ormai una tana di goblin, colma del sudiciume di anni di permanenza di queste creature. La sala è illuminata da fughi dalla luminescenza violacea, ammassati in candelabri da parete conficcati a forza nel pavimento e nelle fessure dei muri. In questa luce nauseante, dozzine di goblin svolgono le loro abituali occupazioni, che sembrano essere prevalentemente dormire, preparare I pasti, discutere, mangiare, dormire, combattere, affilare le armi, muoversi di soppiatto, dormire, urlare, combattere, cucire e dormire. Sul muro a sud sono accatastate pile di oggetti assortiti tra cui ruote di carri, armature rotte e armi arrugginite, casse, piccole statue, oggetti antichi e d’arte. Sfortunatamente, pare che nessuno si preoccupi delle condizioni del ‘ripostiglio’.”
+
+
 41. Sala del capo goblin
-</Text>
+	“Un condotto circolare penetra da parte a parte il pavimento di questa stanza a cupola del diametro di 12 metri. Una fioca luce violacea fuoriesce dal condotto, rivelando I rampicanti di color grigio e bianco pallido che ne coprono le pareti. Oltre alla luce che fuoriesce dal passaggio, la stanza è illuminata da quattro torce appese alla parete, equidistanti tra loro. Un trono di pietra di rozza fattura giace nella curva a nord della parete; una grossa cassa di ferro funge da sgabello. Vicino al trono, un alberello è piantato in un grosso vaso di pietra.”</Text>
         </Document>
         <Document ID="24">
             <Title>Zugzw, mezzazampa</Title>
@@ -806,6 +950,23 @@ Linguaggi: Comune, Gnoll.
 
 È alto, quando è in piedi, 2 metri circa, gli manca un pezzo della gamba sx.
 </Text>
+        </Document>
+        <Document ID="25">
+            <Title>Oggetti Magici</Title>
+        </Document>
+        <Document ID="26">
+            <Title>Azan-gund &quot;Richiamo della Notte&quot;</Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="27">
+            <Title>Lettera Karakas</Title>
+            <Text>ANRECIDC OOSVDEDL OPRASEEM RMEOCCIE EDO.
+
+EEROSOBL AIAEAORG OTSHTVAC RVRATRMI OSTPCSII SO.
+
+AISOLORI ICNESOER IGLDOTLR ACMOCGFR CEOTENNE PE.
+
+￼</Text>
         </Document>
     </Documents>
 </SearchIndexes>
