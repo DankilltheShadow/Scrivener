@@ -608,7 +608,7 @@ Topo Crudele: 6 pf
 7. Galleria delle note dimenticate
 Non appena la porta si apre un rumore sibilante e uno sbuffo di polvere palesano che la stanza è rimasta sigillata per ere.
 
-	“La polvere di secoli, intonsa, ricopre ogni superficie in questa vasta galleria. Tre alcove sono scavate nel muro a nord e una in quello a sud; ciascuna di esse contiene un piedistallo di pietra impolverato con sopra un globo di cristallo delle dimensioni di un pugno. Sebbene I globi delle alcove a nord giacciano frantumati e spenti, quello nell’alcova a sud, perfettamente integro, emana una leggera luminescenza bluastra. Dal globo si diffonde nella stanza una musica ovattata.”
+	“La polvere di secoli, intonsa, ricopre ogni superficie in questa vasta galleria. Tre alcove sono scavate nel muro a est e una in quello a ovest; ciascuna di esse contiene un piedistallo di pietra impolverato con sopra un globo di cristallo delle dimensioni di un pugno. Sebbene I globi delle alcove a est giacciano frantumati e spenti, quello nell’alcova a ovest, perfettamente integro, emana una leggera luminescenza bluastra. Dal globo si diffonde nella stanza una musica ovattata.”
 
 I pg notano uno strato spesso di polvere e l’aria stantia
 Trappola: Se ci si avvicina a meno di 1,5 metri dal globo la musica aumenta di intensità fino a 6 metri oltre le porte aperte. Per 5 minuti. Volontà (CD 18) ogni 10 round o si fugge alla massima velocià verso l’aera 3. Se ci si tappa gli orecchi +2 TS, se si cerca di tappare il globo +1 TS di tutti. Una volta raggiunta l’area 3 I personaggi colpiti si fermano e si tappano le orecchie per 10 round. L’effetto cessa immediatamente se si tenta di rompere il globo. Se il globo viene toccato radoppia la sua intensità (CD 23) ogni round invece che ogni 10. Ogni tentativo magico riduce il raggio a 3 metri dal globo. La rimozione del globo dalla stanza lo priva di ogni potere.
@@ -617,17 +617,55 @@ Trappola: Se ci si avvicina a meno di 1,5 metri dal globo la musica aumenta di i
 8. Piastra a pressione
 	“L’aria di questo corridoio lungo circa 6 metri è stantia. Alla fine del camminamento si trova un’altra porta di pietra chiusa”
 
+Trappola: Per tre quadretti delle mattonelle a pressione fanno scoccare una freccai ad ogni passo (3 frecce) ad un personaggio a caso. Cercare (CD 21); DisCon (CD 20);
+	Trappola a pressione: +5 (1d6, x3);
+	
+
 
 9. L’indovinello del drago
-	“La polvere ricopre questa sala come uno strato di neve grigia. Nell’estremità circolare a nord della stanza si trova la scultura di un drago scolpito in una varietà di marmo bianco dalle splendide venature rosse.”
+	“La polvere ricopre questa sala come uno strato di neve grigia. Nell’estremità circolare a est della stanza si trova la scultura di un drago scolpito in una varietà di marmo bianco dalle splendide venature rosse.”
+
+	C’è una porta segreta che può essere trovata con Cercare (CD 20) ma ogni tentativo di aprirla risulta inutile.
+
+Indovinello: La statua è alta circa 3 metri e raffigura un drago avvolto in spire. Non appena una creatura animata si avvicina entro 1,5 metri una “bocca magica permanente” fa si che il drago parli in comune (agli astanti sembra effettivamente che muova le fauci):
+						Giungiamo di notte senza essere portate;
+						Svaniamo di giorno senza essere rubate.
+
+Soluzione: Stelle
+
+Se pronunciata a voce alta in qualsiasi lingua la soluzione la porta si apre. (dopo 10 round si richiude)
 
 
 10. Guardia d’onore
-	“La polvere giace come un manto sulla sala larga 6 metri. Tre strette alcove sono statescavate sia nella parete a nord che in quella a sud; ognuna di esse contiene una figura umanoide scolpita in una varietà di marmo bianco dalle venature rosse. Fa eccezione l’alcova di sud ovest che è vuota. Le sculture raffigurano alti elfi che indossano corazze di piastre. L’estremità più lontana della sala si apre, attraverso un arco di pietra, in una stanza pià ampia, dalla qualse si diffonde in modo irregolare una luminosità verdastra. Una fossa buia giace sotto l’arco ad ovest.”
+	“La polvere giace come un manto sulla sala larga 6 metri. Tre strette alcove sono statescavate sia nella parete a est che in quella a ovest; ognuna di esse contiene una figura umanoide scolpita in una varietà di marmo bianco dalle venature rosse. Fa eccezione l’alcova di nord ovest che è vuota. Le sculture raffigurano elfi e umani che indossano corazze di piastre. L’estremità più lontana della sala si apre, attraverso un arco di pietra, in una stanza pià ampia, dalla quale si diffonde in modo irregolare una luminosità verdastra. Una fossa buia giace sotto l’arco ad nord.”
 
+Cercare:
+(CD 20): Una porta segreta collocata dietro la statua al centro dell’alcova a ovest.
+(CD 10): Lo strato di polvere è stato leggermente smosso, anche se le tracce sono così lievi che la creatura che le ha lasciate deve essere passata decine di anni fa.
+Seguire Tracce (CD 10): Impronte di piedi umanoidi nudi dalle dita artigliate sembrano iniziare dal centro di un’alcova e si dirigono verso la fossa dove scompaiono.
+Se si calano nella fossa, Seguire Tracce (CD 20): individua delle tracce che conducono all’area 12.
+
+Fossa aperta: è profonda 3 metri, da nord a sud 3 metri e da est a ovest 6. Il fondo è ricoperto di spuntoni accuminati.  Se cadono 1d6 + 1d4
+Scalare (CD 16): per calarsi e risalire con sicurezza.
+Saltare (CD 16) taglia media, vel 9 metri: per saltare dall’altra parte.
+
+Jot: 18 pf
+￼
+
+Tattiche: I personaggi che falliscono muoversi silenziosamente dalla fossa, o saltano/scalano vengono colti di sorpresa.
+	Se saltano/scalano cerca di spingerli giù.
+	Chiunque entro 1,5 metri dalla fossa che subisce 1 danno o più Riflessi (CD 16) o cade.
+
+Sviluppo: Dopo aver tentato di spingere un PG nella fossa, attacca un altro personaggio. Subiti più di 4 danni o se viene attaccato da più di un PG per volta si prepara a scappare.
+
+JOT ride, esclamando “Avete spezzato il vincolo: la mia veglia sul Custode dei segreti del Drago è giunta al termine!”. Con la sua azione successiva effettua una ritirata volando verso l’uscita, cercando di eludere I PG.
 
 11. Stanza segreta
 	“La polvere ricopre questa piccola stanza, oscurando alcune parole incise nella parete sud.”
+
+“Un custode del sapere, sepolto vivo per aver trasgredito la Legge, mantiene ancora I privilegi della sua posizione”. Scritto in draconico.
+
+Cercare (CD 20): botola per un passaggio di 90 per 90 centimetri
 
 
 12. Sepolcro di un sacerdote del drago decaduto
@@ -718,9 +756,72 @@ Si ricevono ogni 2 round rinforzi dalle aree 20,21,23 e l’unica 16 che si affa
 Yusdrayl prende parte al combattimento dopo 4 round.
 
 Buttafuori coboldi (3): 4pf
+
 ￼
 
-20. Colonia di coboldi
+
+
+</Text>
+        </Document>
+        <Document ID="24">
+            <Title>Zugzw, mezzazampa</Title>
+            <Text>Gnoll ritrovato nelle terre selvagge
+
+DV: 2d8+2 (9pf)
+I: +0		V: 6m (4q)
+CA: 15, Contatto: 10, Sprovv: 15
+AttB/Lotta: +1/+3
+Sp/Por: 1,5m/1,5m
+Q.S.: Scurovisione 18m
+TS: +4 +0 +0
+Car: 15 10 13 8 11 8
+Ab: Ascoltare +2, Osservare +3
+Talenti: Attacco Poderoso
+Mod.Li: +1
+Linguaggi: Comune, Gnoll.
+
+È alto, quando è in piedi, 2 metri circa, gli manca un pezzo della gamba sx.
+</Text>
+        </Document>
+        <Document ID="25">
+            <Title>Oggetti Magici</Title>
+        </Document>
+        <Document ID="26">
+            <Title>Azan-gund &quot;Richiamo della Notte&quot;</Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="27">
+            <Title>Lettera a Karakas</Title>
+            <Text>ANRECIDC OOSVDEDL OPRASEEM RMEOCCIE EDO.
+
+EEROSOBL AIAEAORG OTSHTVAC RVRATRMI OSTPCSII SO.
+
+AISOLORI ICNESOER IGLDOTLR ACMOCGFR CEOTENNE PE.
+
+￼</Text>
+        </Document>
+        <Document ID="28">
+            <Title>Simbolo Cormyr</Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="29"/>
+        <Document ID="30">
+            <Title>Simbolo Cormyr</Title>
+        </Document>
+        <Document ID="31">
+            <Title>Simbolo Mielikki</Title>
+        </Document>
+        <Document ID="32">
+            <Title>pugnali di fuoco</Title>
+        </Document>
+        <Document ID="33">
+            <Title>Dem 'turacciolo' </Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="34">
+            <Title>seconda Parte</Title>
+            <Synopsis>￼</Synopsis>
+            <Text>20. Colonia di coboldi
 La porta di legno (CD 25 per sfondarla) è sbarrata dall’interno. I PG possono entrare fornendo la parola d’ordine (’Pestacalli’ in draconico) o con una prova di Raggirare (CD 20).
 
 	“Numerosi fuochi da campo, piccoli ma fumosi, illuminano questa ampia e alta sala. Sputi, rastrelliere per la concia e altri oggetti tipici di una cultura primitiva sono visibili attraverso la caligine. Alcune piccole figure sono indaffarate a lavorare e a giocare per la stanza.”
@@ -1033,66 +1134,22 @@ Arbusto : 10 pf
 ￼￼
 
 ￼￼
-
 ￼
 
 
 
 </Text>
         </Document>
-        <Document ID="24">
-            <Title>Zugzw, mezzazampa</Title>
-            <Text>Gnoll ritrovato nelle terre selvagge
-
-DV: 2d8+2 (9pf)
-I: +0		V: 6m (4q)
-CA: 15, Contatto: 10, Sprovv: 15
-AttB/Lotta: +1/+3
-Sp/Por: 1,5m/1,5m
-Q.S.: Scurovisione 18m
-TS: +4 +0 +0
-Car: 15 10 13 8 11 8
-Ab: Ascoltare +2, Osservare +3
-Talenti: Attacco Poderoso
-Mod.Li: +1
-Linguaggi: Comune, Gnoll.
-
-È alto, quando è in piedi, 2 metri circa, gli manca un pezzo della gamba sx.
-</Text>
+        <Document ID="35">
+            <Title>Secondo Piano</Title>
         </Document>
-        <Document ID="25">
-            <Title>Oggetti Magici</Title>
+        <Document ID="36">
+            <Title>Stanze</Title>
+            <Text>42. Centrale dei fertilizzanti
+	“Dei funghi luminescenti crescono sulle pareti e sul soffitto, diffondendo una luce violacea. L’aria è umida, fredda e impregnata dell’odore di sostanze in putrefazione. Uno strato di terriccio, misto a vegetazione parzialmente decomposta e ai resti di creature delle caverne, copre il pavimento della larga caverna. Diverse specie di funghi e muschi crescono tra I detriti, così come alcuni alberelli. Due figure macilente e incappucciate sono indaffarate a spalare la terra dentro un contenitore arrugginito.”</Text>
         </Document>
-        <Document ID="26">
-            <Title>Azan-gund &quot;Richiamo della Notte&quot;</Title>
-            <Text>￼</Text>
-        </Document>
-        <Document ID="27">
-            <Title>Lettera a Karakas</Title>
-            <Text>ANRECIDC OOSVDEDL OPRASEEM RMEOCCIE EDO.
-
-EEROSOBL AIAEAORG OTSHTVAC RVRATRMI OSTPCSII SO.
-
-AISOLORI ICNESOER IGLDOTLR ACMOCGFR CEOTENNE PE.
-
-￼</Text>
-        </Document>
-        <Document ID="28">
-            <Title>Simbolo Cormyr</Title>
-            <Text>￼</Text>
-        </Document>
-        <Document ID="29"/>
-        <Document ID="30">
-            <Title>Simbolo Cormyr</Title>
-        </Document>
-        <Document ID="31">
-            <Title>Simbolo Mielikki</Title>
-        </Document>
-        <Document ID="32">
-            <Title>pugnali di fuoco</Title>
-        </Document>
-        <Document ID="33">
-            <Title>Dem 'turacciolo' </Title>
+        <Document ID="37">
+            <Title>Mappa</Title>
             <Text>￼</Text>
         </Document>
     </Documents>
