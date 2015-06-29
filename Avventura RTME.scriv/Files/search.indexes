@@ -109,6 +109,7 @@ Scaccio
 710
 Pana
 710
+
 </Text>
         </Document>
         <Document ID="9">
@@ -917,33 +918,127 @@ Tesoro: Uno dei goblin ha una fiala d’argento di pregiata fattura recante il s
 Sviluppo: Un goblin se le cose is mettono male tenterà di scappare e avvertire I goblin dell’area 39.
 
 34. Prigione goblin
+Questa porta di legno è chiusa a chiave
+	Scassinare serrature (CD 20); Forza (CD 20);
+
 	“Lo squallore regna sovrano in questo lungo e basso dungeon. Tre piccoli umanoidi cornuti sono legati saldamente con delle rozze corde ad un grosso spuntone vicino alla porta. Più indietro, uno gnomo avvilito languisce all’interno di una gabbia arrugginita che è piccola anche per una creatura della sua taglia. Alcune manette arrugginite pendono dal muro vuote, se si escludono alcuni scheletri in disfacimento.”
+
+La gnoma è Dem ‘turacciolo’ Nackle, gnoma Chierico 4 (Lathander/guaritrice).
+I coboldi possono essere facilmente slegati, ma per la gnoma ci vuole Scassinare serrature (CD 19); Forza (CD 22).
+
+I coboldi sono incerti sul da farsi e non contenti di farsi liberare perchè poteva essere pagato un riscatto. Se liberati cercheranno di tornare indietro per una via sicura. Non sanno granchè.
+
+La gnoma sarà grata e cercherà di aiutare. Parla lo Gnomesco, il Goblin e il Comune.
+Come mai sei qui? - ha conosciuto Sir Bradford, preoccupata del non ritorno è andata a cercarlo. Pensava che la sua conoscenza del goblin potesse aiutarla.
+Cosa sai dei goblin\Beliak? - Ha sentito parlare I goblin del Giardino del Crepuscolo, che si trova più in profondità. E’ abitato da quello che crede un druido malvagio di nome Belak, che si prende cura di un giardino incantato e raccoglie dei magici frutti da un albero che I goblin chiamano l’Albero di Tharizdun. I goblin parlano di questo argomento solo sussurrando, ne sono terrorizzati.
+Cos’è la faccenda dei frutti? - Il frutto del solstizio d’estate ridona spirito e vigore a chi lo mangia; quello del solstizio d’inverno, invece, ne priva. Belak permette ai goblin di portare in superficie I frutti e di venderli, ma non so perchè.
+Sai qualcosa degli arbusti maligni? - Quelle creature vivono nel livello inferiore con Belak.
+Hai avuto notizie degli avventurieri? - Non ho notizie certe, non gli ho incontrati. A sentire parlare I goblin ne hanno catturati solo 3 e gli hanno portati al livello inferiore. A quanto pare Belak li voleva ma non so perchè.
+
+Sviluppo: Dem chiederà di unirsi al gruppo, ma starà un po dietro e non intraprenderà azioni pericolose solo perchè I PG non lo fanno.
+
+Eventuali PG Catturati vengno portati in questa area e incatenati.
 
 
 35. Corridoio con trappola
+Il corridoio in apparenza normale è in realtà protetto da una trappola.
+La porta che conduce all’area 37 è chiusa a chiave. Scassinare serrature (CD 19)
+
+Trappola: Un a trappola a botola davanti alla porta che conduce a 37. Una passerella di circa 30 centimetri consente il passaggio sicuro. Sul fondo ci sono delle misteriose ossa e uno strato di sporcizia.
+	Fossa: 3 metri (1d6); Riflessi (CD 16); Cercare (CD 21); DisCon (CD 20)
+
+Sviluppo: Se cadono nella trappola I goblin più vicini alla 36 saranno in allarme e cercheranno di prendere I PG alle spalle, in 2/4 round.
+
 
 36. Banditi goblin
 	“Il fetore, il sudiciume, alcune carcasse in decomposizione e delle gambe di strane creature parzialmente divorate sono testimoni degli anni trascorsi in questo luogo da abitatori privi di rispetto per le più elementari norme igieniche. Delle pelli cenciose formano sei instabili amache attorno ad un fuoco da campo ormai spento. Slcuni arnesi da cucina giacciono alla rinfusa sul terreno, insieme a parti sconnesse di armature e armi spezzate”
 
+Contengono solo sporcizia, vino rancido e cianfrusaglie goblin prive di valore.
+
+Tattiche: questi goblin cercheranno di colpire con I manganelli infliggendo danni non letali piuttosto che con le spade corte. Se catturano un pg lo portano in prigione 34, e gli oggetti dal capo, area 41. Cercheranno di attaccare I PG ai fianchi senza concedere attacchi di priorità.
+
+Goblin (6) : 4 pf; 3d10+10 ma, 1d4 mo
+￼
+
+Sviluppo: Se uno dei goblin riesce a fuggire andrà ad avvertire I compagni nell’area 40
 
 37. Stanza dei trofei
+Entrambe le porte sono chiuse a chiave. Scassinare serrature (CD 18).
+
+I personaggi dovranno fare una prova di Equilibrio (CD 15) per non scivolare su una lastra di ghiaccio.
+
 	“Teste di animali imbalsamate e appese adornano I muri. Il lavoro di imbalsamazione è di pessima fattura e l’assortimento di teste comprende bestiame, topi e altri esemplari non particolarmente impressionanti. Tuttavia, alcuni macabri trofei spiccano sulla parete, fra cui alcune teste di coboldi. Alcuni stipi rotti o frantumati e diversi tavoli di legno ingombrano le pareti della stanza, mute vittime di una furia cieca. Uno spuntone di ferro arrugginito si erge obliquo nel centro della stanza, con attaccata una catena spezzata. Sottili lamine di ghiaccio coprono varie sezioni delle pareti, del pavimento e del soffitto.”
 
+In questa stanza c’è il drago che si stà riposando dietro un tavolo. Attaccherà I PG e per primo meepo. Meepo suggerirà di colpirlo con danni non letali.
+
+Tattiche: il drago utilizza la sua arma a soffio cercando di colpire più PG possibili (cono 	lungo 4,5 metri). Lo può riutilizzare solo dopo 1d4 round quindi userà questi round per mordere e artigliare I pg. Essendo minuscolo deve entrare nella casella per colpire, provocando un attacco di opportunità.
+
+Calcryx : 31 pf
+￼
+
+Tesoro: Il drago ha raccolto tutti gli oggetti di valore su una piccola tana sotto un tavolo di legno. Il tesoro comprende:
+Una statuetta di giada a forma di drago (20 mo)
+Un calice di cristallo (5 mo)
+24 pezzi di argenteria (1 mo ciascun)
+Una custodia per pergamente d’osso vi è inciso in rune naniche “”. (non si apre se non si pronuncia in Draconico\nanico “”) al suo interno 3 pagine strappate. Il cui inchiostro è rovinato dal tempo e dall’acqua ma si può leggere “…I pochi superstiti. Per ordine di Durgoss il nero abbiamo creato un fortino nanico segreto all’interno dell’antica struttura umana. Nessuno ci potrà scoprire…
 
 38. Passaggio goblin
+Entrambe le porte sono chiuse a meno che un goblin in fuga dall’area 33 non si stia dirigendo all’area 41.
+ 
 	“Le pareti nord e sud di questa stanza sono colme fino al soffitto di barili, scatole e ceste, in pessimo stato  di conservazione e impilati disordinatamente. Un passaggio sgombro permette di muoversi agevolmente da est ad ovest.”
 
+E’ un magazzino per acqua salmastra, carne in putrefazione, 2,5 litri di olio e budino elfico. All’esterno di alcuni barili c’è scritto in goblin “budino elfico”
 
 39. Caligine di Drago
 	“Diverse torce poste in rozzi candelabri da parete, bruciano tremanti in questa sala, colmando l’aria con una foschia che offusca la visione. Una doppia fila di colonne di marmo incise con draghi intrecciati attraversa la lunghezza della sala.”
 
+Architettonicamente simile ad area 19. Finchè le torce sono accese c’è luce, ma irritano leggermente I PG con la foschia. La ventilazione è sufficiente e fornita da fessure e crepe sui muri. La stanza è inizialmente priva di goblin.
+
+Tattiche: I goblin delle aree 36 reagiscono a ogni rumore forte di quest’area. La foschia fornisce occultamento leggero (1/4).
 
 40. La città dei goblin
+Chiunque è a meno di 3 metri da le porte che conducono in quest’area può udire senza difficoltà I borbottii di diverse voci gutturali provenire da dentro.
+
 	“Quella che un tempo poteva essere una cattedrale è divenuta ormai una tana di goblin, colma del sudiciume di anni di permanenza di queste creature. La sala è illuminata da fughi dalla luminescenza violacea, ammassati in candelabri da parete conficcati a forza nel pavimento e nelle fessure dei muri. In questa luce nauseante, dozzine di goblin svolgono le loro abituali occupazioni, che sembrano essere prevalentemente dormire, preparare I pasti, discutere, mangiare, dormire, combattere, affilare le armi, muoversi di soppiatto, dormire, urlare, combattere, cucire e dormire. Sul muro a sud sono accatastate pile di oggetti assortiti tra cui ruote di carri, armature rotte e armi arrugginite, casse, piccole statue, oggetti antichi e d’arte. Sfortunatamente, pare che nessuno si preoccupi delle condizioni del ‘ripostiglio’.”
 
+Sono prsenti 34 goblin e 10 hobgoblin ma solo 4 goblin e 3 hobgoblin attaccano I pg. Gli altri sono troppo giovani, vecchi, inesperti o codardi per difendersi.
+
+Goblin (4) : 4 pf; 3d10 ma, 1d4 mo
+HobGoblin (3) : 5 pf; 4d10 ma, 2d4 mo
+￼
+
+￼
+
+Tesoro: la pila di oggetti addossata alla parete meridionale il bottino scarso della tribù. Cercare (CD 18) porta alla luce tre piccoli anelli d’argento con incastonato delle seleniti (20 mo ciascuno) e una cotta di maglia in buono stato di taglia media.
 
 41. Sala del capo goblin
-	“Un condotto circolare penetra da parte a parte il pavimento di questa stanza a cupola del diametro di 12 metri. Una fioca luce violacea fuoriesce dal condotto, rivelando I rampicanti di color grigio e bianco pallido che ne coprono le pareti. Oltre alla luce che fuoriesce dal passaggio, la stanza è illuminata da quattro torce appese alla parete, equidistanti tra loro. Un trono di pietra di rozza fattura giace nella curva a nord della parete; una grossa cassa di ferro funge da sgabello. Vicino al trono, un alberello è piantato in un grosso vaso di pietra.”</Text>
+Se vengono avvertite o se sentono rumore dall’area 40 le guardie si appostano vicino alla porta per 10 minuti e poi vanno a controllare.
+
+	“Un condotto circolare penetra da parte a parte il pavimento di questa stanza a cupola del diametro di 12 metri. Una fioca luce violacea fuoriesce dal condotto, rivelando I rampicanti di color grigio e bianco pallido che ne coprono le pareti. Oltre alla luce che fuoriesce dal passaggio, la stanza è illuminata da quattro torce appese alla parete, equidistanti tra loro. Un trono di pietra di rozza fattura giace nella curva a nord della parete; una grossa cassa di ferro funge da sgabello. Vicino al trono, un alberello è piantato in un grosso vaso di pietra.”
+
+I rampicanti sono considerati come una corda a nodi (CD 0), scende per 24 metri, una caduta provoca 8d6 danni,Riflessi (CD 16) nega afferrando al volo un rampicante.
+
+Se non sono impegnati diversamente il capo, Durnn hobgoblin, siede sul trono, mentre 6 goblin e 3 hobgoblin si riposano al suo fianco su panche di pietra. Una chierica goblin chiamata Grenl di solito stà in piedi accanto al capo. L’alberello è un arbusto maligno.
+Attaccano subito e non rispondono a domande se non obbligati.
+Conoscono in più:
+Belak voleva che gli fossero consegnati vivi tutti e tre gli umani ma in un momento d’ira provocato da una immaginaria offesa Durnn ha ucciso Talgen in questa stanza. Gli altri 2 sono stati mandati giù ben legati. L’anello lo ha al dito Durnn
+
+Tattiche: I nemici si scagliano al cobattimento, cercand di prendere il fianco se non provoca attacchi di opportunità. Dopo 1 round entra anche Durnn, mentre la chierica è dietro pronta a curarlo.
+
+Goblin (4) : 5 pf; 3d10 ma, 1d4 mo
+HobGoblin (3) : 6 pf; 4d10 ma, 2d4 mo
+Durnn : 16 pf
+Grenl : 8 pf; 23 ma, 4 mo
+Arbusto : 10 pf
+￼￼
+
+￼￼
+
+￼
+
+
+
+</Text>
         </Document>
         <Document ID="24">
             <Title>Zugzw, mezzazampa</Title>
@@ -995,6 +1090,10 @@ AISOLORI ICNESOER IGLDOTLR ACMOCGFR CEOTENNE PE.
         </Document>
         <Document ID="32">
             <Title>pugnali di fuoco</Title>
+        </Document>
+        <Document ID="33">
+            <Title>Dem 'turacciolo' </Title>
+            <Text>￼</Text>
         </Document>
     </Documents>
 </SearchIndexes>

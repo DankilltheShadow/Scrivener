@@ -112,7 +112,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>91,91</TextSelection>
+                                        <TextSelection>2455,2447</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -146,14 +146,14 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="23" Created="2015-06-04 18:04:48 +0000" Modified="2015-06-24 17:56:34 +0000" Type="Text">
+                                <BinderItem ID="23" Created="2015-06-04 18:04:48 +0000" Modified="2015-06-26 00:10:00 +0000" Type="Text">
                                     <Title>Cittadella senza sole</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>32015,32015</TextSelection>
+                                        <TextSelection>41388,41388</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -182,6 +182,20 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>143,143</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="33" Created="2015-06-25 22:08:33 +0000" Modified="2015-06-25 22:20:17 +0000" Type="Text">
+                                    <Title>Dem 'turacciolo' </Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,1</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
