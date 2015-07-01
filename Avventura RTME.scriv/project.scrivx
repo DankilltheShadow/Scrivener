@@ -147,14 +147,14 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="23" Created="2015-06-04 18:04:48 +0000" Modified="2015-06-29 18:36:04 +0000" Type="Text">
-                                    <Title>Cittadella senza sole</Title>
+                                <BinderItem ID="23" Created="2015-06-04 18:04:48 +0000" Modified="2015-07-01 17:55:38 +0000" Type="Text">
+                                    <Title>Prima parte</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>12773,12773</TextSelection>
+                                        <TextSelection>8716,8716</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -306,14 +306,14 @@
                         <CorkboardSettings/>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="8" Created="2015-05-21 19:30:17 +0000" Modified="2015-06-24 18:28:14 +0000" Type="Text">
+                <BinderItem ID="8" Created="2015-05-21 19:30:17 +0000" Modified="2015-07-01 15:11:40 +0000" Type="Text">
                     <Title>PG</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>256,256</TextSelection>
+                        <TextSelection>213,213</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>

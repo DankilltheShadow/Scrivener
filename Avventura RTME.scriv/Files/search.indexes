@@ -100,15 +100,15 @@ EXP
 
 
 Becocci
-710
+797
 Tara
-710
+947
 Emilio
-560
+647
 Scaccio
-710
+797
 Pana
-710
+760
 
 </Text>
         </Document>
@@ -530,7 +530,7 @@ Se si accampano nei pressi durante la notte, vengono attaccati da 2 arbusti mali
 8	5pf</Text>
         </Document>
         <Document ID="23">
-            <Title>Cittadella senza sole</Title>
+            <Title>Prima parte</Title>
             <Text>0. Il burrone
 	“La Strada Rossa si snoda a est di un angusto burrone. Nel punto in cui essa si affianca a costeggiarlo maggiormente fuoriescono dalla fenditura numerose colonne spezzate; da qui innanzi il burrone si fa via via più profondo e ampio fino a raggiungere le dimensioni di un vero e proprio canyon. Due dei pilastri sono perpendicolari alla strada, ma la maggior parte degli altri si inclina a seguire il declivio. Molti sono rotti o spezzati e alcuni sembrano essere caduti nelle profondità ghermite dalle tenebre. Dal lato opposto del burrone si possono scorgere alcuni pilastri simili a quelli presenti da questa parte.”
 
@@ -611,7 +611,7 @@ Non appena la porta si apre un rumore sibilante e uno sbuffo di polvere palesano
 	“La polvere di secoli, intonsa, ricopre ogni superficie in questa vasta galleria. Tre alcove sono scavate nel muro a est e una in quello a ovest; ciascuna di esse contiene un piedistallo di pietra impolverato con sopra un globo di cristallo delle dimensioni di un pugno. Sebbene I globi delle alcove a est giacciano frantumati e spenti, quello nell’alcova a ovest, perfettamente integro, emana una leggera luminescenza bluastra. Dal globo si diffonde nella stanza una musica ovattata.”
 
 I pg notano uno strato spesso di polvere e l’aria stantia
-Trappola: Se ci si avvicina a meno di 1,5 metri dal globo la musica aumenta di intensità fino a 6 metri oltre le porte aperte. Per 5 minuti. Volontà (CD 18) ogni 10 round o si fugge alla massima velocià verso l’aera 3. Se ci si tappa gli orecchi +2 TS, se si cerca di tappare il globo +1 TS di tutti. Una volta raggiunta l’area 3 I personaggi colpiti si fermano e si tappano le orecchie per 10 round. L’effetto cessa immediatamente se si tenta di rompere il globo. Se il globo viene toccato radoppia la sua intensità (CD 23) ogni round invece che ogni 10. Ogni tentativo magico riduce il raggio a 3 metri dal globo. La rimozione del globo dalla stanza lo priva di ogni potere.
+Trappola: Se ci si avvicina a meno di 1,5 metri dal globo la musica aumenta di intensità fino a 6 metri oltre le porte aperte. Per 5 minuti. Volontà (CD 18) ogni 10 round o si fugge alla massima velocià verso l’aera 3. Se ci si tappa gli orecchi +2 TS, se si cerca di tappare il globo +1 TS di tutti. Una volta raggiunta l’area 3 I personaggi colpiti si fermano e si tappano le orecchie per 10 round. L’effetto cessa immediatamente se si tenta di rompere il globo. Se il globo viene toccato raddoppia la sua intensità (CD 23) ogni round invece che ogni 10. Ogni tentativo magico riduce il raggio a 3 metri dal globo. La rimozione del globo dalla stanza lo priva di ogni potere.
 
 
 8. Piastra a pressione
@@ -649,7 +649,7 @@ Fossa aperta: è profonda 3 metri, da nord a sud 3 metri e da est a ovest 6. Il 
 Scalare (CD 16): per calarsi e risalire con sicurezza.
 Saltare (CD 16) taglia media, vel 9 metri: per saltare dall’altra parte.
 
-Jot: 18 pf
+Jot: 18 pf, 17pf 13 
 ￼
 
 Tattiche: I personaggi che falliscono muoversi silenziosamente dalla fossa, o saltano/scalano vengono colti di sorpresa.
@@ -670,6 +670,16 @@ Cercare (CD 20): botola per un passaggio di 90 per 90 centimetri
 
 12. Sepolcro di un sacerdote del drago decaduto
 	“Piastrelle di marmo dai toni violacei coprono il pavimento e I muri della stanza, benchè tutte siano crepate o rotte, rivelando la nuda roccia sottostanzte. Candelabri da parete sono affissi ad ogni angolo delle mura, ma solo uno contiene una torcia, che arde di una debole luce verdastra. Un imponente sarcofago di marmo, lungo almeno 2,7 metri, giace al centro della stanza. La pietra è intarsiata con altorilievi raffiguranti draghi e la testa del sarcofago somiglia a quella di un drago. Borchie di metallo intaccato dalla ruggine bloccano il coperchio del sarcofago.”
+
+La fiamma del candelabro a sud ovest è una tocia perenne.
+
+Sei chiavistelli di ferro bloccano il coperco del sarcofago. Forza (CD 21) per romperli. Forza (CD 21) per aprire il coperchio.
+
+Un lampo di luce verde appare quando aprite il coperchio.
+
+Un troll con abiti raffinati, anche se ormai lacerati e putrefatti, porta dei gioielli scintillanti e degli anelli adornati con draghi dargento
+
+Troll: 18 pf
 
 CORRIDOIO VERSO 15-GUARDARE 14
 13. Vuota.
