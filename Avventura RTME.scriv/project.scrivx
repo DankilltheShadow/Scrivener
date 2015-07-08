@@ -306,14 +306,14 @@
                         <CorkboardSettings/>
                     </CorkboardAndOutliner>
                 </BinderItem>
-                <BinderItem ID="8" Created="2015-05-21 19:30:17 +0000" Modified="2015-07-01 15:11:40 +0000" Type="Text">
+                <BinderItem ID="8" Created="2015-05-21 19:30:17 +0000" Modified="2015-07-08 18:26:50 +0000" Type="Text">
                     <Title>PG</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>213,213</TextSelection>
+                        <TextSelection>255,255</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
