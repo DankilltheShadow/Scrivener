@@ -175,14 +175,14 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="27" Created="2015-06-24 01:23:26 +0000" Modified="2015-06-24 18:09:29 +0000" Type="Text">
+                                <BinderItem ID="27" Created="2015-06-24 01:23:26 +0000" Modified="2015-07-08 18:22:46 +0000" Type="Text">
                                     <Title>Lettera a Karakas</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>143,143</TextSelection>
+                                        <TextSelection>151,151</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
