@@ -100,15 +100,15 @@ EXP
 
 
 Becocci
-990
+1163
 Tara
-1090
+1263
 Emilio
-790
+963
 Scaccio
-940
+1113
 Pana
-940
+1113
 
 </Text>
         </Document>
@@ -679,7 +679,9 @@ Un lampo di luce verde appare quando aprite il coperchio.
 
 Un troll con abiti raffinati, anche se ormai lacerati e putrefatti, porta dei gioielli scintillanti e degli anelli adornati con draghi dargento
 
-Troll: 18 pf
+Troll: 42 pf
+
+￼
 
 CORRIDOIO VERSO 15-GUARDARE 14
 13. Vuota.
@@ -900,7 +902,7 @@ Buttafuori coboldi (3): 4pf
 
 Seguire Tracce/Sopravvivenza: 
 (CD 10) Tracce di topo non più vecchie di un giorno.
-(CD 13) Tracce di 3/4 umanoidi che attraversano la stanza diretti a nord, non più vecchie di 1 mese.
+(CD 13) Tracce di 3/4 umanoidi che attraversano la stanza diretti a est, non più vecchie di 1 mese.
 (CD 18) Diversi umanoidi di taglia media sono passati in questa stanza negli ultimi 6 mesi.
 
 NB la porta che da su 31 ha una trappola, vedi 31.
@@ -926,7 +928,7 @@ Trappola: Quando qualcuno tenta di aprire la porta senza aver disattivato la ser
 
 Per aprire la serratura è necessario che qualcuno diriga verso di essa una prova divina di scacciare di potere sufficiente a scacciare 2 DV. La porta riluce di blu spettrale e si apre silenziosamente.
 
-	“Cinque sarcofagi polverosi si ergono lungo le pareti di questa silente stanza, tre lungo la parete nord e due lungo quella sud. Ogni sarcofago è di pietra, ornato di incisioni che raffigurano una nobile creatura umanoide dall’aspetto elfico, in vesti da cerimonia. Al centro della parete ovest è posto un altare di ossidiana su cui brucia tuttora una candela solitaria.”
+	“Cinque sarcofagi polverosi si ergono lungo le pareti di questa silente stanza, tre lungo la parete est e due lungo quella ovest. Ogni sarcofago è di pietra, ornato di incisioni che raffigurano una nobile creatura umanoide dall’aspetto elfico, in vesti da cerimonia. Al centro della parete ovest è posto un altare di ossidiana su cui brucia tuttora una candela solitaria.”
 
 L’altare è decorato con incisioni di draghi e sorregge una candela il cui stoppino è stato incantato con un incantesimo Fiamma Perenne.
 Vicino alla candela ci sono due oggetti: un piccolo fischietto e una fiala da pozione.
@@ -944,7 +946,7 @@ Tesoro: una candela perenne, una pozione di contrastare elementi (fuoco) e un fi
 28. Celle infestate
 	Questo corridoio contiene 6 porte socchiuse (dalla A alla F), abbastanza aperte da far passare una creatura di taglia piccola.
 Seguire Tracce (CD 10): impronte lasciate da 3/4 umanoidi con gli stivali hanno attraversato il corridoio in ambo le direzioni.
-Sopravvivenza (CD 21): quattro umanoidi si sono diretti verso nord, seguiti da un umanoide visibilmente più piccolo, ma solo tre sono ritornati verso sud.
+Sopravvivenza (CD 21): quattro umanoidi si sono diretti verso est, seguiti da un umanoide visibilmente più piccolo, ma solo tre sono ritornati verso ovest.
 Cercare (CD 18): diversi umanoidi di taglia Media con gli stivali, sono passati di qui negli ultimi 6 mesi.
 
 Muoversi Silenziosamente (CD 12): se si fallisce 3 topi escono dalle celle. (b,c,e)
@@ -955,7 +957,7 @@ Topo Crudele (3): 5 pf
 Tesoro: Le tane, fatte di rocce, peluria e funghi, contengono piccoli oggetti luccicanti raccolti dai loro occupanti. Se si fruga si trova 2d6 ma, 1d6 mo e 1d4 gemme da 5mo.
 
 29. Vecchie trappole
-	“Il pavimento della stanza, composto da ciottoli, contiene due botole aperte e bloccate da spuntoni di ferro. E’ evidente che se tali botole fossero allo stesso livello del pavimento, sarebbero difficili da individuare. La parete nord contiene una fontana asciutta scolpita col bassorilievo di un drago”
+	“Il pavimento della stanza, composto da ciottoli, contiene due botole aperte e bloccate da spuntoni di ferro. E’ evidente che se tali botole fossero allo stesso livello del pavimento, sarebbero difficili da individuare. La parete est contiene una fontana asciutta scolpita col bassorilievo di un drago”
 
 Le “trappole” sono bloccate (per mano del gruppo disperso di avventurieri). Un esame delle due botole rivela sotto ciascuna una fossa profonda 6 metri contenente solo ossa di topo, frammenti di metallo arrugginito e sporcizia.
 
@@ -963,13 +965,13 @@ Seguire tracce come area 25, le tracce costeggiano le trappole e si dirigono ver
 
 Se si sta più di 3 round conversando o facendo rumore imboscata nell’area 30.
 
-Fontana: La fontana sulla parete nord somiglia molto a quella dell’area 26, presenta una scritta simile semi leggibile che recita in Draconico, Naihuine (E che Morte sia). Se si pronunciano le parole ad alta voce si attiva la trappola, una nube di veleno indebolito dal tempo si sprigoina dalle fauci del drago.
+Fontana: La fontana sulla parete est somiglia molto a quella dell’area 26, presenta una scritta simile semi leggibile che recita in Draconico, Naihuine (E che Morte sia). Se si pronunciano le parole ad alta voce si attiva la trappola, una nube di veleno indebolito dal tempo si sprigoina dalle fauci del drago.
 
 Trappola: Gas nel raggio di 3 metri. Tempra (CD 14) nega. 1 danno Costituzione, danno secondario 1d4 Costituzione. Cercare (CD 21), DisCon (CD 20).
 
 
 30. Mamma topo
-	“Il fetore di carne in putrefazione impregna l’aria, sollevandosi da carcasse mangiucchiate di numerosi topi delle caverne, parassiti più piccoli e alcuni corpi dalla sospetta apparenza umanoide. I cadaveri giacciono su di uno strato di sporcizia, vecchie ossa, peli e pellicce che formano una tana decisamente grande e disgustosa. Il muro a nord è frantumato e rivela una distesa oscura e cosparsa di detriti”
+	“Il fetore di carne in putrefazione impregna l’aria, sollevandosi da carcasse mangiucchiate di numerosi topi delle caverne, parassiti più piccoli e alcuni corpi dalla sospetta apparenza umanoide. I cadaveri giacciono su di uno strato di sporcizia, vecchie ossa, peli e pellicce che formano una tana decisamente grande e disgustosa. Il muro a est è frantumato e rivela una distesa oscura e cosparsa di detriti”
 
 Se I pg sono arrivati in silenzio noteranno I mostri in torpore, altrimenti saranno vittime di un’imboscata.
 
@@ -991,9 +993,9 @@ Tesoro: Frugando per almeno 10 minuti si riescono a trovare 300 ma, 68 mo, e 3 g
 
 
 31. Sala dei triboli
-NB. La porta a sud di questo corridoio è chiusa e munita di una trappola sonora costituita da una campana che emette un forte clangore se qualcuno apre la porta, mettendo sul chi vive tutti I goblin dell’area 32, Cercare (CD 21) DisCong(CD 20)
+NB. La porta a ovest di questo corridoio è chiusa e munita di una trappola sonora costituita da una campana che emette un forte clangore se qualcuno apre la porta, mettendo sul chi vive tutti I goblin dell’area 32, Cercare (CD 21) DisCong(CD 20)
 
-	“Il salone, dall’ampiezza di 3 metri, è abbondantemente cosparso di affilatissimi triboli. La porta a nord è assente ma la stanza al di là è parzialmente bloccata da un muro di circa 90 centimetri di rozza fattura completo di merlature”
+	“Il salone, dall’ampiezza di 3 metri, è abbondantemente cosparso di affilatissimi triboli. La porta a est è assente ma la stanza al di là è parzialmente bloccata da un muro di circa 90 centimetri di rozza fattura completo di merlature”
 
 I goblin dell’area 32 si affacciano alle merlature se si accorgono della presenza dei personaggi. Usando attacchi a distanza.
 
@@ -1003,7 +1005,7 @@ Si può usare uno strumento per rimuovere I triboli (1 round per ogni casella)
 Se si vuole muovere a velocità normale attacco di contatto in mischia +0 ogni quadretto. Se si indossano delle scarpe si ha un +2 CA. 1 danno e dimezza la velocità fino al giorno seguente o fino a cure.
 
 32. Il cancello dei goblin
-	“Lo strato di sporcizia sul pavimento e di sego sui muri, le pelli logore e I focolai consunti dall’uso, attestano senza ombra di alcun dubbio, la lunga permanenza in questo luogo di creature la cui principale preoccupazione non era certamente l’igiene. La porta più ad est del muro a sud è stata rimossa e rimpiazzata con un basso muro di rozza fattura completo di merlature.”
+	“Lo strato di sporcizia sul pavimento e di sego sui muri, le pelli logore e I focolai consunti dall’uso, attestano senza ombra di alcun dubbio, la lunga permanenza in questo luogo di creature la cui principale preoccupazione non era certamente l’igiene. La porta più ad est del muro a ovest è stata rimossa e rimpiazzata con un basso muro di rozza fattura completo di merlature.”
 
 Se si percuisisce la stanza si troverà carne putrida, otri di vino irrancidito e altre cianfrusaglie dei goblin.
 Se si catturano I goblin hanno le stesse info di “Turacciolo” (vedi 34)
@@ -1017,7 +1019,7 @@ Goblin (2) : 4 pf; 2d10+2 ma
 ￼
 
 33. Zona di tiro
-	“Dozzine di giavellotti rotti e spuntati giacciono sui ciottoli sbeccati che compongono il pavimento. Alcuni sono infilzati in tre bersagli rozzamente intagliati e di forma vagamente umana appesi al centro del muro a sud. La parte nord della stanza è separata da quella a sud da un basso muro di rozza fattura completo di merlature. A nord del muro si trova un accampamento permanente, completo di focolare e di numerose pentole di ferro.”
+	“Dozzine di giavellotti rotti e spuntati giacciono sui ciottoli sbeccati che compongono il pavimento. Alcuni sono infilzati in tre bersagli rozzamente intagliati e di forma vagamente umana appesi al centro del muro a ovest. La parte est della stanza è separata da quella a ovest da un basso muro di rozza fattura completo di merlature. A est del muro si trova un accampamento permanente, completo di focolare e di numerose pentole di ferro.”
 
 Ci sono 4 Goblin, o 5 se è arrivato il goblin dalla stanza precedente.
 
@@ -1043,7 +1045,7 @@ I coboldi sono incerti sul da farsi e non contenti di farsi liberare perchè pot
 
 La gnoma sarà grata e cercherà di aiutare. Parla lo Gnomesco, il Goblin e il Comune.
 Come mai sei qui? - ha conosciuto Sir Bradford, preoccupata del non ritorno è andata a cercarlo. Pensava che la sua conoscenza del goblin potesse aiutarla.
-Cosa sai dei goblin\Beliak? - Ha sentito parlare I goblin del Giardino del Crepuscolo, che si trova più in profondità. E’ abitato da quello che crede un druido malvagio di nome Belak, che si prende cura di un giardino incantato e raccoglie dei magici frutti da un albero che I goblin chiamano l’Albero di Tharizdun. I goblin parlano di questo argomento solo sussurrando, ne sono terrorizzati.
+Cosa sai dei goblin\Belak? - Ha sentito parlare I goblin del Giardino del Crepuscolo, che si trova più in profondità. E’ abitato da quello che crede un druido malvagio di nome Belak, che si prende cura di un giardino incantato e raccoglie dei magici frutti da un albero che I goblin chiamano l’Albero di Tharizdun. I goblin parlano di questo argomento solo sussurrando, ne sono terrorizzati.
 Cos’è la faccenda dei frutti? - Il frutto del solstizio d’estate ridona spirito e vigore a chi lo mangia; quello del solstizio d’inverno, invece, ne priva. Belak permette ai goblin di portare in superficie I frutti e di venderli, ma non so perchè.
 Sai qualcosa degli arbusti maligni? - Quelle creature vivono nel livello inferiore con Belak.
 Hai avuto notizie degli avventurieri? - Non ho notizie certe, non gli ho incontrati. A sentire parlare I goblin ne hanno catturati solo 3 e gli hanno portati al livello inferiore. A quanto pare Belak li voleva ma non so perchè.
@@ -1064,7 +1066,7 @@ Sviluppo: Se cadono nella trappola I goblin più vicini alla 36 saranno in allar
 
 
 36. Banditi goblin
-	“Il fetore, il sudiciume, alcune carcasse in decomposizione e delle gambe di strane creature parzialmente divorate sono testimoni degli anni trascorsi in questo luogo da abitatori privi di rispetto per le più elementari norme igieniche. Delle pelli cenciose formano sei instabili amache attorno ad un fuoco da campo ormai spento. Slcuni arnesi da cucina giacciono alla rinfusa sul terreno, insieme a parti sconnesse di armature e armi spezzate”
+	“Il fetore, il ovesticiume, alcune carcasse in decomposizione e delle gambe di strane creature parzialmente divorate sono testimoni degli anni trascorsi in questo luogo da abitatori privi di rispetto per le più elementari norme igieniche. Delle pelli cenciose formano sei instabili amache attorno ad un fuoco da campo ormai spento. alcuni arnesi da cucina giacciono alla rinfusa sul terreno, insieme a parti sconnesse di armature e armi spezzate”
 
 Contengono solo sporcizia, vino rancido e cianfrusaglie goblin prive di valore.
 
@@ -1086,19 +1088,19 @@ In questa stanza c’è il drago che si stà riposando dietro un tavolo. Attacch
 
 Tattiche: il drago utilizza la sua arma a soffio cercando di colpire più PG possibili (cono 	lungo 4,5 metri). Lo può riutilizzare solo dopo 1d4 round quindi userà questi round per mordere e artigliare I pg. Essendo minuscolo deve entrare nella casella per colpire, provocando un attacco di opportunità.
 
-Calcryx : 31 pf
+Calcryx : 31 pf -2
 ￼
 
 Tesoro: Il drago ha raccolto tutti gli oggetti di valore su una piccola tana sotto un tavolo di legno. Il tesoro comprende:
 Una statuetta di giada a forma di drago (20 mo)
 Un calice di cristallo (5 mo)
 24 pezzi di argenteria (1 mo ciascun)
-Una custodia per pergamente d’osso vi è inciso in rune naniche “”. (non si apre se non si pronuncia in Draconico\nanico “”) al suo interno 3 pagine strappate. Il cui inchiostro è rovinato dal tempo e dall’acqua ma si può leggere “…I pochi superstiti. Per ordine di Durgoss il nero abbiamo creato un fortino nanico segreto all’interno dell’antica struttura umana. Nessuno ci potrà scoprire…
+Una custodia per pergamente d’osso vi è inciso in rune naniche “”. (non si apre se non si pronuncia in Draconico\nanico “”) al suo interno 3 pagine strappate. Il cui inchiostro è rovinato dal tempo e dall’acqua ma si può leggere “…I pochi superstiti. Per ordine di Durgoss il nero abbiamo creato un fortino nanico segreto all’interno dell’antica struttura umana. Nessuno ci potrà scoprire…”
 
 38. Passaggio goblin
 Entrambe le porte sono chiuse a meno che un goblin in fuga dall’area 33 non si stia dirigendo all’area 41.
  
-	“Le pareti nord e sud di questa stanza sono colme fino al soffitto di barili, scatole e ceste, in pessimo stato  di conservazione e impilati disordinatamente. Un passaggio sgombro permette di muoversi agevolmente da est ad ovest.”
+	“Le pareti est e ovest di questa stanza sono colme fino al soffitto di barili, scatole e ceste, in pessimo stato  di conservazione e impilati disordinatamente. Un passaggio sgombro permette di muoversi agevolmente da est ad ovest.”
 
 E’ un magazzino per acqua salmastra, carne in putrefazione, 2,5 litri di olio e budino elfico. All’esterno di alcuni barili c’è scritto in goblin “budino elfico”
 
@@ -1112,7 +1114,7 @@ Tattiche: I goblin delle aree 36 reagiscono a ogni rumore forte di quest’area.
 40. La città dei goblin
 Chiunque è a meno di 3 metri da le porte che conducono in quest’area può udire senza difficoltà I borbottii di diverse voci gutturali provenire da dentro.
 
-	“Quella che un tempo poteva essere una cattedrale è divenuta ormai una tana di goblin, colma del sudiciume di anni di permanenza di queste creature. La sala è illuminata da fughi dalla luminescenza violacea, ammassati in candelabri da parete conficcati a forza nel pavimento e nelle fessure dei muri. In questa luce nauseante, dozzine di goblin svolgono le loro abituali occupazioni, che sembrano essere prevalentemente dormire, preparare I pasti, discutere, mangiare, dormire, combattere, affilare le armi, muoversi di soppiatto, dormire, urlare, combattere, cucire e dormire. Sul muro a sud sono accatastate pile di oggetti assortiti tra cui ruote di carri, armature rotte e armi arrugginite, casse, piccole statue, oggetti antichi e d’arte. Sfortunatamente, pare che nessuno si preoccupi delle condizioni del ‘ripostiglio’.”
+	“Quella che un tempo poteva essere una cattedrale è divenuta ormai una tana di goblin, colma del sudiciume di anni di permanenza di queste creature. La sala è illuminata da fughi dalla luminescenza violacea, ammassati in candelabri da parete conficcati a forza nel pavimento e nelle fessure dei muri. In questa luce nauseante, dozzine di goblin svolgono le loro abituali occupazioni, che sembrano essere prevalentemente dormire, preparare I pasti, discutere, mangiare, dormire, combattere, affilare le armi, muoversi di soppiatto, dormire, urlare, combattere, cucire e dormire. Sul muro a ovest sono accatastate pile di oggetti assortiti tra cui ruote di carri, armature rotte e armi arrugginite, casse, piccole statue, oggetti antichi e d’arte. Sfortunatamente, pare che nessuno si preoccupi delle condizioni del ‘ripostiglio’.”
 
 Sono prsenti 34 goblin e 10 hobgoblin ma solo 4 goblin e 3 hobgoblin attaccano I pg. Gli altri sono troppo giovani, vecchi, inesperti o codardi per difendersi.
 
@@ -1127,7 +1129,7 @@ Tesoro: la pila di oggetti addossata alla parete meridionale il bottino scarso d
 41. Sala del capo goblin
 Se vengono avvertite o se sentono rumore dall’area 40 le guardie si appostano vicino alla porta per 10 minuti e poi vanno a controllare.
 
-	“Un condotto circolare penetra da parte a parte il pavimento di questa stanza a cupola del diametro di 12 metri. Una fioca luce violacea fuoriesce dal condotto, rivelando I rampicanti di color grigio e bianco pallido che ne coprono le pareti. Oltre alla luce che fuoriesce dal passaggio, la stanza è illuminata da quattro torce appese alla parete, equidistanti tra loro. Un trono di pietra di rozza fattura giace nella curva a nord della parete; una grossa cassa di ferro funge da sgabello. Vicino al trono, un alberello è piantato in un grosso vaso di pietra.”
+	“Un condotto circolare penetra da parte a parte il pavimento di questa stanza a cupola del diametro di 12 metri. Una fioca luce violacea fuoriesce dal condotto, rivelando I rampicanti di color grigio e bianco pallido che ne coprono le pareti. Oltre alla luce che fuoriesce dal passaggio, la stanza è illuminata da quattro torce appese alla parete, equidistanti tra loro. Un trono di pietra di rozza fattura giace nella curva a est della parete; una grossa cassa di ferro funge da sgabello. Vicino al trono, un alberello è piantato in un grosso vaso di pietra.”
 
 I rampicanti sono considerati come una corda a nodi (CD 0), scende per 24 metri, una caduta provoca 8d6 danni,Riflessi (CD 16) nega afferrando al volo un rampicante.
 
