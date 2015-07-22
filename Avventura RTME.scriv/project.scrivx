@@ -153,7 +153,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>13008,13008</TextSelection>
+                                        <TextSelection>13007,12995</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -209,7 +209,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>20510,20510</TextSelection>
+                                        <TextSelection>16148,16139</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -231,14 +231,14 @@
                                 <CorkboardSettings/>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem ID="36" Created="2015-06-29 17:16:14 +0000" Modified="2015-06-29 17:22:48 +0000" Type="Text">
+                                <BinderItem ID="36" Created="2015-06-29 17:16:14 +0000" Modified="2015-07-21 23:44:43 +0000" Type="Text">
                                     <Title>Stanze</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>542,542</TextSelection>
+                                        <TextSelection>9544,9544</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>

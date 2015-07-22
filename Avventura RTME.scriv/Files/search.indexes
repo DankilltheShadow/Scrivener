@@ -1160,7 +1160,118 @@ Arbusto : 10 pf
         <Document ID="36">
             <Title>Stanze</Title>
             <Text>42. Centrale dei fertilizzanti
-	“Dei funghi luminescenti crescono sulle pareti e sul soffitto, diffondendo una luce violacea. L’aria è umida, fredda e impregnata dell’odore di sostanze in putrefazione. Uno strato di terriccio, misto a vegetazione parzialmente decomposta e ai resti di creature delle caverne, copre il pavimento della larga caverna. Diverse specie di funghi e muschi crescono tra I detriti, così come alcuni alberelli. Due figure macilente e incappucciate sono indaffarate a spalare la terra dentro un contenitore arrugginito.”</Text>
+	“Dei funghi luminescenti crescono sulle pareti e sul soffitto, diffondendo una luce violacea. L’aria è umida, fredda e impregnata dell’odore di sostanze in putrefazione. Uno strato di terriccio, misto a vegetazione parzialmente decomposta e ai resti di creature delle caverne, copre il pavimento della larga caverna. Diverse specie di funghi e muschi crescono tra I detriti, così come alcuni alberelli. Due figure macilente e incappucciate sono indaffarate a spalare la terra dentro un contenitore arrugginito.”
+
+Tattiche: Le creature dell’area 43 investigheranno ogni rumore sospetto dopo 3 round.
+
+Arbusti maligni (2): 9 pf
+Scheletri (2): 9 pf
+
+43. Il grande cacciatore
+	“Il pavimento di questa caverna dalla forma irregolare è macchiato come se fosse regolarmente bagnato di sangue. Dei funghi luminescenti rivelano una nicchia nella zona ad sud della stanza, che contiene una palla di pelo e di pelliccia, un’ampia rastrelliera di legno su cui sono affisse numerose armi di rozza fattura ma ugualmente letali e un grande mantello di pellicce nere cucite insieme appeso ad un lungo palo. All’estremità della nicchia si trovano due grosse tane fatte di pelliccia e rifiuti”
+
+Tattiche: attacca urlando in Goblin “Preparati a incontrare la pentola!”, impugna una morning star media con 2 mani
+
+Balsag : 36 pf
+Morsa e Zanna (2): 9,8 pf
+
+Tesoro: Le armi sulla rastrelliera valgono la metà del prezzo di mercato (2 lance, 6 giavellotti, 1 spada lunga, 1 spada bastarda). Nelle tane dei topi 3d20 ma e 4d10 mo per tana.
+
+44. Fenditura
+	“Il tunnel si interrompe in questo punto, probabilmente a causa di qualche violenta scossa di terremoto che ha lacerato la terra. Prosegue oltre la fenditura, benchè sia spostato di 3 metri ad ovest”
+
+La fenditura èpriva di funghi fosforescenti, che crescono rigogliosi nel corridoio che conduce a quest’area.
+L’aria odora di zolfo.
+Il fondo della fenditura è colmo di detriti e si trova 60 centimetri più in basso rispetto al corridoio.
+E’ disseminato inoltre di enigmatiche buche di 30 centimetri di diametro.
+
+45. Snodo della fenditura
+	“La fenditura si allarga creando un’anticamera di pietra. Lo snodo è disseminato di piccole buche del diametro di 30 centimetri. Da una di queste cavità si sprigiona una luce intensa.”
+
+Tattiche: Se si avvicinano a meno di 18 metri il Thoqqua carica balzando dalla buca.
+
+Thoqqua : 16 pf
+
+Tesoro: Se sventrato si trova 2 zaffiri (50mo)
+
+46. Antico santuario
+La porta di pietra che conduce In questa stanza è chiusa e bloccata (Forza CD 18)
+	“Frammenti sbiaditi di antichi mosaici coprono ancora parte delle pareti, ma per la maggior parte sono caduti in frantumi. Al centro della stanza si erge un sottile piedistallo di ferro arrugginito, a forma di dragone rampante. Nella bocca del drago si scorge un ripiano vuoto”
+
+
+47. Stanze dei goblin di Belak
+	“Una doppia fila di colonne di marmo, incise con draghi intrecciati, attraversa la lunghezza della sala, benchè per la maggior parte siano coperte da funghi luminescenti. Il pavimento è composto da ciottoli, frantumato e macchiato dall’uso eccessivo. Nella stanza vi sono numerosi tavoli di legno, sui quali giacciono mortai e pestelli, coppe colme di foglie sbriciolate, gambi di funghi fatti a pezzi e altri esemplari di vegetali. Numerose porte si aprono su questa stanza e sono tutte parzialmente aperte; al di là di esse provengono suoni confusi”
+
+Se non si sussurra si rischia di allarmare I goblin.
+Sui tavoli sono presenti foglie macerate, funghi, cortecce e radici in polvere. 
+Conoscenza Natura (CD 13): identifica tantissimi esemplari diversi di piante, funghi etc. Ma dal pallore pronunciato, come se cresciuti senza luce solare.
+Conoscenza Natura (CD 20): Si identifica un Cataplasma, utilizzabile una sola volta e conferisce +2 alle prove di guarire su una ferita.
+
+Tattiche: Se avviene uno scontro si attira tutti I goblin, 2 per round.
+
+Goblin (8) : 5 pf
+
+Tesoro: Ogni Goblin ha 2d10+2 ma, il cataplasma vale 10mo. I barili di liquore goblin 5 mr
+
+A: In questo rozzo dormitorio goblin si sente russare. Il pavimento è coperto da sedici giacigli fatti di pelle e pellicce, due dei quali contengono goblin addormentati.
+B: Delle rozze apparecchiature per pressare, schiacciare e mettere in botti permettono ai goblin presenti di creare liquori goblin. 2 goblin sono a piedi nudi nel tino, schiacciando e riducendo in poltiglia delle radici simili a patate. Si trovano anche un sudicio barile attrezzato a filtro e dieci barili di prodotto finito, dal pessimo sapore e dall’estrema gradazione alcolica.
+C: Due goblin stanno riparando delle lerce armature con corda, aghi di ferro e pezze di cuoio e altri rozzi strumenti da cucito.
+D: Due goblin esaminano le condizioni di un topo crudele, legato con delle cinghie su di un tavolo di legno e con le zampe divaricate. La creatura soffre atrocemente a casua di orribili e evidenti tumori, somiglianti ad arbusti e a frutti; priva di aiuto è destinata a morire entro pochi giorni. Su un angolo del tavolo è posizionata una fiala di cristallo dalla forma bizzarr che contiene un elisir di colore verde scuro. Se ingerito è come una malattia, Tempra (CD 15), periodo di incubazione 1 giorno, 1d4 a Costituzione + 1d4 a Costituzione.
+E: Magazzino per armi che contiene 5 malconce spade corte e trenta giavellotti.
+F: L’area è vuota.
+
+48. Galleria
+Solo in una delle 2 aree è presente un bugbear
+	“Funghi luminescenti, disposti in piccole colonie, pendono dal soffitto e dalle pareti e crescono a mucchi sul pavimento lastricato. La luce, di un’intesità quasi fastidiosa, illumina parte delle incisioni di un enorme bassorilievo, visibili sulle pareti di pietra che non sono ricoperte da funghi della stessa specie. Le incisioni raffigurano draghi ritratti in vari stadi d’età mentre sputano fuoco su umani, elfi, nani e altre creature terrorizzate. Nella stanza, un composto di terriccio e concime ricopre metà del pavimento, che permette la crescita di un’enorme varietà d’erbe dalle tonalità piuttosto pallide. Un bancone da lavoro, sul quale sono appoggiati semplici attrezzi per il giardinaggio, è posto lungo la parete ad ovest”
+
+Tattiche: Il bugbear è armato di una falce impugnata con entrambe le mani. I muri sono spessi e I servi vicino non sentono rumori di lotta.
+
+Bugbear : 16 pf, 4d10ma, 2d10 mo
+
+Tesoro: Possiede una dose di fertilizzante ideato da Belak che, somministrato ad un vegetale, ne raddoppia le dimensioni in un mese (30 mo).
+
+49. Giardino
+	“Vapori luminescenti rendono sfuocate le pareti di questa stanza che presenta una pianta ottagonale. Agglomerati di funghi scintillanti punteggiano sia le pareti di pietra sia il soffitto, così come I cappelli dei funghi velenosi e commestibili, come I piccoli polipi, vesce, licheni e altre forme di vita vegetale più difficilmente identificabili. L’umidità e l’insopportabile odore di putrefazione rendono l’aria irrespirabile.”
+
+A: Quattro goblin raccolgono speciali funghi da usare nell’area 47. Attaccano I PG
+Goblin (4) : 5 pf, 2d10+2 ma
+B: Le piante di questa stanza appaiono secche perchè un giovane thoqqua scava buchi. I funghi coprono I buchi.
+Thoqqua : 16 pf, uno zaffiro (20mo)
+C: Tre scheletri adempiono al loro dovere cospargendo il terreno di concime.
+Scheletri (3) : 9 pf, 4d10ma
+D: Un bugbear giardiniere sradica le piante secche uccise dal thoqqua della stanza 49b. I funghi coprono I buchi
+Bugbear : 16 pf, 4d10 ma, 2d10 mo
+
+50. Santuario di Mist
+	“Le mura e il soffitto sono rivestiti da blocchi di granito che riportano incisa la figura di un drago. Molti sono sgretolati e rotti e I loro frammenti formano sul pavimento mucchi di detriti pietrosi. Un’imponente statua di marmo che rappresenta un drago rampante è ancora posta in una nicchia del muro ad ovest. Nelle orbite vuote del drago risplende una fiamma d’intensa luminosità che fornisce una luce rossiccia a tutta la camera. Lo splendore irradiato dalla fiamma non raggiunge però la zona dietro le enormi ali del drago, dove si forma un’ombra nera come l’inchiostro. Una lastra circolare in pietra rossa del diametro di 1,5 metri è incastonata nel pacimento proprio di fronte alla statua del drago. Strane iscrizioni sono scolpite lungo il bordo circolare all’interno della lastra”
+
+Conoscenze Arcane: il drago scolpito nella pietra è identico a un drago rosso.
+Individuazione del Magico: il drago e la lastra circolare emettono una forte aura di Trasmutazione.
+La lastra di pietra rossa permette di acquisire un potere speciale, tuttavia se ci si avvicina a meno di 1,5 metri si sveglia il mostro non morto che si nasconde dietro la statua
+Osservare CD30 si nota l’ombra celarsi nell’oscurità-
+
+Tattiche: L’ombra attacca chiunque tenta di esaminare la lastra, di rubare il tesoro o attacca. Infligge 1d6 danni temporanei a Forza con tocco incorporeo.
+
+Ombra : 13 pf
+
+Tesoro: Una prova di Cercare effettuata con successo (CD 18) rivela la presenza di una pietra sconnessa sulla parete proprio dietro la statua dove l’ombra custodisce il suo piccolo bottino, 34mo e due ampolle chiuse con un tappo d’argilla a forma di testa di drago. Le ampolle contengono Fuoco dell’alchimista
+
+Lastra di pietra rossa: Le iscrizioni all’interno del bordo della lastra sono in Draconico: Ea serpenta rau kaluva nyawisti (Possa il potere dello stregone illuminare la mia mente). Chiunque pronunci questa formula a voce alta stando in piedi sulla lastra invoca la magia della statua di drago.
+Un soffio di fiamma spettrale avvolge il bersaglio sulla lastra fornendogli un bonus di potenziamento al Carisma di 1d4+1 per 24 ore.
+La lastra una volta attivata si disattiva per 24 ore.
+
+51. Libreria del drago
+	“”
+52. Sottopassaggio
+	“”
+53. Culto della natura
+	“”
+54. Cancello del bosco
+	“”
+55. Bosco del Crepuscolo
+	“”
+56. L’albero di Tharizdun
+	“”</Text>
         </Document>
         <Document ID="37">
             <Title>Mappa</Title>
