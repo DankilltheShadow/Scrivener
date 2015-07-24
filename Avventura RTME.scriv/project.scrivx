@@ -126,6 +126,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
+                                        <TextSelection>1,1</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -181,7 +182,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>151,151</TextSelection>
+                                        <TextSelection>40,40</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -202,14 +203,14 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="34" Created="2015-06-29 17:09:38 +0000" Modified="2015-07-15 23:00:23 +0000" Type="Text">
+                                <BinderItem ID="34" Created="2015-06-29 17:09:38 +0000" Modified="2015-07-22 23:39:46 +0000" Type="Text">
                                     <Title>seconda Parte</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>16148,16139</TextSelection>
+                                        <TextSelection>22950,22950</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -238,7 +239,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9544,9544</TextSelection>
+                                        <TextSelection>8654,8654</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
