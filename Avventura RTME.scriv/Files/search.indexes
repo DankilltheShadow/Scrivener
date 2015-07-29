@@ -100,16 +100,26 @@ EXP
 
 
 Becocci
-1163
+2
+1745
 Tara
-1263
+2
+1745
 Emilio
-963
+1
+1445
 Scaccio
-1113
+2
+1605
 Pana
-1113
+2
+1605
 
+
+Turacciolo: 255
+
+Ultimo mostro dato:
+Massacro goblin. Rimane solo stanza 41
 </Text>
         </Document>
         <Document ID="9">
@@ -820,7 +830,7 @@ ILKMIIEK.
         </Document>
         <Document ID="29"/>
         <Document ID="30">
-            <Title>Simbolo Cormyr</Title>
+            <Title>Fiaschetta C</Title>
         </Document>
         <Document ID="31">
             <Title>Simbolo Mielikki</Title>
@@ -1138,7 +1148,7 @@ Attaccano subito e non rispondono a domande se non obbligati.
 Conoscono in più:
 Belak voleva che gli fossero consegnati vivi tutti e tre gli umani ma in un momento d’ira provocato da una immaginaria offesa Durnn ha ucciso Talgen in questa stanza. Gli altri 2 sono stati mandati giù ben legati. L’anello lo ha al dito Durnn
 
-Tattiche: I nemici si scagliano al cobattimento, cercand di prendere il fianco se non provoca attacchi di opportunità. Dopo 1 round entra anche Durnn, mentre la chierica è dietro pronta a curarlo.
+Tattiche: I nemici si scagliano al cobattimento, cercando di prendere il fianco se non provoca attacchi di opportunità. Dopo 1 round entra anche Durnn, mentre la chierica è dietro pronta a curarlo.
 
 Goblin (4) : 5 pf; 3d10 ma, 1d4 mo
 HobGoblin (3) : 6 pf; 4d10 ma, 2d4 mo
@@ -1149,6 +1159,10 @@ Arbusto : 10 pf
 
 ￼￼
 ￼
+
+Tesoro: Oltre all’anello con sigillo infilato al dito di Durnn e alla sua corazza a scaglie (di Talgen), una cassa di ferro giace di fronte al trono. Trappola (Cercare CD 21). Contiene 231 mo, due dosi di antitossina, una pergamena arcana di scassinare e una pozione di grazia felina.
+
+Trappola: Tempra (CD 15), 1d4 Costituzione, danno secondario 1d4 Costituzione. Riflessi nega (CD 16). Disatt Cong (CD 20).
 
 
 
@@ -1167,6 +1181,8 @@ Tattiche: Le creature dell’area 43 investigheranno ogni rumore sospetto dopo 3
 Arbusti maligni (2): 9 pf
 Scheletri (2): 9 pf
 
+￼￼
+
 43. Il grande cacciatore
 	“Il pavimento di questa caverna dalla forma irregolare è macchiato come se fosse regolarmente bagnato di sangue. Dei funghi luminescenti rivelano una nicchia nella zona ad sud della stanza, che contiene una palla di pelo e di pelliccia, un’ampia rastrelliera di legno su cui sono affisse numerose armi di rozza fattura ma ugualmente letali e un grande mantello di pellicce nere cucite insieme appeso ad un lungo palo. All’estremità della nicchia si trovano due grosse tane fatte di pelliccia e rifiuti”
 
@@ -1174,6 +1190,8 @@ Tattiche: attacca urlando in Goblin “Preparati a incontrare la pentola!”, im
 
 Balsag : 36 pf
 Morsa e Zanna (2): 9,8 pf
+
+￼￼
 
 Tesoro: Le armi sulla rastrelliera valgono la metà del prezzo di mercato (2 lance, 6 giavellotti, 1 spada lunga, 1 spada bastarda). Nelle tane dei topi 3d20 ma e 4d10 mo per tana.
 
@@ -1191,6 +1209,8 @@ E’ disseminato inoltre di enigmatiche buche di 30 centimetri di diametro.
 Tattiche: Se si avvicinano a meno di 18 metri il Thoqqua carica balzando dalla buca.
 
 Thoqqua : 16 pf
+
+￼
 
 Tesoro: Se sventrato si trova 2 zaffiri (50mo)
 
@@ -1211,6 +1231,8 @@ Tattiche: Se avviene uno scontro si attira tutti I goblin, 2 per round.
 
 Goblin (8) : 5 pf
 
+￼
+
 Tesoro: Ogni Goblin ha 2d10+2 ma, il cataplasma vale 10mo. I barili di liquore goblin 5 mr
 
 A: In questo rozzo dormitorio goblin si sente russare. Il pavimento è coperto da sedici giacigli fatti di pelle e pellicce, due dei quali contengono goblin addormentati.
@@ -1228,6 +1250,8 @@ Tattiche: Il bugbear è armato di una falce impugnata con entrambe le mani. I mu
 
 Bugbear : 16 pf, 4d10ma, 2d10 mo
 
+￼
+
 Tesoro: Possiede una dose di fertilizzante ideato da Belak che, somministrato ad un vegetale, ne raddoppia le dimensioni in un mese (30 mo).
 
 49. Giardino
@@ -1242,6 +1266,9 @@ Scheletri (3) : 9 pf, 4d10ma
 D: Un bugbear giardiniere sradica le piante secche uccise dal thoqqua della stanza 49b. I funghi coprono I buchi
 Bugbear : 16 pf, 4d10 ma, 2d10 mo
 
+￼￼￼
+￼
+
 50. Santuario di Mist
 	“Le mura e il soffitto sono rivestiti da blocchi di granito che riportano incisa la figura di un drago. Molti sono sgretolati e rotti e I loro frammenti formano sul pavimento mucchi di detriti pietrosi. Un’imponente statua di marmo che rappresenta un drago rampante è ancora posta in una nicchia del muro ad ovest. Nelle orbite vuote del drago risplende una fiamma d’intensa luminosità che fornisce una luce rossiccia a tutta la camera. Lo splendore irradiato dalla fiamma non raggiunge però la zona dietro le enormi ali del drago, dove si forma un’ombra nera come l’inchiostro. Una lastra circolare in pietra rossa del diametro di 1,5 metri è incastonata nel pacimento proprio di fronte alla statua del drago. Strane iscrizioni sono scolpite lungo il bordo circolare all’interno della lastra”
 
@@ -1254,6 +1281,8 @@ Tattiche: L’ombra attacca chiunque tenta di esaminare la lastra, di rubare il 
 
 Ombra : 13 pf
 
+￼￼
+
 Tesoro: Una prova di Cercare effettuata con successo (CD 18) rivela la presenza di una pietra sconnessa sulla parete proprio dietro la statua dove l’ombra custodisce il suo piccolo bottino, 34mo e due ampolle chiuse con un tappo d’argilla a forma di testa di drago. Le ampolle contengono Fuoco dell’alchimista
 
 Lastra di pietra rossa: Le iscrizioni all’interno del bordo della lastra sono in Draconico: Ea serpenta rau kaluva nyawisti (Possa il potere dello stregone illuminare la mia mente). Chiunque pronunci questa formula a voce alta stando in piedi sulla lastra invoca la magia della statua di drago.
@@ -1261,20 +1290,124 @@ Un soffio di fiamma spettrale avvolge il bersaglio sulla lastra fornendogli un b
 La lastra una volta attivata si disattiva per 24 ore.
 
 51. Libreria del drago
-	“”
+	“Scaffali di pietra, alcuni ancora pendenti e altri completamente caduti, riempiono questa stanza, anche se un passaggio sgombro collega le due porte di legno su opposte pareti. Mucchi di pagine strappate e bruciate, copertine di libri e rotoli di pergamene formano cumuli disordinati negli angoli della stanza.”
+
+Tesoro: Effettuando 3 prove di Cercare (CD 20) si può trovare:
+Una pergamena arcana di “pirotecnica”
+Una pergamena arcana di “freccia acida di Melf”
+Un tomo per lo più ancora intatto di leggende sui draghi scritto in draconico, valore 150 MO. E’ scritto in draconico e fornisce +1 a tutte le conoscenze che riguardano I Draghi.
+
 52. Sottopassaggio
-	“”
+	“Gradini scivolosi per l’umidità e sgretolati scendono ripidamente.”
+
+È largo 3 metri e altro 2,4, si snoda per circa 2,1 metri di profondità. I gradini scendono per 4,5 metri connettendo il passaggio su entrambi I lati. E’ umido e si trova in condizione disastrose.
+
 53. Culto della natura
-	“”
+La porta che conduce in questa stanza è chiusa, Scassinare Serrature (CD 25).
+	“Uno strato di terriccio ricopre il pavimento. Grezzi scaffali di legno, riempiti con un numero assai ridotto di tomi e pergamente, sono allineati lungo le pareti ad est e sud, mentre un tavolo intagliato rozzamente rimane al centro della stanza. I funghi appesi al soffitto forniscono la luce, apparentemente in quantità sufficiente da permettere la crescita di alcuni piccoli cespugli e di pallidi alberelli che riescono ad affondare le loro radici sul terreno.”
+
+La maggior parte del materiale scritto contiene I dati stagionali di crescita, precipitazione, raccolti e anche dei dati registrati in superficie negli ultimi dodici anni.
+Un libro intitolato in draconico “Tesori dei Signori del Fuoco”. E’ protetto da un incantesimo “Trappola di fuoco”.
+Effettuando con successo 3 prove di Cercare (CD 17) si trovano tra I rifiuti:
+Una pergamena divina di “Intralciare”
+Una pergamena divina di “ritarda veleno”
+Un tomo scritto in Druidico, valore 150 MO. Se si legge si aggiunge +1 a tutte le prove di Conoscenza natura.
+
 54. Cancello del bosco
-	“”
+	“Quattro goblin costruiscono pile di ramoscelli e di radici sul pavimento di questa stanza che ormai sta cedendo. La parete a sud, completamente crollata, si apre su di una vasta caverna. Chiazze di funghi luminescenti nati sulle grezze pareti e sull’alto tetto continuano a crescere sopra un boschetto di rovi malaticci, cespugli, alberelli e di altri vegetali legnosi. Mura in rovina e torri cave si ergono dai rovi come isole dal mare.”
+
+Se viene data la possibilità di Osservare I pg noteranno la presenza di mura più alte e meno sgretolate nella parte ovest, al di là delle quali è possibile vedere la cima di un albero mastodontico.
+Osservare (CD 19) permette di percepire del movimento nella boscaglia, come se qualcuna delle piccole piante legnose si stesse muovendo.
+
+Tattiche: I goblin attaccano immediatamente, se si trovano in difficoltà chiedono aiuto urlando in goblinese “Aiutaci, Protettore del Bosco del Crepuscolo”. Se il combattimento si protrae per più di 6 round arrivano 4 arbusti maligni.
+
+Goblin (4) : 6 pf, 3d10+10 ma, 1d4 mo.
+Arbusti Maligni (4): 5 pf
+
+￼￼
+
 55. Bosco del Crepuscolo
-	“”
+	“Pallidi rovi avvizziti, muniti di spine sottili e minuscole, sono disseminati per l’intera area. La luce violacea proietta ombre allucinanti sul pavimento di terra battuta, creando l’illusione che qualcosa si muova tra I rami, anche se non vi soffia alcun vento.”
+
+Si possono scorgere più chiaramente le mura in lontananza.
+
+Tattiche: 10 arbusti maligni sono presenti (in totale) in questa zona) se ci si inoltra di almeno 15 metri se ne incontra 1d4. Muoversi Silenziosamente (CD 14/18) evita di incontrare gli arbusti tutti in un unico momento. Ad ogni round arriveranno 2 arbusti.
+
+Arbusti Maligni (10): 5 pf
+
+￼
+
 56. L’albero di Tharizdun
-	“”</Text>
+	“Tra I rovi della boscaglia si ergono possenti mura in pietra che cingono una radura. Attorno ad essa crescono vari tipi di vegetali e alcuni alberelli dall’aspetto poco rassicurante, la cui presenza diviene secondaria se comparata all’imponenza dell’albero che sorge proprio al centro della radura. Un singolare albero del male cresce assorbendo la luce emanata dai funghi velenosi. I suoi rami anneriti e contorti si diramano verso l’alto, come una mano scheletrica che cerca annaspando di emergere dal terreno. Esseri umani stanno vicino all’albero: due uomini e una donna. Una raganella lunga 90 centimetri sta accovacciata vicino ad uno degli uomini.”
+
+Le mura sono alte solo 6 metri, mentre il soffitto della caverna raggiunge un’altezza complessiva di 15 metri.
+Le tre figure sono una in mantello marrone e bastone, una in corazza a scaglie, e una in gambali e con una tunica corta.
+
+Osservare (CD 13) rivela che la pelle di 2 è ruvida e simile a corteccia.
+
+Belak: Non appena possibile Belak si rivolge ai PG urlando “Fermi, non sapete quello che state facendo!”. Se I PG ascoltano Belak si ritira temporaneamente.
+Chi sei e perchè ti trovi qui? “Io sono Belak, chiamato L’Esiliato. La società dei druidi mi ha espulso, quel branco di idioti. E sapete perchè? Per aver cercato di migliorare le tecniche della ricerca naturale con metodi troppo complessi per le loro menti ristrette. Ma non importa ormai, ho trovato quello che cercavo da tempo incarnato nell’Albero dell’Os”.
+Cos’è l’albero? “Non è stupendo? Sembra morto, eppure vive. Anni fa. E così crebbe l’Albero, capace di trasmettere oscuri poteri primordiali a quanti lo toccano”
+Cosa sono gli alberelli? “Sono arbusti maligni, nati dai semi dei frutti dell’Albero”.
+Che cosa succede poi ai frutti? “Consegno I frutti dell’albero ai goblin ordinando loro di spargere I semi sul terreno. Da disoneste creature quali sono, I goblin vendono I frutti, ma I semi vengono dispersi ugualmente e il mio progetto di colonizzare la superficie con I figli dell’Oscuro procede ugualmente”.
+Che cosa hai fatto agli avventurieri? “Erano I primi due “Supplicanti”. L’albero li ha accettati e adesso sono in mio potere, proprio come gli arbusti. Non crediate di poterli salvare”.
+Perchè ci riveli queste info? “Anche se I resti dei vostri corpi arricchirebbero il concime, sarà meglio per voi divenire supplicanti e assecondare le mie richieste. Potrete così conservare le vostre vite in un modo o nell’altro. Gettate le armi e sottomettetevi pacificaente, altrimenti sarà peggio per voi”.
+
+Tattiche: Prima che inizi il combattimento Sir bradford, la raganella e gli arbusti si posizionano tra I PG e Belak, Sharwyn di fianco. Quando la lotta inizia ingaggiano I PG in corpo a corpo. 
+Sir Bradford utilizza, se possibile, la Spezzapunte per distruggere l’arma del PG a contro cui sta lottando.
+Belak lancia su di sè “Pelle Coriacea” (+3 CA) e utilizza il prima possibile la bacchetta di “Intralciare”. Utilizza anche incantesimi di guarigione su Bradford.
+Sharwyn utilizza I suoi incantesimi per contrastare quelli lanciati su Belak.
+Se alcuni arbusti maligni sono rimasti nell’area 55 entrano al ritmo di 1d4 ogni 2 round.
+
+Se un PG attacca l’albero il comportamento cambia: tutti gli arbusti maligni si scaglieranno contro il PG e Belak lo attaccherà fisicamente. Se l’albero dovesse essere abbattuto Belak perde il controllo sugli arbusti e su I due PNG. Se Belak è ancora vivo, le sue vecchie forze considerano lui come bersaglio prima di assalire I PG.
+
+Belak: 36 pf
+Albero di Gulthias: 33 pf
+Kulket: 16 pf
+Sharwyn: 7 pf
+Sir Bradford: 12 pf
+Arbusti Maligni (3): 5 pf
+
+Albero di Gulthias: Il frutto rosso ha effetti simili all’incantesimo “Guarigione” (può essere tagliato in 4 parti). Il frutto bianco ha effetti simili all’incantesimo “parola del potere, uccidere”.
+Esaminando attentamente l’albero si possono notare depressioni di forma e di dimensioni umane, dove Sir Braford e Sharwyn sono stati in qualche modo assorbiti.
+
+
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+￼
+
+
+
+</Text>
         </Document>
         <Document ID="37">
             <Title>Mappa</Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="38">
+            <Title>Spezzapunte</Title>
+            <Text>￼
+￼</Text>
+        </Document>
+        <Document ID="39">
+            <Title>Muoversi tra i cespugli</Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="40">
+            <Title>Balsag il cacciatore.</Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="41">
+            <Title>Stanza Necro</Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="42">
+            <Title>Sarcofago del drago</Title>
             <Text>￼</Text>
         </Document>
     </Documents>
