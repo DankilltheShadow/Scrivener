@@ -519,6 +519,21 @@
                         <CorkboardSettings/>
                     </CorkboardAndOutliner>
                 </BinderItem>
+                <BinderItem ID="44" Created="2015-07-29 00:37:08 +0000" Modified="2015-07-29 00:37:08 +0000" Type="Image">
+                    <Title>Belak l'esiliato</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="10" Created="2015-05-21 13:14:36 +0000" Modified="2015-06-11 20:21:45 +0000" Type="Image">
