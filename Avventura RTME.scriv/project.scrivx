@@ -188,14 +188,13 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="33" Created="2015-06-25 22:08:33 +0000" Modified="2015-06-25 22:20:17 +0000" Type="Text">
+                                <BinderItem ID="33" Created="2015-06-25 22:08:33 +0000" Modified="2015-08-05 19:49:31 +0000" Type="Text">
                                     <Title>Dem 'turacciolo' </Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1,1</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -209,7 +208,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>25442,25442</TextSelection>
+                                        <TextSelection>3901,3901</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -231,14 +230,14 @@
                                 <CorkboardSettings/>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem ID="36" Created="2015-06-29 17:16:14 +0000" Modified="2015-07-29 00:17:41 +0000" Type="Text">
+                                <BinderItem ID="36" Created="2015-06-29 17:16:14 +0000" Modified="2015-08-19 15:31:04 +0000" Type="Text">
                                     <Title>Stanze</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>17507,17507</TextSelection>
+                                        <TextSelection>12841,12841</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -261,6 +260,20 @@
                                 </BinderItem>
                                 <BinderItem ID="39" Created="2015-07-29 00:20:29 +0000" Modified="2015-07-29 00:20:40 +0000" Type="Text">
                                     <Title>Muoversi tra i cespugli</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,1</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
+                                </BinderItem>
+                                <BinderItem ID="43" Created="2015-08-05 20:16:24 +0000" Modified="2015-08-05 20:16:39 +0000" Type="Text">
+                                    <Title></Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -340,7 +353,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>288,288</TextSelection>
+                        <TextSelection>272,272</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>

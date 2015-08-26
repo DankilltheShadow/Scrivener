@@ -840,7 +840,9 @@ ILKMIIEK.
         </Document>
         <Document ID="33">
             <Title>Dem 'turacciolo' </Title>
-            <Text>￼</Text>
+            <Text>￼
+
+Sole e Protezione</Text>
         </Document>
         <Document ID="34">
             <Title>seconda Parte</Title>
@@ -1198,7 +1200,7 @@ Tesoro: Le armi sulla rastrelliera valgono la metà del prezzo di mercato (2 lan
 44. Fenditura
 	“Il tunnel si interrompe in questo punto, probabilmente a causa di qualche violenta scossa di terremoto che ha lacerato la terra. Prosegue oltre la fenditura, benchè sia spostato di 3 metri ad ovest”
 
-La fenditura èpriva di funghi fosforescenti, che crescono rigogliosi nel corridoio che conduce a quest’area.
+La fenditura è priva di funghi fosforescenti, che crescono rigogliosi nel corridoio che conduce a quest’area.
 L’aria odora di zolfo.
 Il fondo della fenditura è colmo di detriti e si trova 60 centimetri più in basso rispetto al corridoio.
 E’ disseminato inoltre di enigmatiche buche di 30 centimetri di diametro.
@@ -1248,7 +1250,7 @@ Solo in una delle 2 aree è presente un bugbear
 
 Tattiche: Il bugbear è armato di una falce impugnata con entrambe le mani. I muri sono spessi e I servi vicino non sentono rumori di lotta.
 
-Bugbear : 16 pf, 4d10ma, 2d10 mo
+Bugbear : 16 pf, 4d10ma, 2d10 mo, -
 
 ￼
 
@@ -1257,14 +1259,14 @@ Tesoro: Possiede una dose di fertilizzante ideato da Belak che, somministrato ad
 49. Giardino
 	“Vapori luminescenti rendono sfuocate le pareti di questa stanza che presenta una pianta ottagonale. Agglomerati di funghi scintillanti punteggiano sia le pareti di pietra sia il soffitto, così come I cappelli dei funghi velenosi e commestibili, come I piccoli polipi, vesce, licheni e altre forme di vita vegetale più difficilmente identificabili. L’umidità e l’insopportabile odore di putrefazione rendono l’aria irrespirabile.”
 
-A: Quattro goblin raccolgono speciali funghi da usare nell’area 47. Attaccano I PG
-Goblin (4) : 5 pf, 2d10+2 ma
+A: Cinque goblin raccolgono speciali funghi da usare nell’area 47. Attaccano I PG
+Goblin (5) : 5 pf, 2d10+2 ma
 B: Le piante di questa stanza appaiono secche perchè un giovane thoqqua scava buchi. I funghi coprono I buchi.
 Thoqqua : 16 pf, uno zaffiro (20mo)
 C: Tre scheletri adempiono al loro dovere cospargendo il terreno di concime.
 Scheletri (3) : 9 pf, 4d10ma
 D: Un bugbear giardiniere sradica le piante secche uccise dal thoqqua della stanza 49b. I funghi coprono I buchi
-Bugbear : 16 pf, 4d10 ma, 2d10 mo
+Bugbear : 16 pf, 4d10 ma, 2d10 mo, 13
 
 ￼￼￼
 ￼
@@ -1408,6 +1410,9 @@ Esaminando attentamente l’albero si possono notare depressioni di forma e di d
         </Document>
         <Document ID="42">
             <Title>Sarcofago del drago</Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="43">
             <Text>￼</Text>
         </Document>
     </Documents>
