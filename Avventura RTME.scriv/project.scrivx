@@ -230,14 +230,14 @@
                                 <CorkboardSettings/>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem ID="36" Created="2015-06-29 17:16:14 +0000" Modified="2015-08-19 15:31:04 +0000" Type="Text">
+                                <BinderItem ID="36" Created="2015-06-29 17:16:14 +0000" Modified="2015-08-26 23:51:02 +0000" Type="Text">
                                     <Title>Stanze</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>12841,12841</TextSelection>
+                                        <TextSelection>17038,17038</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>

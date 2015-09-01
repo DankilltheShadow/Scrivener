@@ -1337,7 +1337,7 @@ Tattiche: 10 arbusti maligni sono presenti (in totale) in questa zona) se ci si 
 
 Arbusti Maligni (10): 5 pf
 
-￼
+￼ 
 
 56. L’albero di Tharizdun
 	“Tra I rovi della boscaglia si ergono possenti mura in pietra che cingono una radura. Attorno ad essa crescono vari tipi di vegetali e alcuni alberelli dall’aspetto poco rassicurante, la cui presenza diviene secondaria se comparata all’imponenza dell’albero che sorge proprio al centro della radura. Un singolare albero del male cresce assorbendo la luce emanata dai funghi velenosi. I suoi rami anneriti e contorti si diramano verso l’alto, come una mano scheletrica che cerca annaspando di emergere dal terreno. Esseri umani stanno vicino all’albero: due uomini e una donna. Una raganella lunga 90 centimetri sta accovacciata vicino ad uno degli uomini.”
@@ -1363,12 +1363,12 @@ Se alcuni arbusti maligni sono rimasti nell’area 55 entrano al ritmo di 1d4 og
 
 Se un PG attacca l’albero il comportamento cambia: tutti gli arbusti maligni si scaglieranno contro il PG e Belak lo attaccherà fisicamente. Se l’albero dovesse essere abbattuto Belak perde il controllo sugli arbusti e su I due PNG. Se Belak è ancora vivo, le sue vecchie forze considerano lui come bersaglio prima di assalire I PG.
 
-Belak: 36 pf
+Belak: 36 pf, 1
 Albero di Gulthias: 33 pf
-Kulket: 16 pf
-Sharwyn: 7 pf
-Sir Bradford: 12 pf
-Arbusti Maligni (3): 5 pf
+Kulket: 16 pf, 5  -6 Fo
+Sharwyn: 7 pf, 4
+Sir Bradford: 12 pf, 2
+Arbusti Maligni (3): 5 pf, 5,2,2
 
 Albero di Gulthias: Il frutto rosso ha effetti simili all’incantesimo “Guarigione” (può essere tagliato in 4 parti). Il frutto bianco ha effetti simili all’incantesimo “parola del potere, uccidere”.
 Esaminando attentamente l’albero si possono notare depressioni di forma e di dimensioni umane, dove Sir Braford e Sharwyn sono stati in qualche modo assorbiti.
