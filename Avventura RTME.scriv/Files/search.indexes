@@ -100,26 +100,26 @@ EXP
 
 
 Becocci
-2
-1970
+3
+3700
 Tara
-2
-1970
+3
+3630
 Emilio
-1
-1670
+3
+3300
 Scaccio
-2
-1830
+3
+3500
 Pana
-2
-1830
+3
+3560
 
 
-Turacciolo: 480
+Turacciolo: 5380
 
 Ultimo mostro dato:
-Massacro goblin. Rimane solo stanza 41
+Uccisione Belak
 </Text>
         </Document>
         <Document ID="9">
@@ -856,7 +856,7 @@ Ci sono 21 coboldi NON combattenti, perchè troppo giovani, vecchi o inesperti. 
 
 Se ostili vedere area 19.
 
-Buttafuori coboldi (3): 4pf
+Buttafuori coboldi (3): 4pf,1
 ￼
 
 21. Il trono del drago
@@ -884,10 +884,10 @@ Una pergamena divina di Luminescenza.
 Ostile:
 Yusdrayl lancia prima di tutto armatura magica su se stessa. Poi inizia a colpire con le magie.
 
-Buttafuori coboldi (6): 4pf, 2d10ma
+Buttafuori coboldi (6): 4pf, 2d10ma 4:2, 5:3, 2:1
 ￼
 
-Yusdrayl: 21pf
+Yusdrayl: 21pf, 11, -12
 ￼
 
 22. Dispensa
@@ -1370,7 +1370,7 @@ Sharwyn: 7 pf, 4
 Sir Bradford: 12 pf, 2
 Arbusti Maligni (3): 5 pf, 5,2,2
 
-Albero di Gulthias: Il frutto rosso ha effetti simili all’incantesimo “Guarigione” (può essere tagliato in 4 parti). Il frutto bianco ha effetti simili all’incantesimo “parola del potere, uccidere”.
+Albero di Gulthias: Il frutto rosso ha effetti simili all’incantesimo “Guarigione” (può essere tagliato in 4 parti). Il frutto bianco ha effetti simili all9’incantesimo “parola del potere, uccidere”.
 Esaminando attentamente l’albero si possono notare depressioni di forma e di dimensioni umane, dove Sir Braford e Sharwyn sono stati in qualche modo assorbiti.
 
 
