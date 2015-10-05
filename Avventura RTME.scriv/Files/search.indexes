@@ -506,7 +506,9 @@ Collecorno - piccolo paese, principalmente NB, 901 persone miste (79% umani, 9% 
 			Ben, Lu, Jym e Roda, umani Commercianti 4 (delegati)
 			Rurik Lutgehr, mezz’orco Esperto 3 (Fabbro)
 			Garon, umano Esperto 3 (oste Locanda del vecchio cinghiale)
-			Finarfin, elfo del sole chierico 4 (Corellon), Arpista
+			Finarfin, elfo del sole chierico 4 (Corellon), Arpista (gruppo anti Moander)
+			Arue,
+			dandren
 
 Raccogliere Informazioni: (CD 10) o mediante l’interpretazione
 La Strada Rossa passa molto vicino alle rovine (città senza sole), ma è caduta in disuso molto tempo addietro a causa delle frequenti scorrerie dei goblin. Nessuno sa per certo cosa fosse un tempo la Cittadella, ma alcune voci non confermate dicono che servisse da rifugio per il culto di un antico drago.
@@ -814,13 +816,13 @@ Linguaggi: Comune, Gnoll.
         </Document>
         <Document ID="27">
             <Title>Lettera a Karakas</Title>
-            <Text>ANRECIDC OOSVDEDL OPRASEEM RMEOCCIE EDO.
+            <Text>ANRECIDC OOSVDEDL OPRASEEM RMEOCCIE EDO.		(LA MISSIONE DEVE PROCEDERE COME DACCORDO)
 
-EEROSOBL AIAEAORG OTSHTVAC RVRATRMI OSTPCSII SO.
+EEROSOBL AIAEAORG OTSHTVAC RVRATRMI OSTPCSII SO.	(SEMBRA CHE IL VOSTRO ARRIVO SIA GIA STATO SCOPERTO)
 
-AISOLORI ICNESOER IGLDOTLR ACMOCGFR CEOTENNE PE.
+AISOLORI ICNESOER IGLDOTLR ACMOCGFR CEOTENNE PE.	(LA FRASE DI RICONOSCIMENTO E’ CORELLON CI PROTEGGE)
 
-ILKMIIEK.
+ILKMIIEK.					(MIELIKKI)
 
 ￼</Text>
         </Document>
@@ -1417,6 +1419,40 @@ Esaminando attentamente l’albero si possono notare depressioni di forma e di d
         </Document>
         <Document ID="44">
             <Title>Belak l'esiliato</Title>
+        </Document>
+        <Document ID="45">
+            <Title>tabelle incontri</Title>
+            <Text>￼￼
+￼￼
+￼￼
+￼￼
+￼￼
+￼￼
+￼
+</Text>
+        </Document>
+        <Document ID="46">
+            <Title>gs mostri selvaggi</Title>
+            <Text>￼
+￼
+￼
+</Text>
+        </Document>
+        <Document ID="47">
+            <Title>dopo CsS</Title>
+        </Document>
+        <Document ID="48">
+            <Title>Lettera Finarfin</Title>
+        </Document>
+        <Document ID="49">
+            <Title> </Title>
+            <Text>TCNTOSIA UDTLETII DAIIG (TUTTI IL DODICI A EASTING)
+
+
+
+ANIOOBNN  (NOBANION)
+
+￼</Text>
         </Document>
     </Documents>
 </SearchIndexes>

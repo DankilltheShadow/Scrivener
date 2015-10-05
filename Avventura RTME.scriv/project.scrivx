@@ -105,14 +105,14 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="19" Created="2015-06-04 12:15:55 +0000" Modified="2015-06-18 19:53:47 +0000" Type="Text">
+                                <BinderItem ID="19" Created="2015-06-04 12:15:55 +0000" Modified="2015-09-30 22:19:42 +0000" Type="Text">
                                     <Title>Collecorno</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2455,2447</TextSelection>
+                                        <TextSelection>1207,1207</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -175,14 +175,14 @@
                                         <CorkboardSettings/>
                                     </CorkboardAndOutliner>
                                 </BinderItem>
-                                <BinderItem ID="27" Created="2015-06-24 01:23:26 +0000" Modified="2015-07-08 18:22:46 +0000" Type="Text">
+                                <BinderItem ID="27" Created="2015-06-24 01:23:26 +0000" Modified="2015-09-30 18:39:39 +0000" Type="Text">
                                     <Title>Lettera a Karakas</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>140,140</TextSelection>
+                                        <TextSelection>316,316</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                     <CorkboardAndOutliner>
@@ -289,6 +289,35 @@
                                     </CorkboardAndOutliner>
                                 </BinderItem>
                             </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="47" Created="2015-09-30 18:49:18 +0000" Modified="2015-09-30 18:49:30 +0000" Type="Folder">
+                    <Title>dopo CsS</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="49" Created="2015-09-30 18:50:45 +0000" Modified="2015-09-30 19:27:38 +0000" Type="Text">
+                            <Title> </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>78,78</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -399,6 +428,34 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>1,1</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="46" Created="2015-09-30 18:22:24 +0000" Modified="2015-09-30 18:24:56 +0000" Type="Text">
+                    <Title>gs mostri selvaggi</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,1</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="45" Created="2015-09-30 18:17:23 +0000" Modified="2015-09-30 18:21:16 +0000" Type="Text">
+                    <Title>tabelle incontri</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>17,17</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
@@ -621,6 +678,19 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>1,1</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="48" Created="2015-09-30 18:49:34 +0000" Modified="2015-09-30 18:50:18 +0000" Type="Text">
+                    <Title>Lettera Finarfin</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <CorkboardAndOutliner>
