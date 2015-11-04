@@ -101,22 +101,22 @@ EXP (Lv 5 a 10000)
 
 Becocci
 4
-4983
+5656
 Tara
 4
-4613
+5286
 Emilio
 4
-4483
+5156
 Scaccio
 4
-4683
+5356
 Pana
 4
-5043
+5716
 
 
-Turacciolo: 6363
+Turacciolo: 6496
 
 Ultimo mostro dato:
 Uccisione Belak
@@ -1415,6 +1415,7 @@ Esaminando attentamente l’albero si possono notare depressioni di forma e di d
             <Text>￼</Text>
         </Document>
         <Document ID="43">
+            <Title> </Title>
             <Text>￼</Text>
         </Document>
         <Document ID="44">

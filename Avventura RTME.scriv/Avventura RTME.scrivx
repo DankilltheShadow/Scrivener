@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="Daniel-PC" Modified="2015-11-04 19:46:49 +0000" ModID="57DE0E78-AAC2-4225-9FF7-6ACC37D42CD8">
+    <Binder>
+        <BinderItem ID="0" UUID="5AE5E444-0EBB-484D-A127-CC06FCE16D6C" Created="2015-05-21 13:40:33 +0000" Modified="2015-05-21 13:40:33 +0000" Type="DraftFolder">
+            <Title>Bozza</Title>
+            <MetaData/>
+            <Children>
+                <BinderItem ID="4" UUID="D9F78DF0-E337-40C1-B01B-C55413BAC92B" Created="2015-05-21 13:51:20 +0000" Modified="2015-05-21 13:52:23 +0000" Type="Folder">
+                    <Title>Bonfire camp</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="5" UUID="E9063D1B-A8AE-4621-A85E-6BD8D9ABFA21" Created="2015-05-21 13:52:31 +0000" Modified="2015-05-21 13:52:46 +0000" Type="Folder">
+                            <Title>PNG</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="6" UUID="2F9FB1B6-8C82-4D53-98D2-F71A6EDEEA5D" Created="2015-05-21 13:53:00 +0000" Modified="2015-05-21 13:57:59 +0000" Type="Text">
+                            <Title>Descrizione campagna</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="3" UUID="7566D4B5-A3EA-4497-ACB6-B142BC84353E" Created="2015-05-21 13:54:32 +0000" Modified="2015-05-28 23:29:12 +0000" Type="Folder">
+                    <Title>Avventura</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="12" UUID="72DFF548-2836-4A11-BECA-AAFAE0F7F233" Created="2015-05-28 22:43:58 +0000" Modified="2015-05-28 22:44:46 +0000" Type="Folder">
+                            <Title>L'inizio</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="13" UUID="7AAE92C9-ADBB-4841-9002-D10EA17B788E" Created="2015-05-28 22:44:53 +0000" Modified="2015-06-03 23:54:41 +0000" Type="Text">
+                                    <Title>Bonfire Camp</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1429,1429</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="18" UUID="DCF6CD40-4EAF-4A12-B70E-3EA1CC64B5CE" Created="2015-06-03 23:55:52 +0000" Modified="2015-06-11 15:43:36 +0000" Type="Text">
+                                    <Title>Riassunto</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>127,127</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="19" UUID="48BF57B7-891A-41B7-9060-96AB9847E9B3" Created="2015-06-04 12:15:55 +0000" Modified="2015-10-07 19:28:37 +0000" Type="Text">
+                                    <Title>Collecorno</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1151,1151</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="21" UUID="FD6C065A-DD03-4404-9C81-C40D0D51576D" Created="2015-06-04 17:53:41 +0000" Modified="2015-06-04 17:54:33 +0000" Type="Text">
+                                    <Title>Mappa CsS</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,1</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="22" UUID="33FD0EEF-0EC7-429D-975F-C4E89286E2C1" Created="2015-06-04 18:00:15 +0000" Modified="2015-06-04 21:43:10 +0000" Type="Text">
+                                    <Title>Arbusti</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>17,17</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="23" UUID="20DA1ED6-16EA-4E7B-8B07-3F6C3BEC62C0" Created="2015-06-04 18:04:48 +0000" Modified="2015-09-17 23:21:21 +0000" Type="Text">
+                                    <Title>Prima parte</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>13015,13015</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="24" UUID="5FA02C6F-8DE6-4611-BEB1-3F81694FA54F" Created="2015-06-11 18:31:59 +0000" Modified="2015-06-18 01:02:04 +0000" Type="Text">
+                                    <Title>Zugzw, mezzazampa</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>369,369</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="27" UUID="4A8C53F0-ACCC-41D1-83EF-3AA3EE19295F" Created="2015-06-24 01:23:26 +0000" Modified="2015-09-30 18:39:39 +0000" Type="Text">
+                                    <Title>Lettera a Karakas</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>316,316</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="33" UUID="B0EDF65A-53A2-4CF4-B448-AA15A8C718E2" Created="2015-06-25 22:08:33 +0000" Modified="2015-08-05 19:49:31 +0000" Type="Text">
+                                    <Title>Dem 'turacciolo' </Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>20,20</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="34" UUID="CAEFC46A-5638-4E58-9E52-984063A9DBBF" Created="2015-06-29 17:09:38 +0000" Modified="2015-09-17 21:08:42 +0000" Type="Text">
+                                    <Title>seconda Parte</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>7656,7656</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="35" UUID="235BC47F-420A-409B-BA29-0E5CCCD98CA6" Created="2015-06-29 17:15:54 +0000" Modified="2015-06-29 17:16:04 +0000" Type="Folder">
+                            <Title>Secondo Piano</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="36" UUID="1A9D0F38-8690-420C-8472-EF2927CED275" Created="2015-06-29 17:16:14 +0000" Modified="2015-09-09 19:31:10 +0000" Type="Text">
+                                    <Title>Stanze</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>14356,14356</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="37" UUID="1D91CE61-7B09-43A4-8612-C2E7E690B86C" Created="2015-06-29 17:17:19 +0000" Modified="2015-06-29 17:18:21 +0000" Type="Text">
+                                    <Title>Mappa</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,1</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="39" UUID="7244BB3D-0568-4AB3-A790-E751C150ECB0" Created="2015-07-29 00:20:29 +0000" Modified="2015-07-29 00:20:40 +0000" Type="Text">
+                                    <Title>Muoversi tra i cespugli</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,1</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="43" UUID="997A89D8-4945-438F-A25F-4CBFE67223D4" Created="2015-08-05 20:16:24 +0000" Modified="2015-11-04 15:18:41 +0000" Type="Text">
+                                    <Title> </Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1,1</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="47" UUID="93565056-F28B-43BF-9239-A0CF4697536A" Created="2015-09-30 18:49:18 +0000" Modified="2015-09-30 18:49:30 +0000" Type="Folder">
+                    <Title>dopo CsS</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="49" UUID="70929B49-7E38-4246-ABFF-ADA7D441AEE0" Created="2015-09-30 18:50:45 +0000" Modified="2015-10-07 21:59:40 +0000" Type="Text">
+                            <Title> </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>78,78</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="25" UUID="F2C9A0F6-F2DF-4170-A236-9E11BFF80088" Created="2015-06-22 23:41:05 +0000" Modified="2015-06-22 23:41:12 +0000" Type="Folder">
+                    <Title>Oggetti Magici</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="26" UUID="2108F0E4-2F67-4CD5-B6CB-30B5E7F2FC6F" Created="2015-06-22 23:41:16 +0000" Modified="2015-06-22 23:41:39 +0000" Type="Text">
+                            <Title>Azan-gund &quot;Richiamo della Notte&quot;</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1,1</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="38" UUID="F54AEB71-3B97-4BCF-94AA-8BCD15487E30" Created="2015-07-29 00:18:03 +0000" Modified="2015-07-29 00:18:42 +0000" Type="Text">
+                            <Title>Spezzapunte</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1,1</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="7" UUID="A9D06D4D-6808-4B6C-B7A5-E6889D4080BE" Created="2015-05-21 13:56:54 +0000" Modified="2015-05-28 22:37:20 +0000" Type="Text">
+                    <Title>Appunti vari</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>6683,6683</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" UUID="3EE34EC3-3EE6-43D0-A5AC-A7F629782C15" Created="2015-05-21 19:30:17 +0000" Modified="2015-11-04 19:46:44 +0000" Type="Text">
+                    <Title>PG</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>245,245</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" UUID="8D8242C2-F39C-4118-BC39-6468A0476457" Created="2015-05-25 23:20:54 +0000" Modified="2015-06-11 15:42:28 +0000" Type="Text">
+                    <Title>Calendario</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>908,908</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" UUID="6CD4A711-0336-41BC-9AAB-2708EE122CF7" Created="2015-05-25 23:36:13 +0000" Modified="2015-07-29 00:20:24 +0000" Type="Text">
+                    <Title>Regole</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>15598,15598</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="20" UUID="2D580C61-D9D7-40B5-8070-950640B122F6" Created="2015-06-04 17:52:45 +0000" Modified="2015-06-04 17:52:56 +0000" Type="Text">
+                    <Title>Durata illuminazione</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,1</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="46" UUID="7403BEEE-79CD-4AD5-88D1-5FF5CF0BFF5A" Created="2015-09-30 18:22:24 +0000" Modified="2015-09-30 18:24:56 +0000" Type="Text">
+                    <Title>gs mostri selvaggi</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,1</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="45" UUID="D3E66954-AE7C-49BE-8955-F251C5914458" Created="2015-09-30 18:17:23 +0000" Modified="2015-09-30 18:21:16 +0000" Type="Text">
+                    <Title>tabelle incontri</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>11,11</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="17" UUID="B4C8F4B7-B513-4148-8136-5A6E9AE1E132" Created="2015-06-03 23:19:55 +0000" Modified="2015-06-03 23:20:01 +0000" Type="Folder">
+            <Title>Immagini</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="16" UUID="7B7E1AB8-D558-45F0-9AE0-136E90575088" Created="2015-06-03 23:19:00 +0000" Modified="2015-06-03 23:20:17 +0000" Type="Image">
+                    <Title>Tatuaggio Bonfire</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="30" UUID="913CEEEA-188F-4461-94C1-141AD7BE488B" Created="2015-06-24 18:06:38 +0000" Modified="2015-07-29 00:19:01 +0000" Type="Image">
+                    <Title>Fiaschetta C</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="31" UUID="B77E2BEE-EDA6-46E1-BD8D-0E52F8742168" Created="2015-06-24 18:07:23 +0000" Modified="2015-06-24 18:07:54 +0000" Type="Image">
+                    <Title>Simbolo Mielikki</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="32" UUID="D282BFE6-BF64-4B14-8424-DBF4C0AF58B8" Created="2015-06-24 18:08:47 +0000" Modified="2015-06-24 18:09:13 +0000" Type="Image">
+                    <Title>pugnali di fuoco</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="40" UUID="77D9653E-FEB8-477B-9E2F-899787B186E8" Created="2015-07-29 00:21:11 +0000" Modified="2015-07-29 00:21:30 +0000" Type="Text">
+                    <Title>Balsag il cacciatore.</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,1</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="41" UUID="6094A836-5F05-4D2D-A6F8-4B3DA23792E7" Created="2015-07-29 00:22:07 +0000" Modified="2015-07-29 00:22:15 +0000" Type="Text">
+                    <Title>Stanza Necro</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,1</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="42" UUID="320AD4A5-D789-4BAE-A599-67888ACC2284" Created="2015-07-29 00:22:34 +0000" Modified="2015-07-29 00:22:50 +0000" Type="Text">
+                    <Title>Sarcofago del drago</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,1</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="44" UUID="BDD1068A-4186-4CFE-9453-21F8A6A66F91" Created="2015-07-29 00:37:08 +0000" Modified="2015-07-29 00:37:08 +0000" Type="Image">
+                    <Title>Belak l'esiliato</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="10" UUID="C6D429EC-1975-46DD-AFE6-3C16BE97380C" Created="2015-05-21 13:14:36 +0000" Modified="2015-06-11 20:21:45 +0000" Type="Image">
+            <Title>faerunlarge</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <FileExtension>jpg</FileExtension>
+                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+            </MetaData>
+            <MediaSettings>
+                <ImageScaleFactor>1.27</ImageScaleFactor>
+                <ImageScalesProportionally>No</ImageScalesProportionally>
+            </MediaSettings>
+        </BinderItem>
+        <BinderItem ID="15" UUID="5F9B209C-075C-4544-8853-4D31A3BE523B" Created="2015-06-03 23:13:51 +0000" Modified="2006-08-10 11:09:34 +0000" Type="PDF">
+            <Title>FR3.5_Calendario</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <FileExtension>pdf</FileExtension>
+            </MetaData>
+            <MediaSettings>
+                <CurrentPDFPage>1</CurrentPDFPage>
+            </MediaSettings>
+        </BinderItem>
+        <BinderItem ID="1" UUID="6C7D97B9-8E5C-4962-A4F1-D70854DDE61F" Created="2015-05-21 13:40:33 +0000" Modified="2015-05-21 13:40:33 +0000" Type="ResearchFolder">
+            <Title>Ricerca</Title>
+            <MetaData/>
+        </BinderItem>
+        <BinderItem ID="2" UUID="CA217B09-F150-4818-8E3A-E8F991E709F5" Created="2015-05-21 13:40:33 +0000" Modified="2015-05-21 13:40:33 +0000" Type="TrashFolder">
+            <Title>Cestino</Title>
+            <MetaData/>
+            <Children>
+                <BinderItem ID="14" UUID="ABB737A2-C1B5-4609-879F-2179BA6A8BDF" Created="2015-05-28 22:46:23 +0000" Modified="2015-05-28 22:47:09 +0000" Type="Text">
+                    <Title>Su</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="29" UUID="17C32478-B600-4A72-99E5-75290242918A" Created="2015-06-24 18:06:15 +0000" Modified="2015-06-24 18:06:15 +0000" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="28" UUID="45064EC0-149E-4C24-A910-281F3CADA341" Created="2015-06-24 18:05:33 +0000" Modified="2015-06-24 18:05:59 +0000" Type="Text">
+                    <Title>Simbolo Cormyr</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,1</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="48" UUID="4909B63D-502D-479A-AC11-DE0F86233B8A" Created="2015-09-30 18:49:34 +0000" Modified="2015-09-30 18:50:18 +0000" Type="Text">
+                    <Title>Lettera Finarfin</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Etichetta</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">Nessuna etichetta</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concetto</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Capitolo</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Stato</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">Nessuno Stato</Status>
+            <Status ID="0">N/D</Status>
+            <Status ID="1">Da fare</Status>
+            <Status ID="2">Prima Bozza</Status>
+            <Status ID="3">Bozza revisionata</Status>
+            <Status ID="4">Bozza definitiva</Status>
+            <Status ID="5">Fatto</Status>
+        </StatusItems>
+    </StatusSettings>
+    <Collections>
+        <Collection Type="Binder" ID="c912f29a-1bf2-4d09-96b4-70e49b0c72ae" Color="0.901961 0.917647 0.933333">
+            <Title>Raccoglitore</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="7128559e-1d07-415d-a491-f89c68b360dd" Color="0.901961 0.901961 0.980392">
+            <Title>Risultati Ricerca</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+    </ProjectTargets>
+    <PrintSettings PaperType="A4" LeftMargin="17.0363" RightMargin="17.1213" TopMargin="11.9906" BottomMargin="12.2457" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
