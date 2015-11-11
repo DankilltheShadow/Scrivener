@@ -2,7 +2,7 @@
 <SearchIndexes Version="1.0">
     <Documents>
         <Document ID="3">
-            <Title>Avventura</Title>
+            <Title>Avventura Città senza Sole</Title>
         </Document>
         <Document ID="4">
             <Title>Bonfire camp</Title>
@@ -116,7 +116,6 @@ Pana
 5716
 
 
-Turacciolo: 6496
 
 Ultimo mostro dato:
 Uccisione Belak
@@ -1446,7 +1445,7 @@ Esaminando attentamente l’albero si possono notare depressioni di forma e di d
             <Title>Lettera Finarfin</Title>
         </Document>
         <Document ID="49">
-            <Title> </Title>
+            <Title> Lettera Nobanion</Title>
             <Text>TCNTOSIA UDTLETII DAIIG (TUTTI IL DODICI A EASTING)
 
 
@@ -1459,6 +1458,54 @@ ANIOOBNN  (NOBANION)
 AFFIINNR
 
 </Text>
+        </Document>
+        <Document ID="50">
+            <Title>La voce nei sogni</Title>
+        </Document>
+        <Document ID="51">
+            <Title> Mappa Priapurl</Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="52">
+            <Title> Guida Eventi</Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="53">
+            <Title>Priapurl</Title>
+            <Text>Divisa in 6 quartieri, senza mura, ma con caratteristiche che cambiano rapidamente.
+￼￼</Text>
+        </Document>
+        <Document ID="54">
+            <Title>Eventi</Title>
+            <Text>1. Un giro alla Fiera
+
+La cittadina di Priapurl è adagiata su una piccola collina, sulla strada mercantile. Mura di pietra merlate, interrotte da alte torri di guardia, circondano gli edifici, ma oggi la vita della città si riversa al di fuori delle sue mura. Carretti variopinti, bandiere, nastri e personaggi di ogni genere affollano la strada per 90 metri oltre la porta. Dozzine di halfling in costumi sgargianti dirigono la maggior parte delle attività. Un mormorio indaffarato e palpitante sale dalla fiera, e gli aromi di carni arrosto, spezie esotiche e fiori tagliati di fresco impregnano l’aria.
+Vicino alle porte, il movimento della folla che si fa strada dentro la città si riduce a un lento strisciare. Quattro guardie cittadine, vestite con tabarri rosso brillante, squadrano con attenzione ogni visitatore, nonostante un’apparenza rilassata e amichevole. Vi sembra di scorgere le guardie mentre assicurano le armi alle relative custodie con fasce di cuoio.
+
+2. Entrate alternative
+
+Gli altri 2 accessi alla città sono la Porta dello Sperone Sud e la Porta del Vecchio Guado. Due guardie controllano ogniuna di queste entrate 24 ore al giorno.
+I personaggi possono scalare le mura alte 7,5 metri (Scalare CD 30).
+
+3. Visitare la fiera
+
+Le strade di Priapurl brulicano di attività: la fiera riempie completamente la strada principale della città, già non molto larga di suo, restringendola ulteriormente con I carretti e le bancarelle che costellano I due lati. Fortunatamente ai carri viene impedito il transito, ma I pedoni sono sufficienti per intralciare il passaggio. Artigiani, intrattenitori e mercanti si affacciano dalle bancarelle, intenti a richiamare l’attenzione dei passanti descrivendo alla folla le proprie merci.
+Al di sopra di tutto ciò, due sagome si stagliano sull’orizzonte. Un maniero circondato da mura corona la collina sul lato sud, mentre nel centro della città un enorme campanile si erge come una sentinella.
+
+4. Fiere alla fiera
+
+Un urlo proveniente dal centro dell’affollata fiera si propaga in una catena di grida e strilli, accompagnati da rumorosi botti che suonano come carri rovesciati. Il rumore si trasforma immediatamente in un’ondata di persone in fuga da qualsiasi cosa le abbia spaventate.
+
+6. E ora?
+
+Collina d’argento, Porta Est o Mercato della Strada delle Ciarle ——&gt; 7
+Sperone Sud ——&gt; 9
+Il Campanile ——&gt; 12
+Collina Ovest ——&gt; 13
+
+7. Pedinati
+
+Qualcuno vi sta seguendo: un uomo grosso dai lunghi capelli neri, con uno stocco in cintura. Potrebbe non essere solo.</Text>
         </Document>
     </Documents>
 </SearchIndexes>

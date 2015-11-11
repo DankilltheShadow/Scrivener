@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="Daniel-PC" Modified="2015-11-04 19:46:49 +0000" ModID="57DE0E78-AAC2-4225-9FF7-6ACC37D42CD8">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="Daniel-PC" Modified="2015-11-11 02:38:35 +0000" ModID="DBC488FC-76CF-4D2B-9E94-23EDDF229417">
     <Binder>
         <BinderItem ID="0" UUID="5AE5E444-0EBB-484D-A127-CC06FCE16D6C" Created="2015-05-21 13:40:33 +0000" Modified="2015-05-21 13:40:33 +0000" Type="DraftFolder">
             <Title>Bozza</Title>
@@ -34,8 +34,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="3" UUID="7566D4B5-A3EA-4497-ACB6-B142BC84353E" Created="2015-05-21 13:54:32 +0000" Modified="2015-05-28 23:29:12 +0000" Type="Folder">
-                    <Title>Avventura</Title>
+                <BinderItem ID="3" UUID="7566D4B5-A3EA-4497-ACB6-B142BC84353E" Created="2015-05-21 13:54:32 +0000" Modified="2015-11-11 01:25:38 +0000" Type="Folder">
+                    <Title>Avventura Città senza Sole</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -193,16 +193,6 @@
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="43" UUID="997A89D8-4945-438F-A25F-4CBFE67223D4" Created="2015-08-05 20:16:24 +0000" Modified="2015-11-04 15:18:41 +0000" Type="Text">
-                                    <Title> </Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1,1</TextSelection>
-                                        <Target Type="Words">0</Target>
-                                    </TextSettings>
-                                </BinderItem>
                             </Children>
                         </BinderItem>
                     </Children>
@@ -216,13 +206,13 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="49" UUID="70929B49-7E38-4246-ABFF-ADA7D441AEE0" Created="2015-09-30 18:50:45 +0000" Modified="2015-10-07 21:59:40 +0000" Type="Text">
-                            <Title> </Title>
+                        <BinderItem ID="49" UUID="70929B49-7E38-4246-ABFF-ADA7D441AEE0" Created="2015-09-30 18:50:45 +0000" Modified="2015-11-11 01:25:12 +0000" Type="Text">
+                            <Title> Lettera Nobanion</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>78,78</TextSelection>
+                                <TextSelection>91,91</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -259,6 +249,57 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem ID="50" UUID="A65CA59F-834D-4581-8476-1945C49FCBE9" Created="2015-11-11 01:25:49 +0000" Modified="2015-11-11 01:26:30 +0000" Type="Folder">
+                    <Title>La voce nei sogni</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="51" UUID="EE13F905-917C-4BC5-BD08-66820C4DE95B" Created="2015-11-11 01:48:49 +0000" Modified="2015-11-11 01:49:18 +0000" Type="Text">
+                            <Title> Mappa Priapurl</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1,1</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="52" UUID="5AF2A7AC-964A-4B74-8310-7A8C302A25BC" Created="2015-11-11 01:53:00 +0000" Modified="2015-11-11 01:56:20 +0000" Type="Text">
+                            <Title> Guida Eventi</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1,1</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="53" UUID="247660A8-3705-4AE3-8E1D-6EF59B841C96" Created="2015-11-11 01:57:06 +0000" Modified="2015-11-11 02:03:08 +0000" Type="Text">
+                            <Title>Priapurl</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>85,85</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="54" UUID="F271C294-2E2C-4326-887E-03849EC12838" Created="2015-11-11 02:03:36 +0000" Modified="2015-11-11 02:35:52 +0000" Type="Text">
+                            <Title>Eventi</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1741,1741</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
                 <BinderItem ID="7" UUID="A9D06D4D-6808-4B6C-B7A5-E6889D4080BE" Created="2015-05-21 13:56:54 +0000" Modified="2015-05-28 22:37:20 +0000" Type="Text">
                     <Title>Appunti vari</Title>
                     <MetaData>
@@ -269,13 +310,13 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="8" UUID="3EE34EC3-3EE6-43D0-A5AC-A7F629782C15" Created="2015-05-21 19:30:17 +0000" Modified="2015-11-04 19:46:44 +0000" Type="Text">
+                <BinderItem ID="8" UUID="3EE34EC3-3EE6-43D0-A5AC-A7F629782C15" Created="2015-05-21 19:30:17 +0000" Modified="2015-11-11 01:24:14 +0000" Type="Text">
                     <Title>PG</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>245,245</TextSelection>
+                        <TextSelection>288,288</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -491,6 +532,16 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="43" UUID="997A89D8-4945-438F-A25F-4CBFE67223D4" Created="2015-08-05 20:16:24 +0000" Modified="2015-11-04 15:18:41 +0000" Type="Text">
+                    <Title> </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,1</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
