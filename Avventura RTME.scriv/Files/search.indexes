@@ -1482,6 +1482,8 @@ AFFIINNR
 La cittadina di Priapurl è adagiata su una piccola collina, sulla strada mercantile. Mura di pietra merlate, interrotte da alte torri di guardia, circondano gli edifici, ma oggi la vita della città si riversa al di fuori delle sue mura. Carretti variopinti, bandiere, nastri e personaggi di ogni genere affollano la strada per 90 metri oltre la porta. Dozzine di halfling in costumi sgargianti dirigono la maggior parte delle attività. Un mormorio indaffarato e palpitante sale dalla fiera, e gli aromi di carni arrosto, spezie esotiche e fiori tagliati di fresco impregnano l’aria.
 Vicino alle porte, il movimento della folla che si fa strada dentro la città si riduce a un lento strisciare. Quattro guardie cittadine, vestite con tabarri rosso brillante, squadrano con attenzione ogni visitatore, nonostante un’apparenza rilassata e amichevole. Vi sembra di scorgere le guardie mentre assicurano le armi alle relative custodie con fasce di cuoio.
 
+Guardia (4): 3, 4, 4, 5 pf  (se lanciano l’allarme arrivano altre 4 in 1d4+2 round)
+￼
 2. Entrate alternative
 
 Gli altri 2 accessi alla città sono la Porta dello Sperone Sud e la Porta del Vecchio Guado. Due guardie controllano ogniuna di queste entrate 24 ore al giorno.
@@ -1496,6 +1498,8 @@ Al di sopra di tutto ciò, due sagome si stagliano sull’orizzonte. Un maniero 
 
 Un urlo proveniente dal centro dell’affollata fiera si propaga in una catena di grida e strilli, accompagnati da rumorosi botti che suonano come carri rovesciati. Il rumore si trasforma immediatamente in un’ondata di persone in fuga da qualsiasi cosa le abbia spaventate.
 
+￼￼
+
 6. E ora?
 
 Collina d’argento, Porta Est o Mercato della Strada delle Ciarle ——&gt; 7
@@ -1506,6 +1510,35 @@ Collina Ovest ——&gt; 13
 7. Pedinati
 
 Qualcuno vi sta seguendo: un uomo grosso dai lunghi capelli neri, con uno stocco in cintura. Potrebbe non essere solo.</Text>
+        </Document>
+        <Document ID="55">
+            <Title>Distanze</Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="56">
+            <Title>Personaggi</Title>
+            <Text>Ghazzar (Ex - Chr 3 di Bane /Grr 7 umano vaasan LN)
+Tar Hurara, ragazzina.
+
+Compagnia Mercenaria Mindulgulph
+
+￼</Text>
+        </Document>
+        <Document ID="57">
+            <Title>Compagnia mercenaria Priapurl</Title>
+            <Text>￼</Text>
+        </Document>
+        <Document ID="58">
+            <Title>Compagnia mercenaria mindguluph</Title>
+            <Text>Compagnia Mercenaria Mindulgulph
+La compagnia mercenaria che ha come comandante Garylana Bloodsword (Grr 12 umana LN) è famosa perché unisce truppe umanoidi e mostruose. Difatti, oltre alla componente umanoide (umani, elfi, nani etc.) vi sono anche creature quali wemic, thri-kreen, centauri, orchi e persino qualche beholder neutrale.
+Garylana ha reclutato quasi personalmente (Alówen Adwerrann e Thoraim Faalaxe sono gli alti due membri fondatori) le reclute della compagnia e ha trattato personalmente sugli onorari delle varie creature non umanoidi.
+Tra i comandanti ve ne è uno per ogni razza mostruosa, cosicchè abbiano un rappresentante che testimoni la loro importanza, e che li sappia controllare ovviamente.
+Compagnia Mercenaria Mindulgulph
+(media): AL CN; limite risorse 7.500 mo; Membri 538; Misti (umani 120, elfi 100, nani 100, altri 118).
+Figura d’Autorità: comandante Garylana Bloodsword (Grr 12 umana LN)
+Personaggi Importanti: Alówen Adwerrann (Grr 3/ Str 7 elfa della luna N), Thoraim Faalaxe (Chr 9 di Clangeddin Silverbeard/ Warpriest 2 nano degli scudi CN) Hiol Ascia Pazza (Bbr 8 orco di montagna NM)), Vaendaléìr (Rgr 10 di Nobanion wemic m CN), Gaehannockduàn ‘Gae’ (beholder N), Shádr (thri-kreen CN), Khoitrem Lash (Mag 11 umano LM)
+Altri: Integrati; Grr7, chr7, ldr7, mag7, com7 (10), grr6 (2), ldr6 (2), bbr6, grr5 (4), chr5(2), rgr5, bbr5 (2), com5 (50), mag5 (2), str5, grr4 (8), chr4 (4), mag4 (4), grr3 (16), chr3 (8), ldr3 (4), str3 (2), grr2 (32), chr2 (16), com2 (80), bbr2 (4), mag2 (8), com1 (120), esp6 (4), esp4 (6), esp3 (8), esp2 (10), esp1 (18), grr1 (20), rgr1 (10), mag1 (10), chr1 (10), ldr1 (10), wemic (classi varie) (10), orchi di montagna (classi varie) (10), beholder (5), thri kreen (5).</Text>
         </Document>
     </Documents>
 </SearchIndexes>

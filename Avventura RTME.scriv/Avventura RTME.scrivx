@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="Daniel-PC" Modified="2015-11-11 02:38:35 +0000" ModID="DBC488FC-76CF-4D2B-9E94-23EDDF229417">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="Lenovo-PC" Modified="2015-11-12 00:02:56 +0000" ModID="E9195DD0-367E-4ECF-A6DC-4FC94CEA116A">
     <Binder>
         <BinderItem ID="0" UUID="5AE5E444-0EBB-484D-A127-CC06FCE16D6C" Created="2015-05-21 13:40:33 +0000" Modified="2015-05-21 13:40:33 +0000" Type="DraftFolder">
             <Title>Bozza</Title>
@@ -169,7 +169,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>14356,14356</TextSelection>
+                                        <TextSelection>13455,13481</TextSelection>
                                         <Target Type="Words">0</Target>
                                     </TextSettings>
                                 </BinderItem>
@@ -278,7 +278,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="53" UUID="247660A8-3705-4AE3-8E1D-6EF59B841C96" Created="2015-11-11 01:57:06 +0000" Modified="2015-11-11 02:03:08 +0000" Type="Text">
+                        <BinderItem ID="53" UUID="247660A8-3705-4AE3-8E1D-6EF59B841C96" Created="2015-11-11 01:57:06 +0000" Modified="2015-11-11 20:09:14 +0000" Type="Text">
                             <Title>Priapurl</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -288,13 +288,33 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="54" UUID="F271C294-2E2C-4326-887E-03849EC12838" Created="2015-11-11 02:03:36 +0000" Modified="2015-11-11 02:35:52 +0000" Type="Text">
+                        <BinderItem ID="54" UUID="F271C294-2E2C-4326-887E-03849EC12838" Created="2015-11-11 02:03:36 +0000" Modified="2015-11-11 20:32:34 +0000" Type="Text">
                             <Title>Eventi</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1741,1741</TextSelection>
+                                <TextSelection>2333,2333</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="56" UUID="D68191EF-40F0-4DA7-A482-E45E6E0BC8D6" Created="2015-11-11 20:17:34 +0000" Modified="2015-11-11 20:19:30 +0000" Type="Text">
+                            <Title>Personaggi</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>111,111</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="58" UUID="2C15F6B7-1DF7-4E72-B635-52A4BF18EA3B" Created="2015-11-11 20:21:09 +0000" Modified="2015-11-11 20:21:25 +0000" Type="Text">
+                            <Title>Compagnia mercenaria mindguluph</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1739,1739</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -366,7 +386,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>11,11</TextSelection>
+                        <TextSelection>14,14</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -465,6 +485,26 @@
                     <MediaSettings>
                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                     </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="55" UUID="2D863BEA-6388-4600-BEC5-23F0F6785A6D" Created="2015-11-11 20:08:19 +0000" Modified="2015-11-11 20:08:46 +0000" Type="Text">
+                    <Title>Distanze</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,1</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="57" UUID="F37138F7-1BA8-4924-9AF5-19F1FA59AB6A" Created="2015-11-11 20:20:08 +0000" Modified="2015-11-11 20:20:34 +0000" Type="Text">
+                    <Title>Compagnia mercenaria Priapurl</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,1</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
