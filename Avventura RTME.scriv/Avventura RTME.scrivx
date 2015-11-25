@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="Lenovo-PC" Modified="2015-11-12 00:02:56 +0000" ModID="E9195DD0-367E-4ECF-A6DC-4FC94CEA116A">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="Lenovo-PC" Modified="2015-11-25 11:02:15 +0000" ModID="03863693-8D7F-481E-AB34-AAEC97404E5E">
     <Binder>
         <BinderItem ID="0" UUID="5AE5E444-0EBB-484D-A127-CC06FCE16D6C" Created="2015-05-21 13:40:33 +0000" Modified="2015-05-21 13:40:33 +0000" Type="DraftFolder">
             <Title>Bozza</Title>
@@ -278,27 +278,27 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="53" UUID="247660A8-3705-4AE3-8E1D-6EF59B841C96" Created="2015-11-11 01:57:06 +0000" Modified="2015-11-11 20:09:14 +0000" Type="Text">
+                        <BinderItem ID="53" UUID="247660A8-3705-4AE3-8E1D-6EF59B841C96" Created="2015-11-11 01:57:06 +0000" Modified="2015-11-18 19:17:41 +0000" Type="Text">
                             <Title>Priapurl</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>85,85</TextSelection>
+                                <TextSelection>109,109</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="54" UUID="F271C294-2E2C-4326-887E-03849EC12838" Created="2015-11-11 02:03:36 +0000" Modified="2015-11-11 20:32:34 +0000" Type="Text">
+                        <BinderItem ID="54" UUID="F271C294-2E2C-4326-887E-03849EC12838" Created="2015-11-11 02:03:36 +0000" Modified="2015-11-25 10:50:27 +0000" Type="Text">
                             <Title>Eventi</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2333,2333</TextSelection>
+                                <TextSelection>5169,5169</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="56" UUID="D68191EF-40F0-4DA7-A482-E45E6E0BC8D6" Created="2015-11-11 20:17:34 +0000" Modified="2015-11-11 20:19:30 +0000" Type="Text">
+                        <BinderItem ID="56" UUID="D68191EF-40F0-4DA7-A482-E45E6E0BC8D6" Created="2015-11-11 20:17:34 +0000" Modified="2015-11-18 20:18:52 +0000" Type="Text">
                             <Title>Personaggi</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -318,6 +318,26 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="59" UUID="8DF2C372-5544-448B-B0CD-0CF25F1BCCA7" Created="2015-11-18 19:29:42 +0000" Modified="2015-11-18 19:35:39 +0000" Type="Text">
+                            <Title>Interroga Topi</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>707,707</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="60" UUID="D7F5C720-900D-4412-961D-E6416950BD6A" Created="2015-11-25 10:04:23 +0000" Modified="2015-11-25 10:14:35 +0000" Type="Text">
+                            <Title>Raccogliere informazioni</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1204,1204</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem ID="7" UUID="A9D06D4D-6808-4B6C-B7A5-E6889D4080BE" Created="2015-05-21 13:56:54 +0000" Modified="2015-05-28 22:37:20 +0000" Type="Text">
@@ -330,13 +350,13 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="8" UUID="3EE34EC3-3EE6-43D0-A5AC-A7F629782C15" Created="2015-05-21 19:30:17 +0000" Modified="2015-11-11 01:24:14 +0000" Type="Text">
+                <BinderItem ID="8" UUID="3EE34EC3-3EE6-43D0-A5AC-A7F629782C15" Created="2015-05-21 19:30:17 +0000" Modified="2015-11-25 09:51:19 +0000" Type="Text">
                     <Title>PG</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>288,288</TextSelection>
+                        <TextSelection>338,338</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>

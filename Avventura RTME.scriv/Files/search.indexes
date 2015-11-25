@@ -89,9 +89,9 @@ Storie su eventi regione. Sespesh.</Text>
         </Document>
         <Document ID="8">
             <Title>PG</Title>
-            <Text>Becocci 	72	Esploratore		elfo della lune	Aerandil Carillon
+            <Text>Becocci 	72	Esploratore	elfo della lune	Aerandil Carillon
 Tara		78	Guerriero		Rashemi		Randall
-Emilio		72	Mago
+Emilio	72	Mago		Halfling		Ronnie
 Scaccio	76	monaco		Mulan		Yan Guan
 Pana		77	chierico di ogma	elfo del sole	Aerandir
 
@@ -101,24 +101,24 @@ EXP (Lv 5 a 10000)
 
 Becocci
 4
-5656
+6196
 Tara
 4
-5286
+5826
 Emilio
 4
-5156
+5696
 Scaccio
 4
-5356
+5896
 Pana
 4
-5716
+6556
 
 
 
 Ultimo mostro dato:
-Uccisione Belak
+Lupi Crudeli
 </Text>
         </Document>
         <Document ID="9">
@@ -1473,6 +1473,14 @@ AFFIINNR
         <Document ID="53">
             <Title>Priapurl</Title>
             <Text>Divisa in 6 quartieri, senza mura, ma con caratteristiche che cambiano rapidamente.
+48 guardie professioniste
+
+Collina d’argento
+Guado Ovest
+Mercato della strada delle Ciarle
+Porta Ovest (Porta Est)
+Sperone Nord (sperone sud)
+Collina Est (Collina ovest)
 ￼￼</Text>
         </Document>
         <Document ID="54">
@@ -1482,8 +1490,14 @@ AFFIINNR
 La cittadina di Priapurl è adagiata su una piccola collina, sulla strada mercantile. Mura di pietra merlate, interrotte da alte torri di guardia, circondano gli edifici, ma oggi la vita della città si riversa al di fuori delle sue mura. Carretti variopinti, bandiere, nastri e personaggi di ogni genere affollano la strada per 90 metri oltre la porta. Dozzine di halfling in costumi sgargianti dirigono la maggior parte delle attività. Un mormorio indaffarato e palpitante sale dalla fiera, e gli aromi di carni arrosto, spezie esotiche e fiori tagliati di fresco impregnano l’aria.
 Vicino alle porte, il movimento della folla che si fa strada dentro la città si riduce a un lento strisciare. Quattro guardie cittadine, vestite con tabarri rosso brillante, squadrano con attenzione ogni visitatore, nonostante un’apparenza rilassata e amichevole. Vi sembra di scorgere le guardie mentre assicurano le armi alle relative custodie con fasce di cuoio.
 
+Urin, Ered, Fored, Nandorin
 Guardia (4): 3, 4, 4, 5 pf  (se lanciano l’allarme arrivano altre 4 in 1d4+2 round)
 ￼
+
+Tutte le armi taglienti devono essere assicurate. Le spade legate ai foderi e lancie e roba simile vengono coperte con borse di cuoio, che vengono poi legate. Serve un round completo per preparare l’arma. Colpire con una lancia in questo stato -2 Colpire e Danni 
+Se hanno dubbi chiedono se si è maghi o stregoni, assicurano una grossa striscia di cuoio attorno al dito medio e anulare e cercano componenti magiche/libri. Lanciare incantesimi cosi dà il 30% di fallimento. 1 round completo per togliersi la fascia. Se si mente 10 MO di multa.
+Ai chierici neutrali o malvagi chiedono di assicurare il simbolo sacro alla borsa.
+
 2. Entrate alternative
 
 Gli altri 2 accessi alla città sono la Porta dello Sperone Sud e la Porta del Vecchio Guado. Due guardie controllano ogniuna di queste entrate 24 ore al giorno.
@@ -1494,11 +1508,29 @@ I personaggi possono scalare le mura alte 7,5 metri (Scalare CD 30).
 Le strade di Priapurl brulicano di attività: la fiera riempie completamente la strada principale della città, già non molto larga di suo, restringendola ulteriormente con I carretti e le bancarelle che costellano I due lati. Fortunatamente ai carri viene impedito il transito, ma I pedoni sono sufficienti per intralciare il passaggio. Artigiani, intrattenitori e mercanti si affacciano dalle bancarelle, intenti a richiamare l’attenzione dei passanti descrivendo alla folla le proprie merci.
 Al di sopra di tutto ciò, due sagome si stagliano sull’orizzonte. Un maniero circondato da mura corona la collina sul lato sud, mentre nel centro della città un enorme campanile si erge come una sentinella.
 
+Leggere il Pdf.
+
 4. Fiere alla fiera
 
 Un urlo proveniente dal centro dell’affollata fiera si propaga in una catena di grida e strilli, accompagnati da rumorosi botti che suonano come carri rovesciati. Il rumore si trasforma immediatamente in un’ondata di persone in fuga da qualsiasi cosa le abbia spaventate.
 
+Per raggiungere il posto (circa 45 metri) si deve trovare un varco tra la folla impaurita. Si può fare una prova di Forza, Artista della fuga o Intimidire. CD 15. Se si fallisce si va a metà del movimento.
+Arrivati a 6 metri dal luogo: Si trova una scena di totale caos, carri rovesciati, bancarelle distrutte, merci sparse sul pavimento stradale. Un gruppo di mercanti sta cercando di tenere testa, con armi improvvisate a diversi grandi topi.
+I quattro topi mannari continuano la loro opera di devastazione, mentre I topi crudeli scorazzano tra le macerie mordendo chiunque non sia stato abbastanza veloce da scappare.
+
+Topi Crudeli (5): 5, 5, 2, 3, 9 pf
+Topi Mannari (3): 16, 13 pf
+Squim : 20 pf
+
+Dopo 2d10 minuti:
+Guardia (4): 8, 6, 3, 6 pf  (se lanciano l’allarme arrivano altre 4 in 1d4+2 round)
+
 ￼￼
+
+Tattiche: Se un topo mannaro viene ucciso prima dell’arrivo delle guardie gli altri fuggono lasciando I topi crudeli. Altrimenti cercano di colpirne il più possibile preferendo la fuga alla morte.
+Quando scappa (ricordarsi che vanno di 12), ogni round effettuare prima raggirare (+0, +5) e poi Nascondersi (+11) con bonus +1 per ogni 3 metri di distanza, per eludere l’inseguimento.
+
+Se si dirigono al campanile vai a evento 12.
 
 6. E ora?
 
@@ -1509,7 +1541,17 @@ Collina Ovest ——&gt; 13
 
 7. Pedinati
 
-Qualcuno vi sta seguendo: un uomo grosso dai lunghi capelli neri, con uno stocco in cintura. Potrebbe non essere solo.</Text>
+Qualcuno vi sta seguendo: un uomo grosso dai lunghi capelli neri, con uno stocco in cintura. Potrebbe non essere solo.
+
+Una coppia di topi mannari pedina I pg a una distanza di 15 metri (Nascondersi -4 contro Osservare -5)
+Per eludere I topi mannari (Raggirare contro Percepire Intenzioni +1) o (Nascondersi contro Osservare -4)
+I Pg possono attirarli in un imboscata, gli stessi mannari vogliono attaccare quando c’è meno persone possibili (es un negozio poco frequentato, un vicolo deserto).
+I mannari si trasformano in forma ibrida all’inizio del combattimento, per intimorire I PG, Scappano quando sotto la metà dei PF. Gli è stato ordinato di uccidere I PG perchè “hanno causato problemi” durante la fiera. Non sanno nient’altro se non che vivono tutti nel campanile.
+
+8. Al Mercato
+
+La porta e il mercato sono stati le vittime negli ultimi mesi dell’attacco dei topi mannari. I mostri si sono dedicati a estorsioni e rapine, sfruttando la loro forma di topi per eludere le guardie, I topi però non sono mai apparsi in forma ibrida e non hanno mai rivelato in altro modo la loro natura. Le guardie erano a conoscenza dei crimini e hanno ricevuto rapporti riguardo a ladri molto sfuggenti, ma niente indicava che la causa di tutto potessero essere licantropi.
+Si può usare la tabella 5-5 del DM per I tratti dei mercanti. (inizialmente sono indifferenti, con CD 15 esprimono opinioni chiacchere etc, CD 30 ammettono di essere stati vittime di un crimine,mandano I PG alla Fucina di Shomma</Text>
         </Document>
         <Document ID="55">
             <Title>Distanze</Title>
@@ -1522,7 +1564,13 @@ Tar Hurara, ragazzina.
 
 Compagnia Mercenaria Mindulgulph
 
-￼</Text>
+￼
+
+Garylana Bloodsword (umana 12)
+
+Hiol Ascia Pazza (Orco di montagan 8)
+
+Vaendaléìr (ranger di Nobanion wimic 10)</Text>
         </Document>
         <Document ID="57">
             <Title>Compagnia mercenaria Priapurl</Title>
@@ -1539,6 +1587,29 @@ Compagnia Mercenaria Mindulgulph
 Figura d’Autorità: comandante Garylana Bloodsword (Grr 12 umana LN)
 Personaggi Importanti: Alówen Adwerrann (Grr 3/ Str 7 elfa della luna N), Thoraim Faalaxe (Chr 9 di Clangeddin Silverbeard/ Warpriest 2 nano degli scudi CN) Hiol Ascia Pazza (Bbr 8 orco di montagna NM)), Vaendaléìr (Rgr 10 di Nobanion wemic m CN), Gaehannockduàn ‘Gae’ (beholder N), Shádr (thri-kreen CN), Khoitrem Lash (Mag 11 umano LM)
 Altri: Integrati; Grr7, chr7, ldr7, mag7, com7 (10), grr6 (2), ldr6 (2), bbr6, grr5 (4), chr5(2), rgr5, bbr5 (2), com5 (50), mag5 (2), str5, grr4 (8), chr4 (4), mag4 (4), grr3 (16), chr3 (8), ldr3 (4), str3 (2), grr2 (32), chr2 (16), com2 (80), bbr2 (4), mag2 (8), com1 (120), esp6 (4), esp4 (6), esp3 (8), esp2 (10), esp1 (18), grr1 (20), rgr1 (10), mag1 (10), chr1 (10), ldr1 (10), wemic (classi varie) (10), orchi di montagna (classi varie) (10), beholder (5), thri kreen (5).</Text>
+        </Document>
+        <Document ID="59">
+            <Title>Interroga Topi</Title>
+            <Text>I topi mannari sanno che tutti I mannari vivono nel campanile al centro della città. I sottoposti sanno solo che Squim (il loro capo mannaro) ha ordinato questo attacco con lo scopo di uccidere più guardie cittadine possibili.
+
+Solo Squim:
+Ha incontrato qualche volta una stregona chiamata “La Benedetta”. Questi incontri avvenivano nel retro di un negozio di libri nella collina est, ma non è in grado di ritrovalo dato che vi era sempre stato condotto da figure incappucciate.
+La benedetta indossava ogni volta una veste con cappuccio e sedeva nell’oscurità.
+Squim crede sia pazza perchè ogni volta va farneticando di un’entità chiamata “La voce nei sogni”
+
+Con localizza oggetto si va verso il campanile.</Text>
+        </Document>
+        <Document ID="60">
+            <Title>Raccogliere informazioni</Title>
+            <Text>Informazini Cittadine:
+
+10+: Una guardia cittadina fuori servizio, un po’ brilla, rivela che crede che il barone terrà un discorso la mattina seguente: “Sentirete le trombe degli araldi”. La guardia rivela anche che il capitano delle guardie cittadine, un certo Merdick Forren, è scomparso il giorno prima dell’inizio della fiera. E’ stato visto dalla guardia l’ultima volta nel mercato delle ciarle.
+
+15+: Uno scontroso giovanotto di strada spiega che di recente si è verificato un certo numero di macabre morti nello Sperone. Nessun corpo è stato ritrovato, ma l’enorme quantità di sangue presente sulle scene lascia pochi dubbi sul destino delle vittime.
+
+20+: Una cameriera civettuola racconta una storia che circola in città sul “fantasma che risiede nella Collina”. I residenti e I visitatori hanno udito strane e inquietanti risate lungo le strade, senza una fonte definita. I racconti dicono che uno studioso, impazzito per le sue esplorazioni di “cose che I mortali non dovrebbero sapere”, si sia suicidato e che il fantasma ora infesti il suo vecchio quartiere.
+
+25+: Un barista molto riservato, incantato dal Carisma di un personaggio, mormora soltanto: “E’ pieno di topi nel campanile, sono ovunque”</Text>
         </Document>
     </Documents>
 </SearchIndexes>
